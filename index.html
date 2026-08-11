@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="财经日报：每日整理可核验财经新闻，解释背后的金融知识点与经济影响。"
+    />
+    <title>财经日报</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Sora:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="atmosphere" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <div class="brand-mark">财经日报</div>
+      <nav class="archive" aria-label="往期">
+        <label for="edition-select" class="sr-only">选择日期</label>
+        <select id="edition-select"></select>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="hero">
+        <p class="hero-kicker" id="hero-date">加载中…</p>
+        <h1 class="hero-brand">财经日报</h1>
+        <p class="hero-lede">
+          每天梳理可核验的财经新闻，讲清背后的金融与经济学逻辑，以及对国内外经济与市场的可能影响。
+        </p>
+        <a class="hero-cta" href="#digest">阅读今日简报</a>
+      </section>
+
+      <section class="digest" id="digest" aria-live="polite">
+        <div class="status" id="status">正在加载今日内容…</div>
+        <ol class="items" id="items"></ol>
+      </section>
+
+      <footer class="site-footer">
+        <p id="disclaimer"></p>
+        <p class="meta" id="generated-at"></p>
+      </footer>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

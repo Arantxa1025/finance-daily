@@ -1,0 +1,56 @@
+name: Daily finance brief
+
+on:
+  schedule:
+    # 09:00 Asia/Shanghai (UTC+8, no DST) → 01:00 UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      edition_date:
+        description: "期次日期 YYYY-MM-DD（留空则自动取北京时间前一日）"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-finance-brief
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate daily brief (MiniMax)
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_BASE_URL: ${{ vars.MINIMAX_BASE_URL }}
+          MINIMAX_MODEL: ${{ vars.MINIMAX_MODEL }}
+          DAILY_BRIEF_DATE: ${{ inputs.edition_date }}
+        run: node scripts/run-daily-brief.mjs
+
+      - name: Commit and push
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          DATE="${{ inputs.edition_date }}"
+          if [ -z "$DATE" ]; then
+            DATE=$(node -e "const p=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());const g=t=>Number(p.find(x=>x.type===t).value);const y=g('year'),m=g('month'),d=g('day');const dt=new Date(Date.UTC(y,m-1,d));dt.setUTCDate(dt.getUTCDate()-1);process.stdout.write(dt.toISOString().slice(0,10));")
+          fi
+          git add data/
+          git commit -m "daily: ${DATE} 财经日报"
+          git push

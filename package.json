@@ -2,9 +2,11 @@
   "name": "finance-daily",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "每日财经简报：新闻出处、知识点与市场影响解读",
   "scripts": {
     "dev": "python3 -m http.server 5173",
-    "start": "python3 -m http.server 5173"
+    "start": "python3 -m http.server 5173",
+    "daily": "node scripts/run-daily-brief.mjs"
   }
 }

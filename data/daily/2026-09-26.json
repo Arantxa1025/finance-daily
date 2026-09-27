@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-26",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-09-27T14:39:10+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-09-26-01",
+      "headline": "美联储批准Peoples Bancorp Inc.相关申请",
+      "summary": "美国联邦储备委员会于2026年9月25日（美东时间）发布公告，宣布批准Peoples Bancorp Inc.提交的申请事项。具体申请内容以美联储官方公告为准。",
+      "concepts": [
+        {
+          "term": "美联储（Federal Reserve）",
+          "explanation": "美国的中央银行体系，负责制定货币政策、监管银行机构，并通过公开市场操作、再贴现率与法定准备金率等工具影响利率与流动性。"
+        },
+        {
+          "term": "银行并购审批",
+          "explanation": "在美国，涉及银行控股公司或银行机构的合并、收购等交易通常需要获得美联储等监管机构的批准，审批通过与否关系到银行业集中度与竞争格局。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储对银行业并购的审批属于常规监管行为，对我国内地经济直接影响有限；可能为中美跨境金融监管沟通提供参考。",
+        "globalEconomy": "该批准属于美国银行业整合进程的一环，市场关注美联储对中小银行并购的态度，及其对银行业竞争格局的潜在影响。",
+        "markets": "相关并购获批或带动美国区域性银行板块情绪，但对国内A股、债市直接影响有限，汇率与跨境资金流动或间接受关注。"
+      },
+      "sources": [
+        {
+          "publisher": "Federal Reserve",
+          "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+          "publishedAt": "Fri, 25 Sep 2026 20:30:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "本期候选来源仅提供1条可核验新闻（美联储公告），低于3条门槛，故items仅收录该已核验条目，未做任何虚构或补全。"
+}

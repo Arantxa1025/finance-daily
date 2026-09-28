@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-27",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-09-28T14:34:48+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-09-27-01",
+      "headline": "央行例会措辞调整：删去\"跨周期\"、加码稳汇率",
+      "summary": "据新浪财经报道，市场关注央行近期例会措辞变化，\"跨周期\"相关表述被删除，同时强化了对人民币汇率稳定的关注，相关信号引发市场对后续货币政策方向与汇率政策力度的讨论。",
+      "concepts": [
+        {
+          "term": "跨周期调节",
+          "explanation": "相对于\"逆周期调节\"，跨周期调节强调在更长时间窗口内统筹考虑经济运行，避免短期大幅波动，常见于央行政策表述中。"
+        },
+        {
+          "term": "稳汇率",
+          "explanation": "指央行通过中间价定价、宏观审慎工具、外汇储备管理等手段抑制汇率过度波动，维持人民币对一篮子货币的基本稳定。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "市场关注货币政策基调是否更偏短期稳增长，稳汇率措辞强化或有助于稳定跨境资本流动预期。",
+        "globalEconomy": "人民币汇率信号若趋稳，可能对新兴市场资产与跨境贸易结算环境产生外溢影响。",
+        "markets": "外汇市场关注人民币中间价与波动区间；债券市场关注货币政策措辞变化；股市关注风险偏好变化。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "删去\"跨周期\"、加码稳汇率，央行例会措辞变化释放什么信号？",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWNVSDZ4YTdsdFRfd3lmUnZ4VEJ0YzVVdzl4OEZpU0RXX2JVOTBsbWxtUHdJc2dyY3lYVC1qV1diT0J2YjhpR2J1bTF6Y3pBNV9CYk1DTmRFVFp6dnF4MTdaa1k1d2dRZDBIUjRMV0ZjY0pMLUd2Nks5QVhnNFk2Uzl0dw?oc=5",
+          "publishedAt": "Sun, 27 Sep 2026 07:28:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-02",
+      "headline": "A股指数体系即将\"上新\"",
+      "summary": "新浪财经报道，A股市场指数体系将迎来调整，新增相关指数。市场关注这是否将进一步丰富被动投资与衍生品跟踪标的，对指数化投资生态产生影响。",
+      "concepts": [
+        {
+          "term": "指数化投资",
+          "explanation": "指以复制特定股票指数表现为目标的被动投资方式，常见载体包括ETF、指数基金等，其规模与标的指数的覆盖度密切相关。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "指数体系完善或为中长期资金提供更丰富的配置选择。",
+        "globalEconomy": "对全球资金配置A股的便利度可能边际提升。",
+        "markets": "指数编制机构与样本股或面临资金流向变化；ETF与指数基金产品线可能扩容。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "A股大消息！指数即将\"上新\"",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLMVRXM21NRklYVmY1UUZ2STZlZktFaGFvTUxQNEE2bXowSVB0cXl2T3o1NjlDSncxT0tFdEQ5a19ScEZuTkY4M09kSmlLSEE4S1A0ckt1NUdkRDd4OXFBX1F3VTY1QW9fekpHWTJCNDZyaGwwZWc?oc=5",
+          "publishedAt": "Sun, 27 Sep 2026 13:45:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-03",
+      "headline": "香港证监会就延长股市交易时间与内地接触",
+      "summary": "据新浪财经报道，香港证监会表示已就可能延长股市交易时间与内地进行接触。市场关注这一动向对未来沪深港通覆盖时段、跨境资金管理以及投资者交易便利度的影响。",
+      "concepts": [
+        {
+          "term": "沪深港通",
+          "explanation": "沪股通、深股通、港股通的合称，是内地与香港股票市场互联互通机制下跨境投资的主要通道，其交易时段受两地市场开市时间约束。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若交易时间延长并与内地更匹配，可能改善跨境资金流动效率。",
+        "globalEconomy": "或提升香港市场对国际投资者的吸引力，影响区域金融中心竞争格局。",
+        "markets": "券商与交易所系统、衍生品对冲安排或需相应调整；日内流动性分布可能变化。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "香港证监会：就可能延长股市交易时间，已与内地进行接触",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0RVdnZm9vQ0w2ZmdOeGhNM0Vla25haXdhelQ0Z2xYRUNfT002MEdkMWlTT01LNlB4bHVuY1BZYnB0a2RZbWJybE5vTVJiWWxNV2VvNWFqYlRkX2xhblY5TFkzTU9IZWJmbmtrZ3cxdmMzV0V2ODI2Vw?oc=5",
+          "publishedAt": "Sun, 27 Sep 2026 13:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-04",
+      "headline": "韩国央行警示全球市场不确定性上升",
+      "summary": "36kr.com报道，韩国央行表示全球市场不确定性上升，将密切关注市场动态。该言论时点与全球风险情绪、汇率与跨境资本流动议题相关。",
+      "concepts": [
+        {
+          "term": "全球市场不确定性",
+          "explanation": "通常指主要经济体货币政策、地缘事件、汇率与大宗商品价格波动等多重因素叠加，使跨境资产定价难度上升的状态。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "对韩国出口导向型经济而言，全球不确定性上升可能影响出口订单与制造业景气。",
+        "globalEconomy": "或促使亚洲主要央行在沟通中保持灵活性，影响区域货币与利率预期。",
+        "markets": "外汇与利率市场关注亚洲央行表态；股市关注风险偏好变化。"
+      },
+      "sources": [
+        {
+          "publisher": "36kr.com",
+          "title": "韩国央行称全球市场不确定性上升，将密切关注市场动态",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sTkp1Y2tfWjVxSG92TndpdWNvVnNZUnBEdEJicVZtYjFodkpKOTh1TmkweHBud1RJUEUwaWx5Y3FuV3k2X1g4RXZadGp0QkxWRVZZaTdqOEdDV0U?oc=5",
+          "publishedAt": "Sun, 27 Sep 2026 09:36:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-05",
+      "headline": "布伦特原油价格突破99美元/桶",
+      "summary": "新浪财经报道，布伦特原油价格在暗盘突破99美元/桶，日内涨幅超过2.4%。消息时点临近，叠加地缘与供需面因素，引发市场对能源价格传导的关注。",
+      "concepts": [
+        {
+          "term": "布伦特原油",
+          "explanation": "国际原油市场重要基准价格之一，常用于衡量全球原油供需与地缘风险溢价，其波动对交通运输、化工与通胀预期有广泛影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "原油价格上行或抬升进口成本，对交通运输、化工等行业成本端形成压力。",
+        "globalEconomy": "可能加剧全球通胀压力，影响主要央行政策路径预期。",
+        "markets": "能源股或受关注；化工、航空等下游行业成本预期变化；通胀预期可能影响债券收益率。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "布伦特原油暗盘突破99美元，日内涨超2.4%。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zZjB5U1ZmaUFHbVhmc2h4NHhCTkx6eDdBRkFtZ0I1TUdzckpCYWJfeEtOam1xcUZ4Vjd5dVctTzNlTmE4ZWRwSlprNDZ5X0E?oc=5",
+          "publishedAt": "Sat, 26 Sep 2026 17:19:55 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "本期候选来源较多，但部分条目为天气预报、文体娱乐、地方动态或个股一般性公告（如杭州暴雨、亚运报道、丽珠集团人事变动等），与宏观政策、央行、就业通胀、重要监管/财报及大宗商品/汇率等广泛影响主题相关性较低，未纳入本期日报；另有部分条目（如A股指数\"上新\"、香港证监会表态、布伦特原油报价）虽已纳入，但目前仅获得标题级证据，未见正文细节，相关影响表述以\"市场关注\"等措辞呈现。"
+}

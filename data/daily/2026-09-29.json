@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-29",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-09-30T14:31:52+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-09-29-01",
+      "headline": "中国央行加码结构性货币政策工具：PSL降息扩围，科创与民企再贷款增加额度",
+      "summary": "中国央行调整完善若干货币政策工具。财新报道，央行加码结构性政策工具，包括抵押补充贷款（PSL）降息扩围，并提高科创与民营企业再贷款额度。中新网亦报道央行同日调整完善若干货币政策工具。",
+      "concepts": [
+        {
+          "term": "抵押补充贷款（PSL）",
+          "explanation": "央行向政策性银行提供的低成本资金工具，主要用于支持棚改、基建等特定领域，利率与额度变化直接影响相关信贷投放规模。"
+        },
+        {
+          "term": "结构性货币政策工具",
+          "explanation": "针对特定行业或群体（如科创、民企）的定向信贷支持工具，与总量工具不同，旨在精准引导资金流向。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "可能加大对科创、民企及基建重点领域的信贷供给，降低相关融资成本。",
+        "globalEconomy": "中国结构性宽松对全球外溢效应相对有限，但若配合财政发力，可能间接提振大宗商品需求预期。",
+        "markets": "市场关注后续 PSL 利率与额度细节，相关板块（基建、科创、民企融资链）关注度或上升。"
+      },
+      "sources": [
+        {
+          "publisher": "finance.caixin.com",
+          "title": "央行加码结构性政策工具：PSL降息扩围、科创与民企再贷款增加额度",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqOVcwSzE4M0xCV01oNjNFLWlqaUtXYkZRRlJpVW9HUnZZdTZibzZXRGc3Y1BNQTg0clAzejZ1NlhOTEtieFdvdzU5UDFpbHZTZEF1QjVxaDVnNlNZLWR6aDVn?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 12:18:00 GMT"
+        },
+        {
+          "publisher": "chinanews.com.cn",
+          "title": "中国央行调整完善若干货币政策工具",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWNXpFenk1Sk4ybWdCN1ltbWdhNk1oc0FMWlA4WFN1Z0ZxSEY0WDJPc3lNek1OUWRXSUhLTFo4clNVM09KbGprT1pmTUo0b01OVzRGVTRDaWpTSm93Zy0xaVpraS1sNkFW?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 12:59:08 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-02",
+      "headline": "央行等部署金融支持轻资产服务业，重点满足AI研发、算力布局等融资需求",
+      "summary": "财新报道，央行等部门联合部署金融支持轻资产服务业，明确要满足人工智能研发、算力布局等领域融资需求。中新网同日报道央行表态，金融机构支持服务业不要求面面俱到，将聚焦重点领域。",
+      "concepts": [
+        {
+          "term": "轻资产服务业",
+          "explanation": "以知识、技术、数据为核心资产的服务行业，如AI研发、算力服务等，相比传统重资产模式，融资依赖无形资产评估。"
+        },
+        {
+          "term": "算力布局",
+          "explanation": "数据中心、智算中心等算力基础设施的规划与建设，是AI产业发展的关键支撑，对应大规模资本与电力需求。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "可能推动金融机构针对AI、算力等轻资产行业开发专属信贷与评估工具，缓解其融资约束。",
+        "globalEconomy": "在全球AI算力竞争背景下，中国加大相关金融支持或影响国际算力供应链与人才流动格局。",
+        "markets": "AI算力相关板块（芯片、服务器、数据中心）关注度或上升，债市关注针对轻资产服务业的创新型融资工具。"
+      },
+      "sources": [
+        {
+          "publisher": "finance.caixin.com",
+          "title": "央行等部署金融支持轻资产服务业 满足AI研发、算力布局等融资需求",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFX1hUdkNDUU9zdUNfQUdtcTVWZnhJLVMxVGZRYmVQdXBVNDdPSmRTYjhRakg5S1BSbU1WUUI0cGRjQ1B5WmFXdEEwdWQ0QUFlRzBvLXYxTklxTU84R1ZqRkVn?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 08:15:00 GMT"
+        },
+        {
+          "publisher": "chinanews.com.cn",
+          "title": "中国央行：金融机构支持服务业不要求面面俱到",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBONHhLZGwzV2xhaWlGendyeUhaaS16OEtPblhZM295MTNDcExSdWtPYWl3TGJkQU9fZnhqdzhMYTgwdmJhbkRLUkVnYy1sRWowNWg4Rjg3bV9KazFqZGlfb2xleUlDQ2I3?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 06:56:39 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-03",
+      "headline": "美国能源部宣布释放战略石油储备，拟投放最多4000万桶原油",
+      "summary": "新浪财经报道，美国能源部宣布释放战略石油储备（SPR），拟从SPR投放最多4000万桶原油，以应对市场供应紧张。",
+      "concepts": [
+        {
+          "term": "战略石油储备（SPR）",
+          "explanation": "由国家政府持有、用于应对短期供应中断或自然灾害等紧急情况的原油储备，释放通常意在平抑价格或补充市场缺口。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "短期可能增加国际原油供应，但对中国国内成品油价格直接影响有限，主要通过进口成本传导。",
+        "globalEconomy": "可能阶段性缓解全球原油供需紧张，国际油价或受到一定抑制；但投放节奏与规模仍待确认。"
+      },
+      "sources": [
+        {
+          "publisher": "cj.sina.cn",
+          "title": "美国能源部宣布释放战略石油储备（SPR），拟从战略石油储备投放多达4000 万桶原油。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5waXVLNjRiT3pXSkZMTmRFbkxKYWhBekt6VURpOVBkdnQ4OEw5ZVB1bTN3NzBDSmp4WHloNHhfbFlKTFBIWGhGTjBvRW5hMUU?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 15:54:35 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-04",
+      "headline": "美联储理事库克：AI无法抵消短期通胀压力，就业市场能承受再加息",
+      "summary": "新浪财经报道，美联储理事库克表示，人工智能无法抵消短期通胀压力，并认为当前美国就业市场仍能承受再次加息。同日，CNBC称本周三将发布PCE物价指数，被视为美联储主要通胀观察指标。",
+      "concepts": [
+        {
+          "term": "PCE物价指数",
+          "explanation": "个人消费支出价格指数（Personal Consumption Expenditures Price Index），美联储偏好的通胀衡量指标，权重更侧重服务业消费。"
+        },
+        {
+          "term": "美联储加息",
+          "explanation": "通过上调联邦基金利率目标区间，抑制总需求以控制通胀，但会增加企业融资成本与居民信贷负担。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储紧缩倾向或推高美元指数与美债收益率，加大新兴市场资本外流压力，间接影响人民币与跨境资本流动。",
+        "globalEconomy": "若美联储再度加息，全球金融条件可能进一步收紧，新兴市场货币与资产价格或承压。",
+        "markets": "市场关注本周PCE数据与后续美联储表态，美债收益率与美元走势可能加大波动。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "美联储理事库克：AI无法抵消短期通胀压力 就业市场能承受再加息",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kRTRqRDM2QmV1R2lZMzZ4aDVCT1BwZUFEN1Nfa250RFg2VU5EckpJb0hwamNRTGdNSFVZVkR5Y0ZBbXdQem5qNzN6d191YjRYM0NDMHJKRGFLMFh3VEtOWUxnRWRuc3REaU9VUUc5NGhJVE1yeDVqTTl3?oc=5",
+          "publishedAt": "Mon, 28 Sep 2026 19:11:00 GMT"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakExZFdhdVJNaW5xUFAtSlRXTGtTU1YweGJpUk9uS0hoVjVjUmV5RlA2U05Scnh0a2tVZHNVa0hBaWVXd3ItVmxwbW41eU1SbUhSZFJpRUFlQ0c5aUVkVXNtT3RQZUVuS0NMQVdNTmNDUnVOQlBSVFU1SG9YYnBNMExEV3NzdlhvNUZoZzdBdTZpdFRSaFAxamFiYm1KcXdoZkJGN0NRd1Y2RDZLNG94WVBhaWhDVEXSAbwBQVVfeXFMUHdMclZnNXhxNlZGd0s0eC1XQ19fZGhLWEQwdVh2cjdyTEhBbTBLMFNhd1d4YWFVZ2QwZnItVTlkRzlsdXFHb2lkQUJQZFQ2TFltS29fdHRKMW1EbVh0TThWUE9uX2IzLVhCNzNYWlFPa29SdVlpSWdKbU9xNG9wZXczUGxvTG9IYmgzaTVuMFNNaVNUS1d5alpJREhOQkEtYlhXcTUwT2RVX2REZkE0WlA5Z1JuN0h5MHpEMjg?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 19:07:29 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-05",
+      "headline": "房贷贴息政策落地：贴息1个百分点，最高可节省利息近5万元",
+      "summary": "中华网与新浪财经报道，房贷贴息政策正式落地，对购房贷款贴息1个百分点，消费者最高可节省利息近5万元。报道称为房地产领域重要政策举措。",
+      "concepts": [
+        {
+          "term": "房贷贴息",
+          "explanation": "政府或财政资金对居民住房按揭贷款利息给予部分补贴，相当于直接降低购房者的实际融资成本。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "短期内或刺激刚需与改善型购房需求，缓解房地产销售压力，但具体效果取决于覆盖范围与申请门槛。",
+        "globalEconomy": "国内房地产需求政策对全球经济外溢效应有限。",
+        "markets": "房地产板块关注度或上升，地产链上下游（建材、家电、家居）可能间接受益。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "房贷贴息1个百分点 新政策助力购房",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MbFZnaFVoclRmSkducmdSOFJJUkZaRTBUc0RFTzV1ZFkyRVRvbXZPX3hSZC1vSmRqekJsRUFWQV95cjc0WTNkVE1KUXllclJlcVp5bGJtWHhFLTNDd2h3b1QteG1lcDRvaHE1UWIxd3o?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 12:28:11 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "房地产迎来史诗级大招 房贷贴息政策落地",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NbWNwSHpXN0l5MDhwOUFDMlBFVTN3d3RBVDQ5cXNORjdUbDlVM1d2anItUE9TQm1ncVRrQnZ1MFR3bzNKSjJzc3R0dWlWaENhWXhxOXk5ZXV6N1ZOLWU5bHV2UEt2d25pN3dzQnhCa3Y?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 13:02:47 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-06",
+      "headline": "欧洲央行管委艾斯克里瓦：利率仍未进入限制性区域，关注全球长期利率上行",
+      "summary": "新浪财经报道，欧洲央行管委艾斯克里瓦表示，当前利率仍未进入限制性区域，并开始担心全球长期利率的上升趋势；同日他还表示高能源价格可能使通胀固化，并可能给利率带来上行压力。",
+      "concepts": [
+        {
+          "term": "限制性利率水平",
+          "explanation": "指政策利率高于中性利率，足以抑制总需求与通胀的区间；判断利率是否“限制性”影响未来加息或降息路径。"
+        },
+        {
+          "term": "长期利率",
+          "explanation": "10年期及以上主权或公司债券收益率，反映市场对未来增长、通胀与货币政策的综合预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "欧元区货币政策趋紧预期或推高欧元资产收益率，对中国跨境资本流动与出口竞争力的间接影响相对可控。",
+        "globalEconomy": "全球长端利率上行可能加大新兴市场债务与汇率压力，金融条件或整体趋紧。",
+        "markets": "欧债收益率上行可能外溢至全球长债市场，投资者关注通胀粘性与能源价格后续走势。"
+      },
+      "sources": [
+        {
+          "publisher": "cj.sina.cn",
+          "title": "欧洲央行管委艾斯克里瓦：利率仍未进入限制性区域。我开始担心的是全球长期利率的上升趋势。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TeWMwRWVWXzZKYVVERm1MRlhkVkVSdF9kTmFpeVFsQ1Z5bnRRdWRJcGNLa1FvV2VTRzk2ejZGal8wRXNZSTNIXzlBaEpsSXM?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 11:49:01 GMT"
+        },
+        {
+          "publisher": "cj.sina.cn",
+          "title": "欧洲央行委员埃斯克里瓦：高能源价格可能使通胀固化。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zV1FlT05FOEtOSHpucWlJSGZQcnhSZzk3Z0lJc2JJRVFDNFVtNU43R2ZuNVY3OVY0NVFfZjdQd05NRHpmaTk3QUVTVnRuMlk?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 11:54:03 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "今日另有中国人民银行行长潘功胜会见欧盟驻华大使范恺珀（新浪财经）、央行开展905亿元7天期逆回购操作（fznews.com.cn）、现货黄金突破4130美元/盎司（cj.sina.cn）、20号胶连续主力合约日内跌4%（cj.sina.cn）、沪深股市低开（cj.sina.cn）、创业板创新低报道（新浪财经）、韩股拉升翻红日股扩大跌幅（每日经济新闻）、欧洲股市尾市回吐（gbcode.rthk.hk）、美联储Williams见金融数据首席表示无紧迫加息（Reuters）、王传福当选比亚迪董事长（新浪财经）、源杰科技股东减持（中华网财经）、港交所冼韵妮谈指数业务发展（gbcode.rthk.hk）等多源报道，因条目数量限制或与已选条目主题重复，未单列。"
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-01",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-02T14:52:27+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-01-01",
+      "headline": "彭博美元现货指数上涨0.6%，创日内新高；美元指数突破102关口",
+      "summary": "据新浪财经报道，10月1日彭博美元现货指数上涨0.6%，创日内新高；同日美元指数突破102关口，日内涨幅约0.53%。市场关注美元走强对全球资本配置与新兴市场资产的影响。",
+      "concepts": [
+        {
+          "term": "美元指数",
+          "explanation": "衡量美元对一篮子主要货币强弱的综合指标，数值上升通常代表美元相对走强。"
+        },
+        {
+          "term": "避险情绪",
+          "explanation": "在地缘风险或市场不确定性上升时，资金往往回流美元等传统避险资产，推升美元指数。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "人民币等非美货币或面临阶段性贬值压力，输入性商品价格可能受到关注。",
+        "globalEconomy": "美元走强可能加大新兴市场债务偿付压力，并影响全球贸易结算成本。",
+        "markets": "外汇市场美元相关品种走强；新兴市场股市、债市或承压；黄金等以美元计价的大宗商品价格通常受到反向影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "彭博美元现货指数上涨0.6%，创日内新高。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pcHlLQncxa0Vabm1hN01ZcmNweFVxUkt6TTVTbUZYR25DdnpXY0VxQUZMcW1ueFByRFQwNXJkMlJ5UzZVZWU1aHNaSGIta28?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 15:55:54 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "美元指数突破102关口，日内涨0.53%。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NSkxOYkdEd0RkSlNIbUVVd0k3US1SQkM2bFlYTjNTWjB6QVNsTTZlNkEtXzVFV280aUdaMU52QnBhY1dyaDA2SXBfM29zQ2M?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 15:30:44 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-02",
+      "headline": "美国10年期国债收益率升至5.29%，创2007年以来新高",
+      "summary": "据新浪财经报道，美国10年期国债收益率一度升至5.29%，盘中触及5.304%，为2002年5月以来最高水平。市场关注美债收益率走高对全球资产定价的影响。",
+      "concepts": [
+        {
+          "term": "国债收益率",
+          "explanation": "国债到期收益率，反映资金的时间价值与对通胀、风险的定价；收益率与债券价格呈反向关系。"
+        },
+        {
+          "term": "无风险利率",
+          "explanation": "通常指美国10年期国债收益率，是全球资产定价的基准之一，其上行会抬升其他资产的折现率。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "中美利差变化或影响跨境资金流动，人民币资产估值需关注外部利率约束。",
+        "globalEconomy": "全球融资成本可能上升，发展中经济体外债负担可能加重。",
+        "markets": "股票估值或承压，特别是高估值成长股；高股息与现金流稳定板块或受关注；房地产等利率敏感行业融资成本上升。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "美国10年期国债收益率升至5.29%，创2007年以来新高。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BRlgwNm5rQWhXeW81eEJ5RFkxTllyN3hJNE1lOUtNT0VUM0xDd0ppeEZBdUM2S2FIWFZmT25XMzFDb3UxaHdJUVFabzZSeXc?oc=5",
+          "publishedAt": "Wed, 30 Sep 2026 16:32:42 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "美国10年期国债收益率触及5.304%，为2002年5月以来的最高水平。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJd094VnI5cGppaUtYQm0wUDc5NGlMYTFEQkZVNWw2TjRRek55VmdnQ1lvLU10WGhqZTBpU2VZY3UxS0hZbGI5Z3I2XzlGMms?oc=5",
+          "publishedAt": "Wed, 30 Sep 2026 17:31:44 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-03",
+      "headline": "国际油价大涨，中东局势推高布伦特原油至百元关口",
+      "summary": "据中华网报道，受中东地缘局势影响，国际油价大涨，布伦特原油价格推高至每桶100美元关口附近。市场关注供应风险溢价对全球通胀与能源进口国的影响。",
+      "concepts": [
+        {
+          "term": "布伦特原油",
+          "explanation": "国际主要基准原油之一，其价格是全球原油贸易的重要参考。"
+        },
+        {
+          "term": "地缘政治风险溢价",
+          "explanation": "因战争、冲突、制裁等事件，市场对未来供给中断的担忧被计入资产价格的部分。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "作为原油进口国，输入性通胀压力可能上升，企业运输与生产成本或受影响。",
+        "globalEconomy": "能源进口国的贸易条件或恶化，可能加重全球通胀压力；产油国收入增加。",
+        "markets": "石油、化工、航空、运输等能源相关板块可能波动加大；黄金等传统抗通胀资产或受关注。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "国际油价大涨 中东局势推高布油至百元关口",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XSkNVdi1JaWtSQ2xQNGdfMS0xODRzMjNIcFBwN3JxZE1ESks4YzVwQTNneWVTSzd4WUFxMU5tblJxNWVFbGhWb0tfdklLaGVvLUpYbjJad3BTcG1YTVV4R1kzclVudG04M0NKNFhlamQ?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 10:17:07 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-04",
+      "headline": "韩股跳水跌破6800点，三星电子、SK海力士齐跌；日股上涨，日经指数涨超1%",
+      "summary": "据每日经济新闻报道，10月1日韩国综合指数跌破6800点，三星电子、SK海力士等权重股同步下跌；同日日经225指数上涨超过1%。市场关注半导体板块波动对亚洲科技产业链的影响。",
+      "concepts": [
+        {
+          "term": "权重股",
+          "explanation": "在指数中占比较大、对指数走势影响显著的个股，其涨跌对指数有明显拉动作用。"
+        },
+        {
+          "term": "半导体周期",
+          "explanation": "半导体行业景气度具有周期性，受全球需求、库存与产能投资影响，相关公司股价波动较大。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国内存储、芯片设计等相关产业链情绪或受外部波动影响。",
+        "globalEconomy": "亚洲科技股波动可能影响全球投资者对半导体景气度的判断。",
+        "markets": "韩股科技板块承压，日股或体现内外资金分化；A股科技板块情绪可能受到传导。"
+      },
+      "sources": [
+        {
+          "publisher": "每日经济新闻",
+          "title": "韩股跳水，韩国综指跌破6800点，三星电子、SK海力士齐跌！日股上涨，日经指数涨超1%｜日韩股市",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KQ2JqT1h4Q1J1M1dHZkZfa1NEQ2xJY1FMLXZkUE82Q0pkTy1FVzM1NzA0Y282VlVXQm53bzhsd0QzaEFLeGJrYXBaSFFaVXNILXRRN0t3UjRQSW9lMmhCLUZCS0dBUQ?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 00:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-05",
+      "headline": "交易员下调英欧央行加息预期，市场不再完全定价英国2027年底前加息4次",
+      "summary": "据新浪财经报道，受最新经济数据与官员表态影响，交易员下调英国央行与欧洲央行加息预期，市场不再完全定价英国央行在2027年底前加息4次，欧洲央行加息三次的情景也不再被完全定价；英国央行委员曼恩表示实际和名义条件需保持紧缩。",
+      "concepts": [
+        {
+          "term": "加息预期",
+          "explanation": "市场对未来央行政策利率走向的判断，会通过利率期货与掉期等工具进行定价。"
+        },
+        {
+          "term": "紧缩性货币政策",
+          "explanation": "央行通过提高利率或缩减资产负债表等方式抑制总需求，以应对通胀或资产泡沫。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "海外主要央行政策预期变化可能影响人民币汇率与跨境资金流动。",
+        "globalEconomy": "英欧央行加息节奏若放缓，或将影响全球流动性环境与跨境资本配置。",
+        "markets": "英欧债券收益率或承压，欧元、英镑相关资产或波动；黄金等利率敏感资产定价受关注。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "交易员不再完全定价英国央行在 2027 年底前加息 4 次。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KN0JmeUtGTzNGT2s1dHdXMlVHUlBubmZKbUxfcnhQZG1pNHBIdGxsRU5Tc2w1WmoxWFNZNzJEb1pFcnNfNE9xV1gxRnpldUk?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 15:43:53 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "交易员下调欧洲央行加息预期，市场不再完全定价三次加息的情景。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lLVFjWVZDMGNvdmVEM2Q4YzZVSXF6SHgxN2NIOHJCMUpyYlJEMENJZmVJa2cwQzBjNGtFakxQSzBjMmpLNGJLU2tkSFFveVk?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 15:39:45 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "英国央行曼恩：实际和名义条件需要保持紧缩。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OT2JTSnpBNHdKVEhTT0VGSGtTUGVVRF9JMkxBVDdEdUtwaEhzMkprcndialpNbGhGRGNxeEFzZWtpMURHQVdsREFFbkRJX0k?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 12:05:40 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-06",
+      "headline": "高盛将美联储加息预期从10月推迟至12月；特朗普称美联储总部翻修超支是鲍威尔的错",
+      "summary": "据新浪财经报道，高盛将美联储加息预期从此前的10月推迟至12月；同日有关美联储总部大楼翻修超支的报道引发关注，美国总统特朗普批评美联储主席鲍威尔。市场对美联储政策路径与央行独立性话题的关注度上升。",
+      "concepts": [
+        {
+          "term": "美联储",
+          "explanation": "美国中央银行，负责制定货币政策，其利率决策对全球金融市场具有重要外溢影响。"
+        },
+        {
+          "term": "央行独立性",
+          "explanation": "中央银行在制定货币政策时不受政府干预的原则，是维护货币政策可信度的重要制度安排。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储政策路径变化对人民币汇率与跨境资金流动具有指示意义。",
+        "globalEconomy": "全球流动性预期可能受到美联储节奏调整的影响，新兴市场资产或随之波动。",
+        "markets": "美股、美债与美元资产价格或对政策预期变化敏感；黄金等避险资产或受关注。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "高盛将美联储加息预期从10月推迟至12月",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhSFh6MkZuMF8xQXNWQWxZaEY2OG5QRVI1YlV1cG9NYkk2aXhNd21pc0FwamZSdzVjMGU3eXRUS3RPeDY1NXBnS0dNbFlsN2FmZXBQVkNBVXg3YjNpTlY4dWQ3dXJjRWJzSzJkQUxsSURrVDJyaHRBY1Z3?oc=5",
+          "publishedAt": "Wed, 30 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "美联储总部大楼翻修超支，特朗普：全是鲍威尔的错",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41eW9YM092anM5a1ZKR3VGcG1OeGlfald6cmc4WjBYbG1zTlRNUzFBODBiaFV4Zi15YmxmRXJ1QzhuZG9MQ2w4Qy04amM2Zl9hUDVjZExCRWE1dDRGR3ZXTk5xdXhxYktncWU1RUx6ajRQNUxnUFE?oc=5",
+          "publishedAt": "Thu, 01 Oct 2026 09:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}

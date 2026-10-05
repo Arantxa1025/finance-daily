@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-04",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-05T14:45:24+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-04-01",
+      "headline": "日央行：AI或对生产率及劳动力市场产生积极及消极双重影响",
+      "summary": "据报道，日本央行发布观点指出，人工智能的广泛应用可能同时带来生产率提升和劳动力市场冲击等双重影响，决策层关注其潜在风险与机遇。",
+      "concepts": [
+        {
+          "term": "生产率",
+          "explanation": "单位劳动或资本投入所创造的产出水平，AI通常被视为提升生产率的关键技术之一。"
+        },
+        {
+          "term": "劳动力市场",
+          "explanation": "劳动力供需及工资、就业等状况的集合，AI应用可能改变岗位结构与就业需求。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "市场关注AI对国内就业结构与产业升级的潜在影响，或将影响相关政策预期。",
+        "globalEconomy": "日央行表态可能强化全球央行对AI宏观影响的讨论，关注跨境监管协同动向。",
+        "markets": ""
+      },
+      "sources": [
+        {
+          "publisher": "gbcode.rthk.hk",
+          "title": "日央行：AI或对生产率及劳动力市场产生积极及消极双重影响",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFFXcDVFRDdzQVk3ZF9oa25uSy1tZkZ0X1ZkTUVYOVVvOVRKRDYyTTMycGdvcTRGRENkYjR3M1IxbEtCQkR2VmpKVzhSM1hoTUsybDRpVzg0OGMyWjVKTGdwYTFVM1Vkc3VKeXRWQkZ4UEIxUmhKakt1cFN6YWlYcUJYU0JJc2sxR0xXcjY3VndITk83ZEFPUWJESXRveDdYcmNj?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 03:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-02",
+      "headline": "贝森特：美债收益率上升属全球现象，驳斥AI泡沫担忧",
+      "summary": "据报道，美国财政官员贝森特表示，近期美债收益率上行属于全球性现象，并非美国独有，同时驳斥了关于AI存在泡沫的担忧。",
+      "concepts": [
+        {
+          "term": "国债收益率",
+          "explanation": "国债到期收益率，价格下跌时常持债市承压，与全球利率水平和风险偏好密切相关。"
+        },
+        {
+          "term": "AI泡沫",
+          "explanation": "市场对人工智能领域估值过高、脱离基本面的担忧，可能引发资产价格剧烈调整。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球收益率上行可能影响国内利率环境与跨境资本流动，关注外部溢出效应。",
+        "globalEconomy": "美方表态或将缓和市场对泡沫的恐慌情绪，但收益率水平仍是关注焦点。",
+        "markets": "债市与权益市场可能对官方表态作出反应，关注后续收益率走势与风险偏好变化。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZUJjOHhtTHNtU3VtN2xscmxYVkVUejZLdWtFTzFQT3piUEFVLXJOVkZnQ0JkR3VSWkl6UmczVlhPekpoWFpGQjZGNGlHSHZ0YzZneWhpTTJqdUJ3Ym51VlhtNnJWY0tia1FNYnhNWUFwdG5UN200MXo5WXJOVlltMU1UYTl4RHVhYzNrNUVpZkdROHZCNUUtcGg1Y0pTVWVWQktyalU1Z2N6Y2VUWHZIU1QydFA5cVU0WmVRZWV0RUpzTXRpcS1fQ3VFbTZYNjFwMUtLaEJBeEswT2pLaUlHQVdpejZ6QnlCVmtF?oc=5",
+          "publishedAt": "Sun, 04 Oct 2026 03:33:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-03",
+      "headline": "全球债市拉响警报 恶性循环加剧抛售",
+      "summary": "据报道，全球债市出现抛售加剧迹象，市场关注收益率上行与风险偏好下降之间可能形成的恶性循环。",
+      "concepts": [
+        {
+          "term": "债市抛售",
+          "explanation": "投资者大规模卖出债券导致价格下跌、收益率上升，常与利率预期或风险事件相关。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "外部债市波动可能传导至国内市场，影响利率水平与融资成本。",
+        "globalEconomy": "全球债市同步承压或将加剧金融市场波动，关注主要央行政策动向。",
+        "markets": "债市收益率上行可能传导至股市与汇市，市场关注资产配置再平衡。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "全球债市拉响警报 恶性循环加剧抛售",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uNjMwemVpNjMwLWtsaGV5QVdxSlpKcHh4QndOOW9FZExDR0J2LXRtQkcxd1duY0V2dGRrVzAzWHFUY29HRk4yWkVENkE2N09WRnNXdmRCWEJtOXpwYzZmekpFTi1UWXJ6NzJ6UU5hZ0M?oc=5",
+          "publishedAt": "Sun, 04 Oct 2026 00:27:22 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-04",
+      "headline": "中国人民银行公开征求意见",
+      "summary": "据报道，中国人民银行发布相关公开征求意见的通知，具体内容待进一步披露，市场关注其对货币与监管政策的影响。",
+      "concepts": [
+        {
+          "term": "公开征求意见",
+          "explanation": "监管机构在出台正式规则前向社会公开草案并收集意见的法定程序。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "央行新规或将影响金融机构业务与市场流动性，关注后续实施细则。",
+        "globalEconomy": "",
+        "markets": "相关征求意见可能引发市场对监管走向的预期变化，关注金融板块反应。"
+      },
+      "sources": [
+        {
+          "publisher": "21财经",
+          "title": "中国人民银行公开征求意见",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWU1cHF5TFhtMzJmVUZKVzhaVlJySE51aG0zVHc4Vi1qTmNManZyaDRrclR2b2hRZ01mUGxIX1BUUzBGc09TOC1QQXBXTEJhZ2NZUTh0eVhxbWRMekdnNDlNUS1pcWJiOXBxd1dybUFDR3F5ZDNzUTVyUEJQenQwS1ZFbm5qeURYa3hnUThYVQ?oc=5",
+          "publishedAt": "Sun, 04 Oct 2026 11:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-05",
+      "headline": "港交所：要推出人民币计价黄金期货",
+      "summary": "据报道，港交所表示将推出以人民币计价的黄金期货合约，旨在丰富离岸人民币产品体系并提升黄金定价影响力。",
+      "concepts": [
+        {
+          "term": "人民币计价",
+          "explanation": "以人民币作为合约标的价格的计价方式，可降低汇兑成本并便利人民币国际化。"
+        },
+        {
+          "term": "黄金期货",
+          "explanation": "以黄金为标的物的标准化期货合约，常用于价格发现与风险管理。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "或将为境内投资者提供新的黄金风险管理工具，关注离岸与在岸市场联动。",
+        "globalEconomy": "人民币计价黄金期货有望增强人民币在国际大宗商品市场中的使用场景。",
+        "markets": "新品种上市可能带来跨市场资金流动，关注黄金与人民币汇率市场反应。"
+      },
+      "sources": [
+        {
+          "publisher": "21财经",
+          "title": "港交所：要推出人民币计价黄金期货",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUhsTjY0SnEwN19HVEJZbjdlSGZJVDNpQXRXSVlnNTAwdFlzSUdPMS1CTXRacmgybzVONWF1ZHlWdU5DMnJxSHN6QUhTajRzLWVCY014QkZMV2lzLW9abU9xVzZpelZ3RGJsZ3NEXzliOVIyaFVvemRiS05kRHIxTnAzWnVIUlBUNDhmM2JJdw?oc=5",
+          "publishedAt": "Sun, 04 Oct 2026 03:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-04-06",
+      "headline": "落实个人住房贷款贴息工作 六大行集体公告",
+      "summary": "据报道，六大国有银行集体发布公告，落实个人住房贷款贴息相关工作安排，涉及贴息申请、办理流程与执行细则。",
+      "concepts": [
+        {
+          "term": "个人住房贷款贴息",
+          "explanation": "财政或政策性资金对个人住房贷款利息给予部分补贴，以降低购房者的实际还款负担。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "或降低居民房贷实际成本，缓解购房压力，关注对楼市成交量的影响。",
+        "globalEconomy": "",
+        "markets": "房地产相关板块可能受到政策预期影响，关注银行与地产板块联动。"
+      },
+      "sources": [
+        {
+          "publisher": "Caijing",
+          "title": "落实个人住房贷款贴息工作 六大行集体公告",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55dC13ajBjMVl4aDRyUE1JMjdYOFBMa1F4OEo3MFNsVDlXUHJHN0c1Zjh4cDNaa0wzN2x6NEVfUVFIWEJyajJhU2JxZnVrTkM3Q2tjcy03VVBtRFh4Q3cyMlNB?oc=5",
+          "publishedAt": "Tue, 29 Sep 2026 14:04:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选列表中部分条目与宏观财经关联较弱（如娱乐、社会、体育、消费类），未予采用；另有部分条目因缺乏标题细节或为机构栏目流水，未单独列入。"
+}

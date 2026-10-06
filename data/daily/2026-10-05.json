@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-05",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-06T15:24:48+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-05-01",
+      "headline": "日本央行官员：AI热潮对生产率及中性利率影响具有双向不确定性",
+      "summary": "据多家媒体报道，日本央行副行长近日表示，人工智能热潮可能放宽金融环境、推动生产率提升，但也可能带来市场回调风险，并影响中性利率水平。另有报道称，日央行认为AI对生产率及劳动力市场可能产生积极与消极并存的双重影响。",
+      "concepts": [
+        {
+          "term": "中性利率",
+          "explanation": "经济在不引发通胀过热或通缩时的理论均衡利率水平，常被视为央行判断政策松紧的参考基准。"
+        },
+        {
+          "term": "金融环境",
+          "explanation": "包括货币条件、信贷可得性、风险资产价格等综合反映融资松紧程度的指标集合。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "AI对生产率与就业的双向影响或将成为国内讨论产业升级与就业结构的重要参照。",
+        "globalEconomy": "若AI推动中性利率走高，可能影响全球主要经济体的货币政策路径与跨境资本流动。",
+        "markets": "日本央行对市场回调风险的提示，可能加剧投资者对AI主题资产波动性的关注。"
+      },
+      "sources": [
+        {
+          "publisher": "gbcode.rthk.hk",
+          "title": "日央行：AI或对生产率及劳动力市场产生积极及消极双重影响",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFFXcDVFRDdzQVk3ZF9oa25uSy1tZkZ0X1ZkTUVYOVVvOVRKRDYyTTMycGdvcTRGRENkYjR3M1IxbEtCQkR2VmpKVzhSM1hoTUsybDRpVzg0OGMyWjVKTGdwYTFVM1Vkc3VKeXRWQkZ4UEIxUmhKakt1cFN6YWlYcUJYU0JJc2sxR0xXcjY3VndITk83ZEFPUWJESXRveDdYcmNj?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 03:46:00 GMT"
+        },
+        {
+          "publisher": "早晨报",
+          "title": "日央行副行长：AI热潮或放宽金融环境 但须警惕市场回调风险",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUW51ekk1NEtCMi1QbERnU2N1enU4YlB1NzFTLUNjOC1FQ2g3WU9KdV9ESGd0djBfOWViLV9JeGpTNkl4WEFTd3RzWjI4TzRnLW8xMlY3SGFaZldjNXB1TTlQZXJYX3Y5VmZFZw?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 06:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-02",
+      "headline": "亚洲股市强势上涨，日经225盘中突破7万点、台股再创历史新高",
+      "summary": "10月5日亚太主要股市普涨，日经225指数盘中突破70000点关口，台湾加权指数收盘上涨2.6%至49712.04点，半导体类股领涨；日本股市早盘亦出现1700点级别的大涨报道。美股期货、黄金、白银与比特币同步走强。",
+      "concepts": [
+        {
+          "term": "半导体类股",
+          "explanation": "以芯片设计、制造及封测为主营业务的公司股票板块，常被视为全球科技周期风向标之一。"
+        },
+        {
+          "term": "指数期货",
+          "explanation": "以股票指数为标的的标准化期货合约，用于反映与对冲市场对未来现货走势的预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "亚太科技与半导体板块强势可能对A股科技产业链情绪与出口预期形成映射。",
+        "globalEconomy": "主要亚洲股指创新高或反映全球资金对亚洲制造业与科技产业竞争力的重新评估。",
+        "markets": "跨资产同步上涨可能在短期内提升风险偏好，但也引发市场对涨势可持续性与回调风险的关注。"
+      },
+      "sources": [
+        {
+          "publisher": "jrj.com.cn",
+          "title": "亚洲股市狂飙！日经225盘中破7万大关，台股再创历史新高，年内暴涨71%“牛冠全球”",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRlRTWm13WkswaU56TGtYbUVXR3VBeC1vQzlfQjJLWS1kLWZNNXJoYnBxamp0UWQxN2pBNnl1cnYyRU8wcHUtVTlBemw2ZmJQTmtSNEt4QUJfUEhpLUM0cEtmdUVaQTlaUDB3YmV6c3ZyUQ?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 12:21:24 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "大涨超1700点！日股、美股、黄金、白银、比特币全线拉升",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XV0d2REh4Z0tsMVYyWnZsVGFCN2FZLWNGdzhIQm5UUVFlM2pkeW1hLVRXSlV3ZUNWb0ZmZDdiNnFlejF2ODlPbWlUTHpJN3hWZWlET0FfM19pR3ZJLXZjRUtKVjYzTmd2T2VJWDdldWlfTmVycnlvYw?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 02:58:06 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "台湾加权股价指数收盘上涨2.6%，报49712.04点，以半导体类股为首。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hU05sV01JcXJfNmg4YVh4WDZPRGt4N29nMEpFRDNKcXVOc1pvQjdtTWF6ZmhFSE9wWjZ1TGZwV2tfQXpKak1aa2VuSDZNbk0?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 05:35:12 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-03",
+      "headline": "投资者下调美联储加息预期，美债收益率小幅回落",
+      "summary": "10月5日相关报道显示，市场投资者下调对美联储进一步加息的预期，美国国债收益率随之小幅回落；同日另有报道称美元指数日内突破102关口、欧元兑美元下跌0.15%至1.12365。",
+      "concepts": [
+        {
+          "term": "美债收益率",
+          "explanation": "美国国债的到期收益率，常作为全球无风险利率基准，影响资产定价与跨境融资成本。"
+        },
+        {
+          "term": "加息预期",
+          "explanation": "市场对未来央行政策利率走向的预期，会提前反映在债券收益率与汇率等资产价格中。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储加息预期回落或在一定程度上缓解人民币汇率与跨境资本流动压力。",
+        "globalEconomy": "美债收益率下行可能影响全球美元融资成本与新兴市场资本流向。",
+        "markets": "加息预期修正与美元走势分化或加剧外汇与利率市场的短期波动。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "投资者下调美联储加息预期，美债收益率小幅回落",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVVrTTZveHVoQVk1Qnh0NzBKQmZEbGpzdUZoeTh3WnFNNUJnN2diLXljVEhWeTg2RVoyNHVfeXNzZjFlRTVSNFVhQlhrek1OQURnZVR5cElkcWpMU09CbWliSkRReXNIRWpwWVV6cTZzNDY2Ny1MODRpeklKajhadjBJa3BqejQ?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 09:35:00 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "美元指数突破102关口，日内涨0.07%。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TeV9ra0haN0MwSndFSmYxT25OeEFURjc0cGZUZEdWU0VVLVc2bzd3dGtTX0RNTFYtYUxnZVlZXzJTbzRlMlAwQmx4bndRMjg?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 01:08:58 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "欧元兑美元下跌0.15%，报1.12365。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rTDB3RXlXUHJIZW1KQkg2QVFBeWo5NmtlZFFaSzNzeVdYM3pBaXZyWHJKVUdsUldBdXJvcS1WNllVdW40eHcyRHRVUjJmUlk?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 01:22:39 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-04",
+      "headline": "沙特东西向输油管道遭袭后暂停运营",
+      "summary": "10月5日有报道指出，沙特境内东西向输油管道在再次遭袭后暂停运营，事件可能影响该国原油外运线路。",
+      "concepts": [
+        {
+          "term": "输油管道",
+          "explanation": "用于长距离输送原油及成品油的管道基础设施，是能源出口的关键物流通道。"
+        },
+        {
+          "term": "原油外运",
+          "explanation": "原油从产地运往港口或炼厂并最终出口的过程，涉及管道、海运及装卸等多个环节。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "中东地缘风险升温可能短期推高国际油价，进而影响国内成品油价格与物流成本。",
+        "globalEconomy": "重要产油国出口通道受扰或加剧全球原油供应的不确定性。",
+        "markets": "市场关注事件后续对原油及航运类资产价格的潜在影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "沙特东西向输油管道在再次遭袭后暂停运营。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fSUhpdWNMaDFidUtKb2M5dV9mdUd1U1kwcTRPeTk3ak1ySVFqSjRwTVJGaHowRnRfc2cwNGR4MDdjTGtJQ1ZGa3V1N3h1dW8?oc=5",
+          "publishedAt": "Mon, 05 Oct 2026 08:38:11 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-05",
+      "headline": "英国11月加息预期升温，财政预算成市场焦点",
+      "summary": "10月5日技术分析类报道指出，市场对英国11月加息的预期升温，同时英国企业提价压力有所下降，即将公布的财政预算成为英镑GBPUSD走势的关键焦点。",
+      "concepts": [
+        {
+          "term": "财政预算",
+          "explanation": "政府对未来一定周期内的税收与支出安排，是影响市场对财政可持续性与政策预期的重要信号。"
+        },
+        {
+          "term": "加息预期",
+          "explanation": "市场对未来央行政策利率走向的预期，会提前反映在债券收益率与汇率等资产价格中。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "英镑走势与全球资金对英国财政状况的关注或间接影响人民币等非美货币的外部环境。",
+        "globalEconomy": "主要经济体财政与货币政策走向仍是全球宏观预期的重要变量。",
+        "markets": "市场关注财政预算与加息预期对英镑及英国国债相关资产的潜在影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "英镑GBPUSD11月加息预期升温，英国企业提价压力略降，财政预算成市场焦点2026-10-5 技术分析",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTV9iLWY3RjZQQjRwRjVjN3gwdFlLbFhxeG5IN3lmdmhsZlJ5LTJJZUtCLW01WHhiSmd3T0ZHVEhHM3BwdHFCdDduUk1tcjlWYUE1ZHRSalpzcWg3cnB0SDFBOTA4bTB5SGppN3MtaXhFcGF4a0J0Z0xCVWM2cER2eElQYXdEMU1uRU9TbE1vRQ?oc=5",
+          "publishedAt": "Sun, 04 Oct 2026 22:37:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分报道与宏观政策、央行及大类资产走势关联较强，本期已按规则纳入5条；部分来源涉及诺贝尔奖、文化娱乐、社会突发等内容，与财经日报主题关联度较低，未予收录。"
+}

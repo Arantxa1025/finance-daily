@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-11",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-12T15:10:29+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-11-01",
+      "headline": "央行发布人民币汇率政策立场报告，专家解读稳汇率信号",
+      "summary": "据新浪财经报道，中银证券全球首席经济学家管涛就央行最新发布的汇率政策立场报告进行解读。报道围绕报告内容，分析央行在人民币汇率问题上的政策态度与信号。同期Mysteel宏观周报亦指出，央行已明确人民币汇率政策立场。",
+      "concepts": [
+        {
+          "term": "汇率政策立场",
+          "explanation": "央行通过报告等正式渠道阐释本币汇率政策取向，旨在引导市场预期、维护汇率稳定，避免汇率出现单边大幅波动。"
+        },
+        {
+          "term": "新质生产力",
+          "explanation": "以科技创新为核心，由中央政策文件正式提出，强调以高技术、高效能、高质量为特征的生产力发展方向。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "央行明确汇率政策立场，可能有助于稳定市场预期，降低人民币汇率波动对企业进出口结算和资产负债估值的扰动。",
+        "globalEconomy": "中国汇率政策表态可能影响跨境资本流向，对新兴市场货币及全球贸易定价产生外溢效应。",
+        "markets": "市场关注央行动向对人民币汇率及利率的潜在影响，或将影响外汇市场与跨境资金面。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "管涛：央行发布汇率政策立场报告，如何解析",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uUmVDMHpHaDIyTlg4YklpcEtxcDhYdE1tdHg4YmQ4V1hDVGR1eHR5YVo4dE5lWFR1Mm9PWUxZWFVUZUVhT1Vzek83blppX0d6RnFiSm5IR2x4dEhNeWluUXdSZVhxazBlOS0yZGtrNjVDTU9ZanZXSw?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 13:32:00 GMT"
+        },
+        {
+          "publisher": "我的钢铁",
+          "title": "Mysteel宏观周报：新质生产力意见落地，央行明确人民币汇率政策立场",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LOEw1N2wzOUNwZ3hrdVRVaHNWWnoxTGdwQzBqMVFGRkNPX0Y0YnNvTHlfTC1FVC1VX2FQTFBiWGxpYW9sRmFjWmdTdkhBbmZBWFMwc1hDczVRY0RQNDZzMWRYdHlBcGdYYkE?oc=5",
+          "publishedAt": "Sat, 10 Oct 2026 23:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-02",
+      "headline": "外资银行逆势上调存款利率，揽储竞争加剧",
+      "summary": "据中华网报道，部分外资银行近期逆势上调存款利率，反映在揽储压力上升背景下，外资行通过价格手段争夺居民与企业存款，市场关注其对整体存款利率定价的潜在影响。",
+      "concepts": [
+        {
+          "term": "揽储竞争",
+          "explanation": "银行通过利率定价、理财服务等手段争夺居民和企业存款的行为，是银行业负债端竞争的重要体现。"
+        },
+        {
+          "term": "存款利率",
+          "explanation": "银行向存款人支付的资金价格，是银行负债成本的重要组成部分，利率变动会传导至银行净息差。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "外资行上调存款利率可能拉高银行整体负债成本，对净息差形成压力，或将促使存款在不同银行间重新配置。",
+        "globalEconomy": "在低利率与跨境资金流动背景下，外资行定价策略或反映其对全球利率环境及跨境资金面的判断。",
+        "markets": "存款利率调整可能影响货币市场与债券市场利率水平，市场关注负债端成本变化对银行股估值的传导。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "为何外资银行要逆势上调存款利率 揽储竞争加剧",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTXVEenI3ZXRBT0s0TnN5WVR4V0ZrcWZHek9Edjl5VUMtQldRWlBwR2VlZXBxNVRyWVN3aXRHVW12cVJpcVVGM2VsX2xUdzluZUNxa0QwRGdhSFNGR2c0dmN3RF85WU8xSXE2MmhqTVI?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 13:12:08 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-03",
+      "headline": "韩国股市现外资撤离、散户降温、企业回购放缓迹象",
+      "summary": "据新浪财经报道，韩国股市近期出现外资大规模撤离、散户交易降温以及企业回购逐步结束的现象。报道关注外资、散户和回购三大资金来源同步走弱对韩国股市流动性和估值的影响。",
+      "concepts": [
+        {
+          "term": "外资流入/撤离",
+          "explanation": "境外机构投资者对某国股市的净买入或净卖出行为，是新兴市场股市资金面的重要变量。"
+        },
+        {
+          "term": "股票回购",
+          "explanation": "上市公司利用自有资金在二级市场买回本公司股份，通常被视为管理层认为股价低于内在价值的信号。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "韩国市场资金面走弱可能加大周边新兴市场波动情绪，对A股及港股市场情绪或产生一定外溢影响。",
+        "globalEconomy": "韩国作为全球科技与出口链重要一环，其股市资金面变化可能影响全球供应链相关上市公司估值。",
+        "markets": "市场关注新兴市场资金流向逆转风险，或将影响全球资金对亚洲资产的整体配置。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "外资大规模撤离、散户交易降温、企业回购逐步结束：人去楼空的韩国股市",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFlkbzh3Yk9hSXo2NkRGdWFNVjhtMXp6T3NhMU9rejNWTWIxcmFYT210QVQ4MHpieFVrVTFFd1ZVeXJfajNqU3R5NEEyYXBkSGR2YmRHQmxmWUNLLWJzRnZjUTFaczBZRWJqNGdPRFlfVGhsWmV2NkJIZUNkWDZvaHJRMzZVYlJkNzYzYXVaSDlHMHpVRjN0YzItcm5JQQ?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 06:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-04",
+      "headline": "汇丰看好2027年六大新兴股市，涵盖巴西、南非、阿联酋、土耳其、匈牙利及哥伦比亚",
+      "summary": "据新浪财经报道，汇丰在最新展望中看好2027年六大新兴市场股市，涵盖巴西、南非、阿联酋、土耳其、匈牙利和哥伦比亚。报道关注这些市场在估值、利率与增长前景方面的相对吸引力。",
+      "concepts": [
+        {
+          "term": "新兴市场",
+          "explanation": "相对于发达经济体而言，经济增长较快但金融市场成熟度较低的国家和地区，常以较高回报潜力和较高波动性并存为特征。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国际机构对新兴市场的偏好可能影响全球资金在新兴市场内部的国家间配置，对A股市场构成一定的资金面竞争。",
+        "globalEconomy": "资金若向被看好的新兴市场集中，可能对全球资本流动格局和汇率走势产生外溢影响。",
+        "markets": "市场关注汇丰等机构对新兴市场的判断，或将影响QDII、新兴市场ETF及相关个股的资金流向。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "汇丰看好2027年六大新兴股市：巴西、南非、阿联酋、土耳其、匈牙利及哥伦比亚",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVNWSjdFYVVzdmpuaDRwVk9CY2hoVHc2eE8wV2s2cWl5MnZqNHI1OU5yQ1hfTDFwTmNjbXd4MHJtWDl6MWFqMWFmZEZ4cXRhcTIwRHZmdzJwQmNXREc3V2lrTFZVaUJ2akZodVg5QzlkVml1VFBIei1WSHBOdXBMdXl1d09IMTg?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 06:24:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-05",
+      "headline": "美股货币基金净流入创六年新高，市场观望情绪浓厚",
+      "summary": "据新浪财经报道，美股市场货币基金净流入创出近六年新高，显示在美股反弹过程中投资者持币观望情绪依然较浓，市场关注反弹的持续性。",
+      "concepts": [
+        {
+          "term": "货币基金",
+          "explanation": "主要投资于短期货币市场工具的基金产品，流动性高、风险低，常被用作股市资金的“避风港”。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球资金在股与现金之间再平衡，或将影响新兴市场资金面及人民币汇率。",
+        "globalEconomy": "美股观望情绪上升可能抑制全球风险偏好，对风险资产定价构成压力。",
+        "markets": "货币基金高吸金与股市反弹并存，市场关注资金面变化对美股估值的影响及其对A股、港股情绪的传导。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "美股点金丨持币观望！货币基金净流入创六年新高，反弹能走多远",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LUHRsdEluX1pMLUxqVnktaGxHb3oxREgtXzh1azh3LUlHLXFNelNVa3pWYU1MclJsa0pYRml6a2VHb0tGbk5xRUF3MWRxalB5bzR0M040Ynl1b1ZOdDByX2EwOUMzdEFPaGhCa1FjSkI3THZ6VzkxSg?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 03:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-06",
+      "headline": "央行公示吉林第十批金融科技创新应用，吉林银行拟将AI大模型用于客服辅助",
+      "summary": "据移动支付网报道，央行公示吉林省第十批金融科技创新应用，吉林银行拟将AI大模型应用于客服辅助场景，体现金融科技与人工智能在银行业务流程中的进一步融合。",
+      "concepts": [
+        {
+          "term": "金融科技创新应用",
+          "explanation": "金融机构在合规框架下，运用新技术对产品、服务、风控等环节进行创新的应用项目，通常需经央行或金融监管部门评估公示。"
+        },
+        {
+          "term": "AI大模型",
+          "explanation": "参数规模较大、具备较强语言理解与生成能力的人工智能模型，可被用于客服、风控、营销等金融场景。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "AI大模型在银行客服等场景落地，可能提升服务效率、降低运营成本，并对就业结构产生渐进影响。",
+        "globalEconomy": "中国金融机构加速AI应用，反映全球金融业数字化与智能化竞争的整体趋势。",
+        "markets": "市场关注金融科技落地节奏，或将影响银行IT、AI应用相关上市公司估值与业务预期。"
+      },
+      "sources": [
+        {
+          "publisher": "移动支付网",
+          "title": "央行公示吉林第十批金融科技创新应用，吉林银行将AI大模型应用于客服辅助",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfSWJlWlBsdGI0eXo4bE5iQzRWZ2lKUnEyRkl3UTR5a0JSV2lPcWRTQWFfMFg3YllhVWZ3LXMyNXpKZVZId0wwZDR0bUtRUlVvLXlsSjJBQmhrcV9TR1pZZU5Pbw?oc=5",
+          "publishedAt": "Sun, 11 Oct 2026 06:49:11 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "本次候选来源中部分条目信息量较少（如部分\"南方财经全媒体集团\"短标题条目、明星赞助/赛事消费/食品卫生等非宏观经济类条目），或缺乏完整可核验的财经事实，未纳入本次日报；另有部分候选为个股回购、上市公司高管动态等公司层面新闻，未达到宏观日报优先纳入标准，故不展开。"
+}

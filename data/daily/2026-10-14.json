@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-15T13:44:42+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-14-01",
+      "headline": "央行开展560亿元7天期逆回购操作",
+      "summary": "10月14日，中国人民银行开展560亿元7天期逆回购操作，向市场投放短期流动性。",
+      "concepts": [
+        {
+          "term": "逆回购",
+          "explanation": "央行向市场投放短期流动性的公开市场操作工具，期限较短，常用于调节银行体系资金面。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "短期流动性投放可能有助于维持资金面平稳，影响货币市场利率走势。",
+        "globalEconomy": "作为常规国内流动性管理操作，对全球经济的直接影响相对有限。",
+        "markets": "市场关注央行连续操作规模与利率水平，可能影响短端债券收益率与货币市场资金价格。"
+      },
+      "sources": [
+        {
+          "publisher": "中国新闻网",
+          "title": "10月14日央行开展560亿元7天期逆回购操作",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXcWtiaDhVWWc5Tks5Z0ZlYXRCdl9zZWFtXzV4aEhRUGxoVTU2TGpIVWJKWEQtOElEN3poaW5jX1hjRTlvOXpoUlYtcEJGdHVsc2hKRnQ5R3pNMG82RWprRnZaOWoySVZS?oc=5",
+          "publishedAt": "Wed, 14 Oct 2026 01:38:40 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-02",
+      "headline": "央行公布前三季度人民币存款增加20.76万亿元，贷款增加11.52万亿元",
+      "summary": "中国人民银行最新数据显示，前三季度人民币存款增加20.76万亿元，贷款增加11.52万亿元，反映广义货币与信贷投放规模。",
+      "concepts": [
+        {
+          "term": "人民币存贷款",
+          "explanation": "反映银行体系吸收存款与发放贷款的规模，是观察社会融资总量与货币创造的重要指标。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "存贷款双双增长显示金融体系对实体经济的资金供给保持一定规模，可能与经济活动融资需求相关。",
+        "globalEconomy": "作为国内金融总量数据，对全球经济直接影响较小，但反映中国内需与融资环境。",
+        "markets": "信贷投放规模可能影响市场对经济增长动能与货币政策空间的预期。"
+      },
+      "sources": [
+        {
+          "publisher": "广州日报新花城",
+          "title": "央行最新公布：前三季度人民币存款增加20.76万亿元，贷款增加11.52万亿元",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUE5NODNUdFV6clNOdmpvQjc4bzB1WXJnaDV1RzdWajFaR0d6ckZDWk55ZklUTzkwQXoyVGdnNnUwbVpLbjVzRzhvRVhsQTR0Q3lDb0hxc2p5RGNSQWV0bXlMR0pLeV9CWFhiZGdzS0hMdmEzSXJ4c2JidXZpYnZvR0VNR1BWNEsxLVE?oc=5",
+          "publishedAt": "Wed, 14 Oct 2026 10:36:38 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-03",
+      "headline": "美国2年期国债收益率当日上涨10个基点至4.89%",
+      "summary": "10月14日，美国2年期国债收益率较前一交易日上行10个基点至4.89%，短端利率明显走高。",
+      "concepts": [
+        {
+          "term": "2年期国债收益率",
+          "explanation": "美国短端国债收益率通常受货币政策前景与短期通胀预期影响，是全球资金价格的重要风向标。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美债短端收益率走高或影响中美利差，可能对人民币汇率与跨境资本流动产生关注。",
+        "globalEconomy": "美国短端利率上行可能反映市场对美联储政策路径与短期通胀预期的重新定价。",
+        "markets": "可能波及全球风险资产定价，并对新兴市场资本流动预期产生影响。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "美国2年期国债收益率当日上涨10个基点至4.89%。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CV1NSblRvV1o1SUc0NVFEQmRhUGt0YnNWbDVDdS1tUnlYeGxhOW50eWdEVFNtMkQwWDdwdDEweDU1WEV1SXMwQnpFN0VzSFk?oc=5",
+          "publishedAt": "Wed, 14 Oct 2026 12:47:27 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-04",
+      "headline": "美股三大指数集体收跌，纳指跌1%",
+      "summary": "10月14日，美股纳斯达克指数下跌1.00%至26931.475点；道琼斯指数下跌0.06%至51640.129点；标普500指数下跌0.74%至7747.530点。",
+      "concepts": [
+        {
+          "term": "标普500指数",
+          "explanation": "由500家美国大型上市公司组成，被广泛视为反映美国股市整体表现的基准指数。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美股走弱可能影响市场对外部风险偏好的判断，进而波及跨境资金与情绪面。",
+        "globalEconomy": "美股回调可能反映出市场对全球需求与企业盈利前景的重新评估。",
+        "markets": "可能影响次日亚太与新兴市场风险资产的开盘情绪。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "纳指跌1.00%，现报26931.475点；道指跌0.06%，现报51640.129点；标普500指数跌0.74%，现报7747.530点。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OR3NUb3E5a3BWUjNZd0xlamJ2OUVxMzZJTmt2RkVMME4yUEhqZ1Y2OG0tN1lrNDliNFhSaWxaRXR5cDNqRkxkUmh4TFo2ckU?oc=5",
+          "publishedAt": "Wed, 14 Oct 2026 15:04:46 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-05",
+      "headline": "现货白银失守57美元关口",
+      "summary": "10月14日，现货白银价格跌破57美元/盎司关口，行情出现明显波动。",
+      "concepts": [
+        {
+          "term": "现货白银",
+          "explanation": "在现货市场上即时交割的白银价格，常作为贵金属市场情绪与避险需求的观察指标。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "白银等贵金属价格波动可能影响国内相关有色金属板块与白银消费、加工行业关注度。",
+        "globalEconomy": "白银失守关键关口可能反映市场对工业金属需求与避险情绪的重新平衡。",
+        "markets": "可能传导至国内白银期货、白银ETF及贵金属板块交易情绪。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "现货白银失守57美元......_7x24快讯_新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xTnBzeHNVcWtlYUstMG9CcUxZX0tBWE9BZjVGZ1Y2cXk2dDJEUjRwQjlFQTNQOTczbjNtSnBYRzBOQU1fQW16d2dfMmtHdDA?oc=5",
+          "publishedAt": "Wed, 14 Oct 2026 13:02:21 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-06",
+      "headline": "俄副总理称俄美正就达成对美供应柴油合同进行谈判",
+      "summary": "俄罗斯副总理表示，俄罗斯与美国正就向美国供应柴油的合同进行谈判，涉及能源贸易层面的沟通。",
+      "concepts": [
+        {
+          "term": "能源贸易谈判",
+          "explanation": "指产油国与消费国之间围绕供应量、价格与交付方式的协商，可能影响国际能源市场供需平衡。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "俄美能源谈判进展可能影响国际油价，进而间接影响国内成品油调价与能源进口成本。",
+        "globalEconomy": "若相关柴油合同达成，可能对全球成品油供需与价格产生边际影响。",
+        "markets": "市场关注俄美能源谈判进展，或对原油及能源股情绪形成扰动。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "俄副总理：俄美正就达成对美供应柴油合同进行谈判_7x24快讯_新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BN212anZrMnZ3cFg5WUpMSTVWNUpua3ktWDBqd043X2ZGcmFtbi1IUk5TeEVpdGNhUWJsaGh4VzVLdmFyRWR3YWhmWk52WkE?oc=5",
+          "publishedAt": "Wed, 14 Oct 2026 12:02:23 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "本期候选来源中部分条目信息较为简略（如部分\"南方财经全媒体集团\"标题仅有署名信息，无法核实具体内容），未予收录。已收录条目均基于公开报道摘要整理，事实陈述仅限于摘要信息所示范围。"
+}

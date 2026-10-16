@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-16T13:41:11+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-15-01",
+      "headline": "美国CPI超预期，全球股市承压",
+      "summary": "据报道，美国CPI数据超出市场预期，全球股市普遍承压，市场对加息预期升温；与此同时，美股科技股出现明显下跌，亚洲市场亦受波及。",
+      "concepts": [
+        {
+          "term": "CPI（消费者价格指数）",
+          "explanation": "衡量一篮子消费品和服务价格变动的指标，常用于观察通胀水平。"
+        },
+        {
+          "term": "加息预期",
+          "explanation": "市场对未来央行提高政策利率的预期，会影响资金成本与资产定价。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "外围通胀与利率预期可能影响国内货币政策空间与跨境资金流向。",
+        "globalEconomy": "通胀超预期或令主要央行宽松节奏放缓，全球金融市场波动加大。",
+        "markets": "科技板块与高估值资产承压，亚太市场可能受情绪传导。"
+      },
+      "sources": [
+        {
+          "publisher": "中华军事",
+          "title": "美国CPI超预期 全球股市阴云密布 加息预期升温",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ODBCNEZvOUozdEJkaDg4dHdvam1FRUFRX09oYkljVjl6Q09zV3JGbE1qSzliUC1fdTcwZEx5cHg2YTc2TTkyckQ2S1lYSi1HeHhxQk0ycmEybXhDZF9faUZLWUFHaTA2Rm9QaHU2UTg?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 01:02:11 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "全球股市下跌原因是什么 美股科技股崩盘引发",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Kak81eXk3SkdhdWtuSGctanIydTI1Z3lZbkpsTFBTOWF4U3ZkLXJFT2g4MGhnS0Y1djFtbHhqR2xLdWh1NUJXWEJNRUNpWG1FSWxkWVZoNGFjWXZlaGpRVHhDWTR5TWJpMi0yWjFTckY?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 13:19:39 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-02",
+      "headline": "央行开展450亿元7天期逆回购操作",
+      "summary": "10月15日，央行公告开展450亿元7天期逆回购操作，向市场投放短期流动性，以维护银行体系流动性合理充裕。",
+      "concepts": [
+        {
+          "term": "逆回购",
+          "explanation": "央行向市场投放流动性的一种公开市场操作工具，期限较短。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "短期流动性投放有助于稳定资金面，呵护跨季后市场利率。",
+        "globalEconomy": "属常规国内流动性管理工具，对外部市场直接影响有限。",
+        "markets": "短期资金面预期平稳，或对短端利率与货币市场情绪形成支撑。"
+      },
+      "sources": [
+        {
+          "publisher": "中国新闻网",
+          "title": "10月15日央行开展450亿元7天期逆回购操作",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZeHFQRlJsNUFza1NjdDc3dDlVN21SaEl5cWEtdW1rZER4VlRfdXdReEdiSTZwbC1RZWZ4dGVzdEhyUTgteGFyZ2pUTjRaYXc3bDhkNGt6Yk9ZU19GZm5idTM5UzY1akVj?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 02:04:14 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-03",
+      "headline": "韩国股市暴跌触发熔断，金融委召开紧急会议",
+      "summary": "10月15日韩国股市开盘后大幅下挫并触发熔断机制，已连续多日走弱；韩国金融委员会就股市召开紧急会议，讨论市场稳定措施，科技股遭外资抛售。",
+      "concepts": [
+        {
+          "term": "熔断机制",
+          "explanation": "当市场波动超过阈值时，交易所暂停交易以避免恐慌蔓延的制度安排。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "周边市场波动可能传导至A股与港股情绪面，短期风险偏好受压。",
+        "globalEconomy": "新兴市场资金外流压力上升，全球科技板块情绪或受拖累。",
+        "markets": "亚洲科技股与高Beta资产可能承压，波动率短期上升。"
+      },
+      "sources": [
+        {
+          "publisher": "中国基金报",
+          "title": "开盘跳水，韩国股市“熔断”",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WR0Y0NkdVenVLQ1dOaDlxNmhMMXhCbmJCeDlDY1hJbU9oZlFXczZJUW54V2N1dllxWVVGX0MwSmlPSDc3czQyS1lJQm91UHNsTlVucV9kUHNyTXJOOElreFZjUmxTQlUtM3VBQXl0N01KUVNJSmpFbDBn?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 00:49:00 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "韩股遭遇“黑色星期四” 股市暴跌触发熔断机制",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdmhBUHZfcUowMWtpRW5EX0tybDlKdUU1VTlleUQwR1lWcnhoYVZ1c1ZnWWVSM3RlZ3RFSXY0aU5oMm5fOE5KRGRPeEh5Y1JYS2RMV2FCN0l2RnZRQTNKWnBldEFBUUZ2MHFnb2Fmdno?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 10:22:27 GMT"
+        },
+        {
+          "publisher": "中华军事",
+          "title": "韩国金融委员会就股市召开紧急会议 讨论市场稳定措施",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ERUI1d2prMzRUVng0My1BUTJOM2dhcU1vNk9SYzM1U2hxS0tpRmhNblA0bzJKOUtlVUNERDIyZDhxSk5NS0U5WFNsX2o5ckJqTG1uVFFVMTZmZlZNOXQyTlF4ZHhEelNuN09QeFNxTXY?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 07:11:31 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-04",
+      "headline": "前三季度中国外贸同比增长18.8%",
+      "summary": "据报道，2026年前三季度中国对外贸易增势强劲，按可比口径同比增长18.8%，显示外贸对经济增长的支撑作用延续。",
+      "concepts": [
+        {
+          "term": "外贸",
+          "explanation": "货物与服务的进出口活动，是观察外部需求与汇率竞争力的重要窗口。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "强劲出口或对制造业产能利用率与就业形成支撑，缓解内需压力。",
+        "globalEconomy": "中国出口高增长或缓解全球商品供给紧张，但也可能加剧与主要伙伴的贸易摩擦关注。",
+        "markets": "航运、外贸与制造业板块或受提振，关注汇率与关税政策后续变化。"
+      },
+      "sources": [
+        {
+          "publisher": "见道网",
+          "title": "2026前三季度中国外贸增势强劲，同比增长18.8%",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LMWZUbzA4eDVTMUZISG9sQ3hiVktPVVZfRzFoNjhIeVFOdkNCcXNYZ0QxX3g5QmlkVHJzSk1hTWhrR3h0WnY4WS1MRkJHcVE1eV9UaQ?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 06:43:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-05",
+      "headline": "潘功胜出席中国与海合会央行行长会",
+      "summary": "中国人民银行行长潘功胜出席中国与海湾阿拉伯国家合作委员会（海合会）央行行长会议，议题包括深化经济金融合作与货币金融合作。",
+      "concepts": [
+        {
+          "term": "央行双边合作",
+          "explanation": "央行间在清算、结算、互换及宏观政策协调方面的合作安排。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "深化与海合会的金融合作或有助于拓展能源贸易人民币结算空间。",
+        "globalEconomy": "可能推动人民币在能源领域的使用，影响全球外汇储备格局。",
+        "markets": "跨境支付、清算与人民币国际化概念板块或受关注。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "潘功胜出席中国与海合会央行行长会 深化经济金融合作",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URWZWNVNEY3pQMXlqT054Q3lsck5ndFFtMWlVTmEweWpkZTZZQXFORzlFVVk3WGE1aVFOTVVZOFJKUkNVWk8tTDRrLWkxMEt2TnFzNlphQld5OHc2WHFwdENsUEFTRlpSV1JBcmZRX1M?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 06:01:55 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分条目信息过短（如纯快讯报价、个股诉讼、商品合约日内涨跌等），难以构成可核验的完整财经事件，本期未予收录；另有IMF展望、日本央行官员表态等候选因摘要不足以单独成条，留作后续整合。"
+}

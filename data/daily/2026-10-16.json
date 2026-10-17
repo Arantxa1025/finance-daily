@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-17T13:26:50+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-16-01",
+      "headline": "人民银行行长潘功胜会见欧盟委员会经济和生产力委员东布罗夫斯基斯",
+      "summary": "中国人民银行行长潘功胜与来访的欧盟委员会经济和生产力委员东布罗夫斯基斯举行会见，双方就中欧宏观经济与金融合作等议题交换意见。",
+      "concepts": [
+        {
+          "term": "央行外交",
+          "explanation": "中央银行高层通过双边会晤沟通货币政策、金融监管与跨境合作安排，是国际金融协调的重要渠道。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "可能为中欧在绿色金融、跨境支付等领域的后续合作铺垫，市场关注相关政策动向。",
+        "globalEconomy": "或在一定程度上缓解市场对中欧经贸摩擦的担忧，影响人民币与欧元汇率预期。",
+        "markets": "市场关注后续是否出现具体的合作公告或政策落地。"
+      },
+      "sources": [
+        {
+          "publisher": "zqrb.cn",
+          "title": "中国人民银行行长潘功胜会见欧盟委员会经济和生产力委员东布罗夫斯基斯",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EUnlxcTNJMXdQRjJVdjd1ZElyb0ZSdjEybHcyWlpHdUYzblk2Q3ItX1VfT0thOFU3RmtJcGQwSGh1NlpKMmVHVEphc1p4VDB3eEpOcWxDS0lEUnBybVh0NmltZWRWaE53V2tXZV9UNmxZc2pOVjVwbXFlakQ?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 13:19:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-02",
+      "headline": "日本股市创今年3月以来最大单日跌幅",
+      "summary": "日本股市出现今年3月以来最大单日跌幅，同日韩国股市亦出现大幅波动；后续报道显示日韩股市大幅反弹，市场情绪明显回暖。",
+      "concepts": [
+        {
+          "term": "全球股市联动",
+          "explanation": "在主要资本市场开放和跨境资金流动条件下，一国或一地区股市剧烈波动容易向其他市场传导。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "日韩股市剧烈波动可能影响A股、港股开盘情绪及出口链相关板块表现。",
+        "globalEconomy": "亚太市场波动率上升或加剧全球资金对风险资产的重新配置。",
+        "markets": "市场关注波动率回升后是否引发新一轮避险情绪。"
+      },
+      "sources": [
+        {
+          "publisher": "北晚在线",
+          "title": "日本股市创今年3月以来最大单日跌幅",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UXJaQlp1aUhGdVpNR2dKNzVRZWZsV0JFZ0xYOXJVNjJza0xxSmhxamg4dkFMaWhuMlEzYlluTWFtWXlfSXB6SlJSZzQ4RnNGWWdjREpwM3hrTzRPcXV6Q3Q0a2k?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 23:02:00 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "日本、韩国股市大幅反弹 市场情绪回暖",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlbmU1QUpzOUo4Y3d1d3p6UzAwVDI3aEs3cHI4elljcmQ0VWY5Z3RrWDdmdkVFQXhwVlJUbkdBV19QbjB3Z1FMTjJXd1RYdmw4dUx1WWNMcXVTZ2IyNGdfUTJyTjhoUzlTRHY5R3F5VHk?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 04:10:22 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-03",
+      "headline": "美国议员提出法案以阻止特朗普的俄罗斯柴油交易",
+      "summary": "美国国会议员提出法案，旨在阻止与俄罗斯相关的柴油交易，提案人包括一名共和党人和多名民主党人，议案可能在国会层面引发新一轮能源贸易政策讨论。",
+      "concepts": [
+        {
+          "term": "能源贸易制裁",
+          "explanation": "通过立法限制特定国家能源产品进口或交易，是大国博弈与制裁工具的重要方式。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若涉及美国对俄能源进口限制，可能间接影响国际油价及国内成品油价格预期。",
+        "globalEconomy": "议案若推进可能加剧全球能源贸易格局调整，影响俄罗斯能源出口收入。",
+        "markets": "市场关注议案立法进展及其对原油、成品油板块的潜在影响。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "市场消息：美国议员提出法案，旨在阻止特朗普的俄罗斯柴油交易",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XeEZVUGlRSkozaWRuZEhuU3l6MjNPYUo5Y3dYTWpTT09naFZsV1dHUGdyVS1nUXZFWjlnVEtBQlhOMEFxazA2WFF2QUYyODg?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 15:56:25 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-04",
+      "headline": "平安证券、国元证券接连领罚，年内13家券商遭央行反洗钱处罚",
+      "summary": "中华网财经报道，平安证券、国元证券近期因反洗钱相关问题被处罚，年内已有13家券商受到央行反洗钱处罚，反映监管对券商反洗钱合规要求趋严。",
+      "concepts": [
+        {
+          "term": "反洗钱监管",
+          "explanation": "央行及金融监管部门通过检查、罚款等方式督促金融机构履行反洗钱义务，维护金融体系稳定。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "处罚频次上升可能推动券商加大合规投入，短期内增加经营成本。",
+        "globalEconomy": "中国强化反洗钱监管与国际反洗钱标准接轨，有助于提升跨境金融合作信任度。",
+        "markets": "市场关注头部券商合规整改进展及对行业整体风控水平的潜在影响。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网财经",
+          "title": "平安证券、国元证券接连领罚，年内13家券商遭央行反洗钱处罚",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVDVMaWp1WTV3bGVSQUxCZjZTWjNSSEdaTnc2T242TUFxU1NObldDUndwWXZPaC1Oa3k0ZVRVLTJzdEtBdmRuM0UzVDhSaFVwb3Y0c2pyVG55cVFBRUMtQlpIbWFYOTlCUnViRzNsQVhPcEE?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 07:14:22 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-05",
+      "headline": "香港证监会冻结44亿港元资产 茶百道停牌两日涉IPO围飞疑云",
+      "summary": "新浪财经报道，香港证监会冻结约44亿港元资产，茶百道停牌两日，市场关注事件是否涉及IPO围飞（即发行过程中多方串通认购）的合规问题。",
+      "concepts": [
+        {
+          "term": "IPO围飞",
+          "explanation": "指IPO发行过程中多方串通分配认购额度、抬升认购规模或制造虚假需求，扰乱发行市场秩序，监管机构对此类行为高度关注。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "事件可能影响港股IPO市场短期情绪及中概股回港上市预期。",
+        "globalEconomy": "港股市场监管动作强化或有助于提升香港资本市场国际形象。",
+        "markets": "市场关注茶百道复牌后的股价表现，以及监管调查对相关保荐机构的潜在影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "香港证监会冻结44亿港元资产 茶百道停牌两日涉IPO围飞疑云",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FR1dzYVdjeDdDeUViUU0yT0dNbTY4SFFudnR6cThuT3pCZEVOZlBzd2o4OENIY2E1UXhkTWs5MkUxOFdvQzV2MUdnT3poWDlZNWtfSHEzRWYxUTduaFQyYXlnaDJfTS16WXI3YWFjTC1YVHR0VXdaUA?oc=5",
+          "publishedAt": "Thu, 15 Oct 2026 23:24:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "部分候选来源为综合性财经早报、晨报、行情速递或聚合页面，未提供具体可独立核验事实，未纳入items；其中涉美联储10月利率会议的相关分析（CNBC、纽约时报）时间晚于本期核心宏观时间窗，未放入本期items；\"存款利率普遍上调了\"等条目snippet信息不足，未单独列项。"
+}

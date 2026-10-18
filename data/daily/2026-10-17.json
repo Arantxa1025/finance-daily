@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-17",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-18T13:38:16+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-17-01",
+      "headline": "美股三大指数16日集体收跌 纳指跌超2% 布伦特原油触及110美元",
+      "summary": "据新浪财经报道，10月16日纽约股市三大股指全线下跌，科技股普遍走低，纳指跌幅超过2%，云计算公司CoreWeave重挫近12%；同日布伦特原油自5月以来首次触及110美元/桶，供应缓解前景黯淡。",
+      "concepts": [
+        {
+          "term": "纳斯达克指数",
+          "explanation": "纳斯达克综合指数是美国科技股集中度较高的代表性指数，对利率预期和成长股估值敏感。"
+        },
+        {
+          "term": "布伦特原油",
+          "explanation": "布伦特原油是国际主要基准油价，油价上行通常会通过物流、生产成本等渠道影响整体通胀水平。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国际油价走高可能抬升国内输入性通胀压力，市场关注成品油及化工链条价格传导。",
+        "globalEconomy": "科技股回调叠加油价走高，可能加剧全球市场对通胀与利率路径的担忧。",
+        "markets": "市场关注美股科技板块波动以及原油价格对能源股和避险资产的联动影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "10月17日美股收盘：三大指数收跌纳指跌超2% 科技股全线走低CoreWeave重挫近12% 布油触及110美元",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa3JVZ3ROMk01bkhxTGxqQzhKRTBrQ2o2MmJzRUVjN2lITmJrMGhkbXJwX09wV05vUFVEd0pIQjZrRVVabnd4cXY5UmxYVlhKTjQ3NnA0bmlRbTFzUGpncnp0bF91XzNzdERlSUZEOTYtWERLV0kyZTlCSTdUNnd0QWlvazZWYVQxWFRBSkh3Yw?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 20:41:12 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "原油：布伦特自5月以来首次触及110美元 供应缓解前景黯淡",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRXRFVmFBOE02aWRWWk9Bb0x0WVpsTElielFHRHBzOEZtWFFMTC10VGxiM1E1N1l6T1REVnAyWFA3ZXkyMjUyRFJTQTRkREJubWtVUFJWVnZwQk1mZFF2WDd1SWNLZW8yazdIWmlIakxqU0Z3RFBHakVhUnN1aEFsZDhST0RQTTdxOWRCSzNibw?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 20:17:27 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-02",
+      "headline": "美联储进入静默期前夕 沃什曼谷发言被市场关注",
+      "summary": "新浪财经报道，在美联储即将进入利率决议前静默期之际，提名人选沃什在曼谷的公开发言被市场解读为偏鸽派信号，相关表态或将影响市场对后续货币政策路径的预期。",
+      "concepts": [
+        {
+          "term": "美联储静默期",
+          "explanation": "美联储FOMC在政策会议前一段时间内禁止官员发表公开评论，以避免干扰市场预期。"
+        },
+        {
+          "term": "鸽派/鹰派",
+          "explanation": "鸽派倾向更宽松的货币政策（降息、维持低利率），鹰派倾向更紧缩（加息、控通胀）。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储政策预期变化可能影响人民币汇率与跨境资金流向，市场关注国内货币政策协调空间。",
+        "globalEconomy": "偏鸽信号若被进一步确认，可能压低美元指数、缓解新兴市场资本外流压力。",
+        "markets": "市场关注美债收益率、美元指数以及贵金属等利率敏感资产的反应。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "美联储进入静默期前夕，沃什在曼谷的发言吐露\"鸽心\"？",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTRzU5SGlOM2JWckJTLXFhVnNZZTNtTFdNQjFGdko4VHZULWItbmNJZHhVbGw3VWtzRG15NjZPLUZ1U1k1REliUWVrb282bnV0V29USk0zT0N4Z2ZPWDlzR0VScTVzYlMtTUN1OFFXaFBOd0FTRXVDdQ?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 02:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-03",
+      "headline": "欧洲央行行长拉加德警示能源冲击规模巨大 不可忽视",
+      "summary": "新浪财经报道，欧洲央行行长拉加德公开表示，当前能源冲击规模巨大、不容忽视。该表态或反映欧洲央行对能源价格对通胀和经济活动潜在影响的关注。",
+      "concepts": [
+        {
+          "term": "能源冲击",
+          "explanation": "能源价格短期内的大幅变动会通过生产成本和居民消费影响整体物价水平，是央行关注的重要供给端因素。"
+        },
+        {
+          "term": "欧洲央行",
+          "explanation": "欧洲央行负责欧元区货币政策，其表态常被市场用于预判利率走向与欧元资产价格。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "能源价格上涨可能传导至中国对欧出口成本及部分进口能源价格，市场关注输入性影响。",
+        "globalEconomy": "若欧洲央行因能源冲击维持紧缩立场，全球金融条件可能进一步收紧。",
+        "markets": "市场关注欧元、欧债收益率以及能源板块的联动反应。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "欧洲央行行长拉加德：能源冲击规模巨大，不可忽视",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemtFQ3ZtSWNMUjl3ZkFiXy00UE9veUozbjlQUTRuX2w2dElDV0w1aWh2YXdvSlB3OTJZWjRMRmJ5OUxTMGVtOVU0WWtNWnpha0FRMGpoZnBWZnBrRkNqRHZvUUE0VFRjaTFMNl85M181ZmFUbU1wem5QYnIyWlA3anZKb2Q2S1dPU1pyczFJQQ?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 06:01:21 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-04",
+      "headline": "央行副行长陶玲：支持更多境外投资者入市 持债余额达3.2万亿元",
+      "summary": "观点网报道，中国人民银行副行长陶玲公开表示，将继续支持更多境外投资者参与境内市场，并披露目前境外机构持债余额已超过3.2万亿元，反映人民币债券在国际配置中的吸引力。",
+      "concepts": [
+        {
+          "term": "境外投资者持债",
+          "explanation": "境外机构持有的人民币计价债券规模，反映境外资金对中国债券市场的配置意愿，也是资本项目开放程度的重要观察指标。"
+        },
+        {
+          "term": "债券市场对外开放",
+          "explanation": "通过制度安排吸引外资参与境内债券市场，有助于分散融资主体风险、提升市场流动性。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "更多外资参与可能改善境内债券市场流动性，对人民币汇率和国际收支结构形成支撑。",
+        "globalEconomy": "中国债券市场扩大对外开放，有助于全球投资者优化人民币资产配置比例。",
+        "markets": "市场关注国债收益率曲线走势以及境外机构在利率债、信用债的配置动向。"
+      },
+      "sources": [
+        {
+          "publisher": "观点网",
+          "title": "央行副行长陶玲：支持更多境外投资者入市 持债余额3.2万亿元",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Mm80NEJwLVUzLVFPLUVES2xaakFRbnRSckdiTXNlTWhFRmJXVWVGZmp3QUhnR3BnX3E2VEdkLVYyT2dXX1Rrdi1YRmlqQQ?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 20:09:59 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-05",
+      "headline": "全国秋粮收获过七成 农业丰收进展顺利",
+      "summary": "新浪财经报道，农业农村部最新调度显示，全国秋粮收获进度已超过七成，整体收获进展顺利，为全年粮食稳定供给打下基础。",
+      "concepts": [
+        {
+          "term": "秋粮",
+          "explanation": "秋粮是全年粮食产出的重要组成部分，主要包括玉米、稻谷及大豆等品种，收获进度关系到全年粮食供给形势。"
+        },
+        {
+          "term": "粮食安全",
+          "explanation": "粮食安全指一国粮食供给稳定、居民获取粮食的能力，是宏观经济稳定的重要基础。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "秋粮丰收有助于稳定国内农产品价格，对CPI食品项形成支撑。",
+        "globalEconomy": "中国粮食供给改善可能影响国际粮食市场预期及部分品种贸易流向。",
+        "markets": "市场关注农产品期货、化肥农药以及食品加工板块的价格联动。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "全国秋粮收获过七成",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sOFgtSWVhSENCVm5mZUxqaWZuSVpXMG80Q0F4dm8ybE5DLTVuem5xcGNxSlZjREZUbzRuYmxxUDV3bjR2X3ZKNmJ1Vm5kdFZrX09wb1ZoeFNSNVRZekNLLU1BSGhGV211YjFVbTQ1VGkxSlAxVUdnSQ?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 08:48:17 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-06",
+      "headline": "欧洲股市表现领先美股 受投资者撤出AI交易提振",
+      "summary": "新浪财经报道，近期欧洲股市表现相对领先美股，市场资金从集中度较高的AI概念交易中撤出，转向估值相对较低的欧洲市场，科技股集中抛售潮带动资金再平衡。",
+      "concepts": [
+        {
+          "term": "资金轮动",
+          "explanation": "资金轮动指投资者在不同行业或地区之间调整持仓，通常反映对估值、增长前景或风险的重新评估。"
+        },
+        {
+          "term": "AI交易",
+          "explanation": "AI交易指围绕人工智能产业链上下游股票的投资行为，集中度高时易出现估值调整和板块联动。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球资金风格再平衡可能影响A股科技与高估值板块的吸引力，外资流向值得跟踪。",
+        "globalEconomy": "资金从美股AI板块向欧洲市场扩散，可能加剧跨市场波动并影响全球科技股估值。",
+        "markets": "市场关注A股科技龙头、港股新经济板块与欧股相关ETF的联动效应。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "欧洲股市表现领先美股 受益于投资者撤出AI交易",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTFqMzY5NXY2dFNNSWhsYzlIWGpvQmZDWHVxeWZ6b0VtVnNGUmYyMU9uQ3cxRkNMWnhkV3ZVLWwtTlhObjYxdUR1UlBCWHdxOEpCU21WQm1DTHE1YnA3N2tTYVNvdmRNWmJjVDMyUXVyQkZZYkFCN1ViSUtHeHhhU21JcTMwUWs?oc=5",
+          "publishedAt": "Fri, 16 Oct 2026 16:35:04 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "本期候选来源中部分条目信息较为单薄（如仅有标题且snippet不完整，或为地方频道重复条目），未纳入正文以保证可核验性；items仅收录可在候选列表中查到完整title、publisher、url和publishedAt的报道。"
+}

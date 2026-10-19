@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-18",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-19T13:55:59+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-18-01",
+      "headline": "日本央行行长植田和男表示多项因素推高通胀 缩减买债规模立场不变",
+      "summary": "日本央行行长植田和男表示，多项因素正在推高日本通胀水平，并重申日本央行缩减国债购买规模的立场不变。",
+      "concepts": [
+        {
+          "term": "量化宽松（QE）",
+          "explanation": "央行通过在市场买入国债等资产，向市场注入流动性以压低利率、刺激经济；缩减买债规模意味着逐步退出这类非常规宽松。"
+        },
+        {
+          "term": "通胀",
+          "explanation": "物价水平持续普遍上涨的现象，央行通常以维持通胀稳定在目标附近为政策目标之一。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "日本央行立场偏紧或影响日元汇率与跨境资金流向，对我国出口与货币政策外部环境形成参照。",
+        "globalEconomy": "主要经济体央行政策分化可能加剧汇率与资本流动波动，市场关注全球流动性边际变化。",
+        "markets": "日元资产价格可能承压；债券收益率存在上行预期空间，市场关注日本央行后续购债节奏。"
+      },
+      "sources": [
+        {
+          "publisher": "RTHK",
+          "title": "植田和男：多项因素推高通胀 日本央行缩减买债规模立场不变",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjJBZ3Q4Z2VlREF1ajBnTU8zdDEtblpCSDFFZ0FNOW1faVZBaFQ4cDBjZzNMUlJiZF9IVUxkTE5ScFV1TlMzMWxNRjEwQlNEYjltUGFXak00R1MtS2VyWjdkRnFBNVMwdlUyNTFEMXJJR1NxdW5MYzdfMHU0cGpmZ29CTGxfaEpHS0JtT1hVUktjRXZaNTdOekx6X2NuQzJ0bVBR?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 03:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-02",
+      "headline": "欧洲央行行长表示欧元区通胀率创新高但不必惊慌",
+      "summary": "欧洲央行行长在访谈中表示，欧元区通胀率创出新高，但认为市场不必过度惊慌，暗示央行仍按既定路径评估政策。",
+      "concepts": [
+        {
+          "term": "通胀目标制",
+          "explanation": "央行设定明确的通胀目标（如2%），围绕该目标动态调整政策利率，以稳定物价与预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "欧元区通胀与货币政策外溢可能影响我国对欧出口与外汇环境。",
+        "globalEconomy": "欧元区通胀粘性较高或延缓宽松节奏，与其他主要央行政策路径形成对照。",
+        "markets": "市场关注欧央行后续利率决议与购债安排，欧元区政府债券收益率波动或上升。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "高端访谈丨欧洲央行行长：欧元区通胀率创新高但不必惊慌",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SdlZjYmdrcGxoWS00eW1waVBhVEQtTzlycUktVEJDRXNObHpBTEk4dE1OYlJwS3JoZlIteUpnUklYSTQxS3ZXNDRDc1d0RlVRUEg1Y2F3ZHkzYzlzY1EzcHF0cGZkZWJMdXVnbWYzN2hYWmZrdWpuZQ?oc=5",
+          "publishedAt": "Sun, 18 Oct 2026 04:39:20 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-03",
+      "headline": "加拿大央行行长放风称通胀将攀升 加息风暴或最快本月袭来",
+      "summary": "加拿大央行行长公开表示通胀将攀升，市场关注最快本月可能到来的加息动作。",
+      "concepts": [
+        {
+          "term": "加息",
+          "explanation": "中央银行上调政策利率以抑制总需求、压低通胀的政策工具，对借贷成本与资产价格有广泛影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "加拿大加息预期或推升北美利率水平，对人民币汇率与外贸环境形成一定外部压力。",
+        "globalEconomy": "若加拿大先于美联储加息，可能影响北美跨境资金流向与全球利率环境预期。",
+        "markets": "加元资产与加元汇率或受益；市场对其他央行政策路径的预期或被重新定价。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "刚刚! 加拿大央行行长亲口放风: 通胀将攀升, 加息风暴最快本月袭来!",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oSWduekg0aUs3OVBBSFl4emxzR2JoQ0dpc1IyR2k2d0NTblZhbDJDZ2k4eEVlMndhZDdHSWR1eGRfX01GZnFKNTR6aE90dS0wYkNvYnptNU01VVRvb1M5aXc2T21QU1RhNkdES3gtQmxURTViZGczdg?oc=5",
+          "publishedAt": "Sun, 18 Oct 2026 06:23:52 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-04",
+      "headline": "A股弱势中现积极变化：拥挤度出清、宽基ETF放量承接",
+      "summary": "瑞银观点指出，A股弱势中有三个积极变化，包括市场拥挤度出清、宽基ETF放量承接等，被视为资金面与情绪面的修复信号。",
+      "concepts": [
+        {
+          "term": "ETF（交易所交易基金）",
+          "explanation": "可在交易所上市买卖、跟踪特定指数的基金，宽基ETF覆盖一篮子成分股，是反映与承接市场资金的重要工具。"
+        },
+        {
+          "term": "市场情绪",
+          "explanation": "投资者对后市的整体乐观或悲观倾向，会通过成交、换手、买卖盘等指标体现，常作为短期波动参考。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若ETF放量承接持续，市场流动性与信心修复或对国内消费、投资预期形成边际改善。",
+        "globalEconomy": "中国资产价格信号或被外资关注，影响新兴市场资金流向预期。",
+        "markets": "宽基ETF流入或减轻指数下行压力；结构上有利于权重蓝筹表现，市场关注后续量能持续性。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "瑞银：拥挤度出清、宽基ETF放量承接--A股弱势中的三个积极变化",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ScU04d2VpN1gyeER4bTZZYXVvQzhVNmVHY0xsWVNfSzFfWE9ZVkRGcDFkaEhkWHJqN3ZMNWg0c3ZyYmtzUnBEcUk3MTl6a1hSa24waW1aTzJrbVo1TVppM3lmRnRSN3dDMVlmcDB1ejBJNVc5OUE?oc=5",
+          "publishedAt": "Sun, 18 Oct 2026 00:29:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-05",
+      "headline": "中信证券：市场调整接近尾声",
+      "summary": "中信证券观点认为，当前市场调整已接近尾声，关注后续量价与政策信号的配合。",
+      "concepts": [
+        {
+          "term": "估值修复",
+          "explanation": "股价经历下跌后，估值回归与基本面预期改善推动价格回升的过程，常被用于描述调整末段的特征。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若调整接近尾声的判断成立，市场情绪改善或带动消费、投资预期边际回暖。",
+        "globalEconomy": "A股预期改善或对全球资金配置新兴市场产生影响，被市场关注。",
+        "markets": "周期与成长板块或因情绪修复而出现分化轮动，市场关注成交量与政策配合。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "中信证券：市场调整接近尾声",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlTXI0aThFMUNaVjY0V09zRjRwand0WGMzMk1sSzhWRDlTRTYtcHg2UnZCWHRHN3BuZHhLVkh2M3dCZlF5YXl6OGVNREhubmM1cmtaRVpRSmxhOF92RXg5bzlBeGpNMl90ci1yMlJ6Rm9ZbnZRQm9EVw?oc=5",
+          "publishedAt": "Sun, 18 Oct 2026 10:34:01 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-06",
+      "headline": "黄金周度走势速览：现货黄金周内波动收窄 市场关注下周金价方向",
+      "summary": "截至2026年10月17日的黄金周度走势速览显示周内波动有所收窄，市场关注下周金价方向选择。",
+      "concepts": [
+        {
+          "term": "黄金",
+          "explanation": "传统避险与抗通胀资产，价格受美元实际利率、地缘风险与全球央行购金行为等多重因素影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "黄金价格波动通过黄金股、黄金ETF及消费金需求等渠道传导至国内市场情绪与上市公司业绩。",
+        "globalEconomy": "在主要央行政策分化、地缘风险不确定的背景下，黄金的避险与配置价值被市场关注。",
+        "markets": "市场关注下周金价方向；若波动放大或影响黄金股与黄金ETF表现，并联动其他贵金属板块。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "黄金周度走势速览（截至2026-10-17）下周金价怎么看？",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOOFNVZEljSm5xZHEyWVF5RjY3YmJYR2tFcXFDMlI4QmNHNGdfbU5DdU42bkRiME83U0ZibkF4QlBRaEJOMmdoZTFoWE9CZjlXYVZFa3RJUWlyN1VybGtWMERneUFzbE5QOUtTUDJXeklDdG1PN0FJWA?oc=5",
+          "publishedAt": "Sun, 18 Oct 2026 06:12:17 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "本日候选来源中，多数为分析师与机构观点、个股及外围市场消息。可直接核验并具广泛宏观影响的来源已纳入条目（央行政策3条、A股资金面/券商观点2条、黄金1条）；其余个股财报、路演、IPO、广告投放、节庆专题等未纳入，以控制日报篇幅并聚焦宏观与市场层面。"
+}

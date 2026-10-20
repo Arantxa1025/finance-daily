@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-19",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-20T13:48:15+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-19-01",
+      "headline": "央行宣布多项新政：设立非银大额赎回流动性支持工具、SLF扩围",
+      "summary": "中国人民银行于2026年10月19日宣布多项新政策，包括设立面向非银机构的大额赎回流动性支持工具，并将SLF（常备借贷便利）适用范围扩大，旨在增强金融市场流动性保障能力。",
+      "concepts": [
+        {
+          "term": "SLF（常备借贷便利）",
+          "explanation": "央行向商业银行等金融机构提供短期流动性的政策工具，利率水平通常高于市场，起到利率走廊上限的作用。"
+        },
+        {
+          "term": "非银大额赎回流动性支持工具",
+          "explanation": "针对非银金融机构在面临大额赎回压力时提供的专项流动性安排，有助于防范系统性流动性风险。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "政策工具扩容或将提升非银机构流动性获取能力，可能降低短期资金面波动。",
+        "globalEconomy": "中国央行流动性管理工具调整对全球资本流向的直接影响有限，但可能通过人民币汇率与跨境资金波动产生间接影响。",
+        "markets": "市场关注后续操作细节与利率走廊变化，对债市与货币市场短期利率或产生边际影响。"
+      },
+      "sources": [
+        {
+          "publisher": "财新",
+          "title": "央行宣布多项新政：设立非银大额赎回流动性支持工具、SLF扩围",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VTThDRG1DUzBXTG1iNnBUaXFjMmxmTFZjNzFJMkRiS0lQQS1tU3Y2WEJ3WGNXc3F6aDhIeEZpOE5sT1JIQmNHQ2lwZUttVlJhdnlfXy12NlRyS2dxUGVwWDdR?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 11:41:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-02",
+      "headline": "央行行长潘功胜发声：存贷款基准利率将逐步退出，一揽子新政即将落地",
+      "summary": "中国人民银行行长潘功胜在金融街论坛年会上表示，将推动实现退出存贷款基准利率，并表示一揽子金融政策即将落地。同日另有报道称，央行强调应前瞻性做好应对AI浪潮的政策考量。",
+      "concepts": [
+        {
+          "term": "存贷款基准利率",
+          "explanation": "央行此前公布的存款与贷款基准利率，作为利率管制时期的重要政策工具；其退出意味着利率市场化改革进一步深化。"
+        },
+        {
+          "term": "前瞻性政策",
+          "explanation": "中央银行针对未来潜在风险（如AI技术变革对金融体系的冲击）提前评估并准备相应政策工具的思路。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "基准利率退出或将推动利率定价更依赖市场，对银行净息差与实体融资成本的影响值得关注。",
+        "globalEconomy": "中国推进利率市场化改革对全球资本配置与人民币国际化的影响属长期变量。",
+        "markets": "市场关注后续配套政策与LPR等市场基准利率的衔接，债市与银行业或迎来定价逻辑调整。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "存贷款基准利率将逐步退出！央行行长潘功胜重磅发声，一揽子新政即将落地",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWU9IOWV4RjV4VVNMUGNmeTJSVVlTemlDWDhSdFlBU1BjdzA1QmVBZGJXZ091Y0RxREF1bFROSEcwRkhJNDMwUnlHbW93MlFZTFVHVHdvOXUyYmtjZmlEV09ydjNnV1otN1RXYjY3TjVMNlk3YjdGQl9VNFNOell2SWNWeEpyQlpwSWZB?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 15:04:11 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "中国人民银行将推动实现退出存贷款基准利率",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5dXlnRjFmSmgteGc3aklYZVdPT1hxWmlmZnFScjJYaVA1TndQRjZ1T2NtVlU5ZXR1eHZMWE9NeDlaYXdRaVd4Z3c4OUdVRnZ2NWFXalpTbWRvX3hha2lUZDB0bUllSVhXM1VLREdqWk9WeEE1eUlyUQ?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 14:17:07 GMT"
+        },
+        {
+          "publisher": "财新",
+          "title": "央行如何应对AI浪潮？潘功胜称应前瞻性做好政策考量和准备",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02NDVnQy02YUp2LXdUMDFBeG9lam95QTBrN2d6M0QzaFpMcFBtTzV1WUZmSHZ0WWxScmd3T1JFbmxtSXl4S1owRnB3VzdudkduQy04RnZ6eF9scm9ha0ltbTl3?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 12:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-03",
+      "headline": "证监会主席吴清：完善违规减持处罚规则",
+      "summary": "证监会主席吴清在金融街论坛年会上表示，将完善违规减持的处罚规则，强化对大股东、董监高减持行为的监管约束，维护资本市场秩序。",
+      "concepts": [
+        {
+          "term": "违规减持",
+          "explanation": "上市公司股东或董监高违反信息披露与限售规定进行的股票卖出行为，可能损害中小投资者利益。"
+        },
+        {
+          "term": "处罚规则",
+          "explanation": "监管机构对违规行为设定行政处罚、市场禁入乃至刑事追责等层级的法律约束。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "强化减持监管可能改善资本市场投资者保护环境，长期有助于稳定市场预期。",
+        "globalEconomy": "中国资本市场制度完善对吸引外资的间接影响或将逐步显现。",
+        "markets": "市场关注配套实施细则与执法力度，对中小盘股与限售股股东行为可能形成约束。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "证监会主席吴清：完善违规减持处罚规则",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWWMxTldQZGpQT0FyanFqb2kwMGR6ZVBZd0xuaG5MRmNWQjA1RFppTVlYRHlfUldCUXV6Q1ViYkFmUmNmbVdXU0VtcUZlWmF2V3BUVW5LNmFEZ2Uza1E3V3IwVkxXNXR1UUhvcThuRFEyWE9sZ29ad3BZY2NDOHAyZEFfVm5CcmUzVXZz?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 22:47:25 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "吴清金融街论坛最新发言，六大要点抢先看",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByZ1d4ODhFV0I3QnZVVk1URUVJTlFVZ3E4TUNGSlhQUXFRN0lNcEYwM3d0WkRvQWxiTi1URjBQTXNPZ3pmRzNjM0pCNEZiXzRfOElRMnYycU1QdUxxendhRHUwYTNQZnhYdFFnY2dfUVNRX3NpUVE?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 10:31:56 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-04",
+      "headline": "央行开展800亿元7天期逆回购操作",
+      "summary": "中国人民银行于10月19日开展800亿元7天期逆回购操作，向市场投放短期流动性，以维护银行体系流动性合理充裕。",
+      "concepts": [
+        {
+          "term": "逆回购",
+          "explanation": "央行向市场投放流动性的公开市场操作工具，期限较短，用于平滑短期资金需求。"
+        },
+        {
+          "term": "7天期",
+          "explanation": "中国央行常用的短期操作品种，利率水平被市场视为短期政策利率信号之一。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "常规性流动性投放有助于维持资金面平稳，对当周税期与跨月资金需求形成配合。",
+        "globalEconomy": "常规操作对全球资本流动的直接影响较小。",
+        "markets": "市场关注央行连续操作规模与利率变化，用以判断短期资金面松紧。"
+      },
+      "sources": [
+        {
+          "publisher": "中国新闻网",
+          "title": "10月19日央行开展800亿元7天期逆回购操作",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fLV9tUk1oOTVKSVV3RENfRUR6OHk5TmdCMjZSLTR4YmxDSGFKWTF5QnZQYVRLei1QWlBSenhRQ3lVeHh3eFlUcjNjUS1welVsWmVBdDhFbi1xcUUyQmxpWGtySVVIakt3?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 01:37:47 GMT"
+        },
+        {
+          "publisher": "www.caiwennews.com",
+          "title": "央行今日开展800亿元7天期逆回购操作",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96WVBYSTg5NUFmekVFOG1zQ3RHUjVCNGx2M1lscDFKaVFIZ3lXUVVnYlV1N093ZXFvZ0d2cXJwSVVfSWNNNFd4VlBkMWZGblRiVGt0YUtqQnM0a3E3?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 01:24:54 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-05",
+      "headline": "A股缩量整理：超3800只个股飘绿，沪指收涨0.39%",
+      "summary": "10月19日A股日内先抑后扬，午盘时逾3800只个股下跌、创业板指跌幅一度超过1%；收盘沪指低开高走上涨0.39%，人形机器人概念股集体走强，农业板块震荡走弱，市场关注结构性分化。",
+      "concepts": [
+        {
+          "term": "创业板指",
+          "explanation": "深交所创业板综合表现的指数，成分股以成长型中小企业为主，波动幅度通常大于主板指数。"
+        },
+        {
+          "term": "概念股",
+          "explanation": "受特定主题或产业事件驱动而出现群体性行情的股票集合，如人形机器人概念股。"
+        }
+      ],
+      "impects": {
+        "domesticEconomy": "市场结构性分化可能反映资金对产业政策的不同预期，对实体经济融资环境的影响需进一步观察。",
+        "globalEconomy": "A股日内波动对全球资本配置的直接影响有限。",
+        "markets": "市场关注成交量变化与板块轮动节奏，成长板块与防御板块的此消彼长或延续。"
+      },
+      "impacts": {
+        "domesticEconomy": "市场结构性分化可能反映资金对产业政策的不同预期，对实体经济融资环境的影响需进一步观察。",
+        "globalEconomy": "A股日内波动对全球资本配置的直接影响有限。",
+        "markets": "市场关注成交量变化与板块轮动节奏，成长板块与防御板块的此消彼长或延续。"
+      },
+      "sources": [
+        {
+          "publisher": "证券时报网",
+          "title": "股市午报：A股超3800只个股飘绿，创业板指跌超1%！宇树科技涨超10%，市值重回1900亿元",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pb3RqOFUtRDE3azRPNEZFUXJJTUFLakV1ZzU3UmtkWVJEUV9VSFdTVGFqQnRqd20zSldwUUFtNGVHQnJZODZNN1RCY2tmcU9BbEl2enR5anhqRmxf?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 03:19:00 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "A股收评 | 沪指低开高走涨0.39%，人形机器人概念股集体走强，农业板块震荡走弱",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FY3UwX05WaTM4N0VjcUtMS3JhU24yMFdRXzRMb0h0azBlTXdremoxWnBxaDluU2N6ZV9fNkN4Q0Z2QTcxaHM4RHlLTHNiTlpINkFiVnJLRmtWWjh4OVlxc1MyX000MEJ6Snk5ckJyMTVIN09PSkZDOQ?oc=5",
+          "publishedAt": "Mon, 19 Oct 2026 08:16:10 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选列表中部分条目（如\"南方财经全媒体集团\"占位报道、教育/学术会议通讯、券商个股涨跌点评等）信息密度不足或非可独立核验新闻，未纳入本期日报。本期共纳入5条已核验条目。"
+}

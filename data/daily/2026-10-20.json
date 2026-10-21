@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-20",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-21T13:51:43+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-20-01",
+      "headline": "央行完善短端利率调控机制，隔夜回购将成主要操作品种",
+      "summary": "财新报道，中国人民银行正完善短端利率调控机制，隔夜回购将成为主要操作品种。",
+      "concepts": [
+        {
+          "term": "隔夜回购",
+          "explanation": "指证券融资方在次日到期归还资金并支付利息的交易，有助于调节银行体系短期流动性。"
+        },
+        {
+          "term": "利率走廊",
+          "explanation": "央行通常通过政策利率和公开市场操作，引导市场短期利率围绕目标水平波动。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "操作机制调整可能提高短期流动性管理的精细度，并影响银行体系资金面。",
+        "globalEconomy": "短期影响主要集中于中国金融市场，对全球经济的直接外溢效应有限。",
+        "markets": "市场可能关注隔夜回购操作频率、规模和价格变化，以及其对货币市场利率与债券市场的传导。"
+      },
+      "sources": [
+        {
+          "publisher": "财新",
+          "title": "央行完善短端利率调控机制 隔夜回购将成主要操作品种 - 财新",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZRVNUTnpSUG9yNW1VVjg5dUtfZmtULWhZemtNb1lSWlZtWHZnYlR2YmRzZkJodW1DU3gwb0tCZHlSTC03UFAzRmJiNkRjZmpJeWJiaG96eHc2QllwVXJsczVn?oc=5",
+          "publishedAt": "Tue, 20 Oct 2026 09:34:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-02",
+      "headline": "2026年1—9月经济数据点评：内需初现温和修复",
+      "summary": "新浪财经刊载的宏观数据点评称，2026年1—9月中国内需出现温和修复，但经济企稳势头仍待巩固。",
+      "concepts": [
+        {
+          "term": "内需",
+          "explanation": "主要由居民消费和固定资产投资构成，是观察国内经济修复情况的重要维度。"
+        },
+        {
+          "term": "经济企稳",
+          "explanation": "指经济活动从下行或波动状态转向相对稳定，但仍需更多后续数据确认。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "内需温和修复可能意味着消费或投资需求边际改善，但企稳基础仍需巩固。",
+        "globalEconomy": "中国经济需求变化可能影响全球商品需求、贸易和企业盈利预期。",
+        "markets": "市场可能继续关注消费、房地产、投资及后续政策数据对经济修复持续性的验证。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "财信宏观丨内需初现温和修复，企稳势头仍待巩固——2026年1-9月份经济数据点评 - 新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3I2MmVzWV9sRW55Q3ZzcHZPNjRhTTB0amZyVXN3cmlkQy1aUTJGR2RwNTdmWlR0dVp6QkFNbG9SX09hLVZ4c3lkV0o1MHh5cktFZ0hPRVdWSUY0UDVScHhXa3drdFVZUkZPVS1VS1I2ZmF1aWhMaTJ6WWFvYWpWRHFhNmF2RGR2N3BGU3ln?oc=5",
+          "publishedAt": "Tue, 20 Oct 2026 03:04:58 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-03",
+      "headline": "美联储或跳过10月会议，但多数经济学家预计12月再次加息",
+      "summary": "路透报道称，调查中几乎所有经济学家预计美联储将不调整10月利率，但可能在12月再次加息。",
+      "concepts": [
+        {
+          "term": "政策利率",
+          "explanation": "央行通过调整政策利率影响金融条件、融资成本、汇率及总需求。"
+        },
+        {
+          "term": "利率路径",
+          "explanation": "市场对未来多次政策利率调整的预期，会提前反映在债券收益率、汇率和资产价格中。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国利率预期变化可能通过美元汇率、跨境资本流动和外部融资成本影响中国宏观金融条件。",
+        "globalEconomy": "若12月加息预期升温，全球通胀约束和金融条件变化可能受到更多关注。",
+        "markets": "美元、美债收益率及全球资产估值可能对美联储预期变化保持较高敏感度。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "publishedAt": "Tue, 20 Oct 2026 13:27:27 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-04",
+      "headline": "美国10年期国债收益率在住房数据偏弱后下行",
+      "summary": "CNBC报道称，美国住房数据偏弱后，10年期美国国债收益率出现下行。",
+      "concepts": [
+        {
+          "term": "国债收益率",
+          "explanation": "债券价格与收益率通常反向变动，长期收益率还会受到利率预期、通胀和期限溢价影响。"
+        },
+        {
+          "term": "住房数据",
+          "explanation": "住房开工、许可、销售和新屋价格等数据常用于观察美国经济周期与利率敏感需求。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国长期利率变化可能通过美元、跨境资本流动和外部融资成本影响中国金融市场。",
+        "globalEconomy": "住房需求走弱可能引发市场对美国增长前景和货币政策路径的重新评估。",
+        "markets": "美债收益率变化可能影响美元、全球债券、股票估值及贵金属价格。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "10-year Treasury yield moves lower after weak housing data - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaM2dEaXY3djRjLTk3Zm56azJQeFVocnVEQmwzb0wwbWpvMFRxTkdINFNMdkNMS1RSZUNfajNDSjBQRGZ6V210U1NERGI1UTNCMDZDUjJmU0k1RF9vUV9WSFhGdG9CeGNZblhWVlFGU0hsdjhFZkhfZzFMVlJ4Z9IBgwFBVV95cUxPWWdOVGZuSDZKX1ZBTEczSzAwREw2SldJTmY2VmtTSUNIM0d1aVFJb2lEbXdEWHZRWE1yaldhb0ZKRWVMamxIUkstN1ZMMzJCNjBJR0RJRnEtUG54am1uMnEwT09kSTRUU3V5WC1Fb19leWlHVnI5OFdJOW9nQ3Q0dmVUWQ?oc=5",
+          "publishedAt": "Tue, 20 Oct 2026 07:43:14 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-05",
+      "headline": "法国国债收益率回落，但仍接近24年高位且交易波动",
+      "summary": "路透报道称，法国国债收益率在当日交易中回落，但仍处于接近24年高位，市场交易保持波动。",
+      "concepts": [
+        {
+          "term": "主权信用风险",
+          "explanation": "投资者对国家财政可持续性、偿债能力及政策可信度的担忧，通常会影响该国国债收益率。"
+        },
+        {
+          "term": "债券收益率",
+          "explanation": "收益率上升通常意味着债券价格下跌，反映投资者要求的回报或风险补偿提高。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "法国国债波动可能通过欧元区利率环境和欧洲金融条件影响中国外部融资及跨境资金环境。",
+        "globalEconomy": "法国财政与债务市场压力可能成为观察欧元区主权风险和欧洲经济稳定性的重要信号。",
+        "markets": "欧元区国债、欧元及银行和保险等利率敏感资产可能继续关注相关风险变化。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "French bond yields dip but remain near 24-year high in volatile trading - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNSV1VKT0t1WFIzSE9fT0Mzck9VVWRTWktvUTFOYXM5Q0w3NWZVWGEyWkROMl9FaGQ0Zk1pbU1WS3lwT1FaQkhxM2NsbEQ2cUtOY01RUi1TR3U0YVhPYlo1N2MwRG5IMzdKMjRqUmJLczAxOXJqSTgzRFMyNmZ2TFdIaldhUXRlN0daZmROMXY5SFBfakpTb3F3eWdqRW80MTl3?oc=5",
+          "publishedAt": "Tue, 20 Oct 2026 16:25:12 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-06",
+      "headline": "美元走弱，交易员权衡伊朗局势与人工智能风险",
+      "summary": "路透报道称，美元在交易员评估伊朗局势和人工智能相关风险之际走弱。",
+      "concepts": [
+        {
+          "term": "美元指数",
+          "explanation": "美元指数综合反映美元对一篮子主要货币的相对强弱，其变化常受利差、避险需求和全球增长预期影响。"
+        },
+        {
+          "term": "避险资产",
+          "explanation": "在风险偏好下降时，投资者可能增持美元、黄金等具有较强流动性和防御属性的资产。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美元走弱可能影响人民币汇率、跨境资本流动及出口企业的外汇结算环境。",
+        "globalEconomy": "伊朗局势与人工智能风险的不确定性可能放大全球金融市场波动。",
+        "markets": "外汇、贵金属、全球债券及科技资产定价可能继续受到风险偏好与利率预期变化影响。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Dollar dips as traders weigh Iran, AI risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
+          "publishedAt": "Tue, 20 Oct 2026 01:14:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中存在多条量化产品周报、单一公司融资及泛化评论，因摘要信息有限或与优先宏观政策、央行、利率及汇率主题相关性不足，未纳入条目。"
+}

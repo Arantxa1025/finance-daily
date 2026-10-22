@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-21",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-22T13:55:23+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-21-01",
+      "headline": "国际劳工组织首席宏观经济学家：AI或加剧收入分配不均",
+      "summary": "国际劳工组织首席宏观经济学家表示，人工智能可能加剧收入分配不均。",
+      "concepts": [
+        {
+          "term": "人工智能与收入分配",
+          "explanation": "人工智能技术的应用可能改变技能需求、劳动收入分配和就业结构，进而影响收入差距。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国内政策制定和产业布局或将更加关注人工智能应用带来的就业与分配效应。",
+        "globalEconomy": "各国可能关注人工智能对劳动市场、收入分配和全球发展差距的潜在影响。",
+        "markets": "人工智能产业及相关政策讨论可能受到市场关注，相关行业的竞争与布局或将变化。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "国际劳工组织首席宏观经济学家：AI或加剧收入分配不均",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sQXk5MU5NaE5KTUF2ZUsxblEtZVZUa3BQQS1VWlhCVEMxb0VfMGFIb0gyUDhKWW9remJFRWZZR0ltOU90TEY1clgwNmRCcGoycXRlMmJ1RUM4TkJqdDFWdzdPM3l2enhYVkEybTZtNVdnVTByRzBCeDZzMi0?oc=5",
+          "publishedAt": "Wed, 21 Oct 2026 02:55:59 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-02",
+      "headline": "新央企国家数据集团成立；2026世界智能网联汽车大会今日开幕",
+      "summary": "南方财经报道，新央企国家数据集团成立，2026世界智能网联汽车大会开幕。",
+      "concepts": [
+        {
+          "term": "国家数据集团",
+          "explanation": "国家数据集团属于数据基础设施建设与运营主体，其成立可能与数据资源整合、开发和应用相关。"
+        },
+        {
+          "term": "智能网联汽车",
+          "explanation": "智能网联汽车涉及汽车、通信、软件和人工智能等产业协同，相关大会可能促进行业交流。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "数据基础设施和智能网联汽车产业可能获得进一步关注。",
+        "globalEconomy": "中国相关产业发展可能影响全球数据服务和智能汽车竞争格局。",
+        "markets": "数据产业、智能汽车及其产业链可能成为市场关注方向。"
+      },
+      "sources": [
+        {
+          "publisher": "南方财经",
+          "title": "新央企国家数据集团成立；2026世界智能网联汽车大会今日开幕｜21早新闻",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13US1uUVlsSktlZ212b3lCNXhadlJSMEdaMmdqZHRtSk51dUpqMUtNQkY1ZllZRUd4R25Ma09OVUdpdFZ4N2QtOW5NeEJJN3NqSU9QTDhlSkZyQ1BiMzQyUUxtN19DYjQ?oc=5",
+          "publishedAt": "Tue, 20 Oct 2026 23:18:44 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-03",
+      "headline": "全球央行集体评估AI，他们到底在关心什么？",
+      "summary": "新浪财经围绕全球央行评估人工智能展开报道，关注点包括人工智能相关经济与政策议题。",
+      "concepts": [
+        {
+          "term": "央行与人工智能",
+          "explanation": "央行可能从生产率、通胀、劳动力市场、金融稳定和货币政策影响等角度评估人工智能发展。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "金融市场参与者可能关注人工智能对经济运行和货币政策传导的影响。",
+        "globalEconomy": "各国央行对人工智能的评估可能影响全球监管协调和政策讨论。",
+        "markets": "利率、汇率及相关资产定价可能继续受到人工智能预期和政策表态影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "全球央行集体评估AI，他们到底在关心什么？",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51cGVwMVpxeDR1dW5ZNWtpVTkzbVVxSFRfV0k2R2xhcUZxSVJQTC1HZ1VvS3hadzhxeUs0VXg5bkNoLWdKMXE3UmE1c0d1X2YxdnFJa1J1aExZb0dCQ3JLMVc2OTBUcUhSc1MwYWVNcnFKcFdFR1E?oc=5",
+          "publishedAt": "Wed, 21 Oct 2026 12:06:08 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-04",
+      "headline": "AI走进工厂，广东制造业发生了什么",
+      "summary": "21财经报道人工智能进入广东工厂及制造业的场景应用。",
+      "concepts": [
+        {
+          "term": "人工智能与制造业",
+          "explanation": "人工智能可用于生产过程、设备管理、质量控制和供应链优化等环节，落地效果取决于企业应用能力。"
+        },
+        {
+          "term": "制造业数字化转型",
+          "explanation": "制造业数字化转型通常涉及数据基础设施、生产流程改造和人才能力建设。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "人工智能应用可能影响制造业生产效率和产业结构升级。",
+        "globalEconomy": "制造业人工智能应用经验可能影响全球产业链和技术竞争。",
+        "markets": "智能制造、工业软件、工业设备及相关服务领域可能受到更多关注。"
+      },
+      "sources": [
+        {
+          "publisher": "21财经",
+          "title": "AI走进工厂，广东制造业发生了什么",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEdDRTBNUm56emhGZERSeEhLdS11cU5mNlVlOWw0eW1XTldxaEJGZFI1NGNKMTV1b3VDY3NLNUNwVDdFSnVMT09nRUNMamE4cVcwV1dOMVI4UmJkY1V4T0trd1ItWk9NalBSNmo4WFBRdTZicFVNd3FvQTY0QWpxa1ZRb3FtakxqbGszNWJ5bw?oc=5",
+          "publishedAt": "Wed, 21 Oct 2026 01:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-05",
+      "headline": "集运指数欧线期货连续主力合约日内跌8%，现报2438.00点",
+      "summary": "手机新浪网报道，集运指数欧线期货连续主力合约日内下跌8%，报2438.00点。",
+      "concepts": [
+        {
+          "term": "航运期货价格",
+          "explanation": "航运期货价格反映市场对相关运输服务未来供需和运价变化的预期。"
+        },
+        {
+          "term": "运价波动",
+          "explanation": "运价变化可能受到航线供需、燃油成本、港口效率和宏观经济预期等因素影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "航运及外贸相关行业可能关注国际运输成本和订单变化。",
+        "globalEconomy": "欧线运价变化可能反映全球贸易运输市场的预期波动。",
+        "markets": "航运期货及相关航运、外贸市场可能受到运价预期变化影响。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "集运指数欧线期货连续主力合约日内跌8%，现报2438.00点。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fM3ROOG1hNGFTRy00Nl9ZQ2dCdUdQalIxdmNzYUNFWVk0Nk1NMTNLa2o4TmZsZ2c0bE5va0UyeXpRTHYxeVpaclBOY2E3Wkk?oc=5",
+          "publishedAt": "Wed, 21 Oct 2026 06:30:46 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中可核验信息有限，以上仅选取标题和摘要明确支持事实的条目；部分来源未提供更详细正文，相关影响分析保持概括性。"
+}

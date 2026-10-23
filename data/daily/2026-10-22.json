@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-23T13:52:31+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-22-01",
+      "headline": "欧洲股市下跌，油价走高",
+      "summary": "路透社报道，欧洲STOXX 600指数录得三周来最大跌幅，银行股下挫，油价上涨。",
+      "concepts": [
+        {
+          "term": "STOXX 600",
+          "explanation": "由欧洲多国大型股票组成的代表性股指，反映欧洲大型上市公司的整体市场表现。"
+        },
+        {
+          "term": "油价与通胀预期",
+          "explanation": "能源价格上涨可能提高企业成本，并通过通胀预期和利率预期影响金融市场。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "欧洲市场波动可能影响全球风险偏好，并通过贸易和金融渠道传导至中国经济预期。",
+        "globalEconomy": "油价上升可能加剧通胀压力，影响主要经济体的货币政策路径。",
+        "markets": "银行股走弱和欧洲主要股指下跌，反映市场关注金融板块承压及能源价格变化。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Europe's STOXX 600 posts biggest drop in three weeks as banks tumble and oil climbs",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVJKdFpHOVNMc2FWbnFjeWFhUnpnQmhwSXAtNHA0amRvS0tSVjZYVTFTTWZNa01FaEVsQVp5TVRtSTVjMERpS0NaZnZoYWVwWDdsQV9IcXRoemlWc040dnI4MV82RDNsZVB2RlBCVmd6a1hTV0k4aXU4cG9Edzh4WHF0LXdXelJuUXRNbUhtalFoVm1OWVRFQXh1SHdEcWpIbFFhLUZYYw?oc=5",
+          "publishedAt": "Thu, 22 Oct 2026 17:19:19 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-02",
+      "headline": "美股科技板块下跌，AI疑虑再度升温",
+      "summary": "路透社报道，标普500指数和纳斯达克指数大幅收低，人工智能相关疑虑重新升温并引发科技股抛售。",
+      "concepts": [
+        {
+          "term": "纳斯达克指数",
+          "explanation": "纳斯达克指数包含较多科技公司，对科技行业预期和成长股估值变化较敏感。"
+        },
+        {
+          "term": "风险偏好",
+          "explanation": "市场风险偏好反映投资者承担风险资产的意愿，通常受到盈利预期、政策预期和流动性预期等因素影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "海外科技股估值波动可能影响国内相关产业的估值和资本开支预期。",
+        "globalEconomy": "AI预期变化可能影响全球科技产业投资和经济增长预期。",
+        "markets": "纳斯达克和标普500下跌，市场关注科技股估值及人工智能商业化预期。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+          "publishedAt": "Thu, 22 Oct 2026 23:54:52 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-03",
+      "headline": "美元走弱，市场等待美联储会议",
+      "summary": "Economies.com报道，在美联储会议前夕，美国国债收益率下降，美元走弱。",
+      "concepts": [
+        {
+          "term": "美元指数",
+          "explanation": "美元指数是衡量美元对一篮子主要货币汇率变化的指标，美元走弱通常意味着美元相对其他货币贬值。"
+        },
+        {
+          "term": "利率预期",
+          "explanation": "利率预期是市场对未来政策利率走势的判断，可能通过汇率、债券价格和资产估值影响金融市场。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美元和美债收益率变化可能影响跨境资本流动、人民币汇率及国内资产定价。",
+        "globalEconomy": "美元走弱可能改变全球资金配置和美元融资条件。",
+        "markets": "市场关注美联储会议前后的政策信号及其对美元、美债和其他资产的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "Economies.com",
+          "title": "US dollar slips as Treasury yields fall ahead of Federal Reserve meeting",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3VvdFduY2NnVnBEaWFlV3J2OS1sc1ZwWmVKam03SHo4TmNKTlJ5YnRUcWhQS3hQUGo5T0Y2dlg4TXl6aEJFQzI3cHdjWTI2NWNZM3JZeU9na0ZOSW1iX1lWNlR0QTlRVjFPVTI0Ql9yS1A1U1J0dnQxTGYtTkNpbFpvWXFqT0JWblBqMlVUQ182ODhzQTJWVUlnYW91NnllVWExdmE1Wng0Nzh5QUhwUFpxZ2JnOVE2aS1oZ1IzY25zZzJxNmQ4TnBn?oc=5",
+          "publishedAt": "Thu, 22 Oct 2026 06:18:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-04",
+      "headline": "亚洲市场下跌，油价走高",
+      "summary": "CoinDesk报道，亚洲市场抛售加剧，油价上涨，比特币价格跌至82000美元。",
+      "concepts": [
+        {
+          "term": "资产价格波动",
+          "explanation": "市场价格受宏观经济、政策、流动性及风险偏好等因素影响，可能出现快速波动。"
+        },
+        {
+          "term": "加密资产",
+          "explanation": "加密资产价格通常具有较高波动性，其走势可能受到流动性、杠杆和全球风险偏好的共同影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "油价上涨可能增加能源进口成本，并对通胀和企业成本形成压力。",
+        "globalEconomy": "亚洲市场走弱可能反映区域风险偏好下降和外部不确定性上升。",
+        "markets": "市场关注油价上涨与风险资产下跌并存，以及比特币价格变化。"
+      },
+      "sources": [
+        {
+          "publisher": "CoinDesk",
+          "title": "Asian market selloff deepens as oil rises. Bitcoin (BTC) price slips to $82,000",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGF1VUphN0o4MnZNLWtoR3VLM2JSS3VaamlKUGlvWXF0S2hvRXBocElpU19MdWRqQmUyQ2g5M21fUXBSQl9raHV5OE1yOFpPaWkzSWo0LU85S0I2VlREOTlBNExGVDB3WDRVYVhqaXZEbGtCQWdRUUJkY0RuRUVnZUdra2o1M1RnUTJTMmp5cFZLcy03Rzc2cjN4bmtRQ2RLTmtYdzd1VGc0QjRR?oc=5",
+          "publishedAt": "Thu, 22 Oct 2026 08:49:08 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分条目仅提供标题或摘要，缺乏足够正文信息，未纳入；本版共核验整理4条。"
+}

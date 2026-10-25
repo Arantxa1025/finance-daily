@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-24",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-25T13:51:20+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-24-01",
+      "headline": "央行将开展7000亿元MLF操作，保持银行体系流动性充裕",
+      "summary": "中国人民银行将开展7000亿元中期借贷便利操作，以保持银行体系流动性充裕。",
+      "concepts": [
+        {
+          "term": "中期借贷便利（MLF）",
+          "explanation": "中期借贷便利是央行向符合条件的金融机构提供中期资金的工具，操作规模和利率会影响银行体系资金供给及信贷条件。"
+        },
+        {
+          "term": "银行体系流动性",
+          "explanation": "流动性反映金融体系中可运用于支付、融资和信贷安排的资金充裕程度。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "操作可能有助于稳定银行体系资金面，并影响金融机构信贷投放条件。",
+        "globalEconomy": "相关政策可能通过利率、汇率及跨境资本流动预期对外部环境产生间接影响。",
+        "markets": "银行间资金利率、债券收益率及人民币汇率可能对政策操作作出反应。"
+      },
+      "sources": [
+        {
+          "publisher": "zqrb.cn",
+          "title": "央行将开展7000亿元MLF操作 保持银行体系流动性充裕",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02MlZSWG9NSEQ4ODl5bXFPSENJWDdEWWFManRmV1l0Z28zWnROcFpKM2YtclExS0lwZndaRVVWXy0xcERleUdOR2lRRDlzci15bVJDU3pUbkVoV0pPV01DRUxzZTVmQkFZSVMxTDM5RVVfQXhRZ1psSHh5Umw?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 18:05:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-02",
+      "headline": "美股半导体板块10月市值蒸发2.2万亿美元",
+      "summary": "每日经济新闻的一周国际财经综述称，围绕“AI算力过剩”的讨论扰动市场，美股半导体板块10月市值蒸发2.2万亿美元。",
+      "concepts": [
+        {
+          "term": "AI算力",
+          "explanation": "AI算力是为人工智能模型训练和推理提供计算处理能力的资源，其需求预期会影响相关硬件产业链。"
+        },
+        {
+          "term": "估值重定价",
+          "explanation": "当市场对行业增长、资本开支或供给过剩的预期发生变化时，投资者可能调整对相关资产未来现金流和估值倍数的判断。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "海外半导体估值波动可能影响国内相关产业链的市场情绪和融资预期。",
+        "globalEconomy": "算力投资预期变化可能影响全球科技产业资本开支及供应链订单预期。",
+        "markets": "市场可能继续关注半导体板块波动、AI资本开支周期及科技股估值风险。"
+      },
+      "sources": [
+        {
+          "publisher": "每日经济新闻",
+          "title": "“AI算力过剩论”搅动，美股半导体板块10月市值蒸发2.2万亿美元；白宫称特朗普夫人促成俄乌局部停火；美联储下周议息90%概率“按兵不动”；黄金跌破4000美元 | 一周国际财经",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tTjRyeS13WkREem5saVdPLWNJVjF4dnZlWU15djNCenU2ajduQmRVQXFBbkh0M1h0eFZkZThYcDlEY2FMNFpKWVM5OEhyV2FqTHd6TDVRR0dxLU5veHJldmVFeGpJdw?oc=5",
+          "publishedAt": "Sat, 24 Oct 2026 03:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-03",
+      "headline": "纽约原油暗盘突破103美元，布伦特原油日内上涨2.73%",
+      "summary": "市场报价显示，纽约原油暗盘突破103美元，日内涨超3.3%；布伦特原油失守112美元/桶，日内上涨2.73%。",
+      "concepts": [
+        {
+          "term": "暗盘交易",
+          "explanation": "暗盘是场外交易场所提供的报价和成交渠道，流动性与价格发现通常不同于正规集中交易市场。"
+        },
+        {
+          "term": "原油价格",
+          "explanation": "原油价格变化可能影响能源企业收入、通胀水平、运输成本以及不同经济体的贸易条件。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国际油价上行可能传导至国内能源、交通和制造业成本，并对通胀预期形成压力。",
+        "globalEconomy": "油价上涨可能影响主要能源进口国的贸易条件及货币政策环境。",
+        "markets": "能源生产商、油运、炼化及航空运输等板块的市场关注度可能提高，通胀敏感资产也可能波动。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "纽约原油暗盘突破103美元，日内涨超3.3%。",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RNWI3ZnNaU0JKcUlVLTVnN25odk1OaGJHYUc5dTdfT18wTERnYjhsUE5lekJLY05Rc1RXZGRyeE9xR2I1UDhvR0hEUmcxTTBO?oc=5",
+          "publishedAt": "Sat, 24 Oct 2026 03:40:57 GMT"
+        },
+        {
+          "publisher": "手机新浪网",
+          "title": "布伦特原油失守112美元/桶，日内涨2.73%。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LYmVNblBkU3FacjhzSE4xd1BoSGp0MVBTMEtXMldXem5yaF9OUGxfNzhqMzVWV0lMTzJVNV8xMTNDY3dyU28xUExqTUw3QkE?oc=5",
+          "publishedAt": "Fri, 23 Oct 2026 21:44:50 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-04",
+      "headline": "私募投资母基金管理规定征求意见",
+      "summary": "新浪财经报道，私募投资母基金管理相关规定正在征求意见。",
+      "concepts": [
+        {
+          "term": "私募投资基金",
+          "explanation": "私募投资基金通过非公开方式募集资金并主要投资于非公开证券或相关资产，母基金通常以投资其他基金为主要方式。"
+        },
+        {
+          "term": "母基金",
+          "explanation": "母基金通过投资子基金实现组合配置和风险分散，其管理规则可能影响募资、投资流程及合规要求。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "规则完善可能影响私募股权和创投投资的募资、投资及退出安排。",
+        "globalEconomy": "境内私募母基金管理规则变化可能影响跨境基金募资和外资机构参与境内投资的合规安排。",
+        "markets": "私募股权、创投及相关基金份额市场可能关注征求意见后的规则变化。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "私募投资母基金管理规定征求意见",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUdEWHRYWDkzWE5GYkVYZzFnV1NmS19pQlBfNm82b2hWalI3X0FmaVJKdVpJWTdBaXRiMEdqSWswNFhHYXRFUE9hN1VjbElpMldJeTZhT1FtMmdCYmlhYkhvRmpNMUdaN2tOdzVzR2IzV21tSjg0amFOQWcxSksyaA?oc=5",
+          "publishedAt": "Sat, 24 Oct 2026 03:03:10 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-05",
+      "headline": "人民币升值9%之后，市场关注汇率后续变化",
+      "summary": "财新周刊发布题为“人民币升值9%之后”的专题，关注人民币汇率变化及其后续影响。",
+      "concepts": [
+        {
+          "term": "人民币汇率",
+          "explanation": "人民币汇率反映人民币与外币的兑换关系，其变化可能影响进出口成本、跨境资本流动和居民资产价值。"
+        },
+        {
+          "term": "汇率预期",
+          "explanation": "汇率预期是市场参与者对未来汇率走势的判断，可能通过贸易、资产配置和避险行为影响实际汇率。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "人民币升值可能影响出口企业收入、外币负债负担及进出口价格竞争力。",
+        "globalEconomy": "汇率变化可能影响跨境贸易计价、资本流动和区域货币市场情绪。",
+        "markets": "市场可能关注人民币汇率、境内外利差、跨境资金流向及汇率敏感行业表现。"
+      },
+      "sources": [
+        {
+          "publisher": "财新周刊",
+          "title": "最新财新周刊｜人民币升值9%之后",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SUHMxUWhSeGdhQ3FBb2xPRWphMmd2Rnl3dXZOYkFhWm1BT1hXTGEzdG53cG14ckE4bE9pUmVvUUd5bUVSc3JURzdiaVQzd0ZWMnhwakh1azk4VWk4ZGdlWQ?oc=5",
+          "publishedAt": "Sat, 24 Oct 2026 10:03:07 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-06",
+      "headline": "2025年全国初婚人数1042.33万",
+      "summary": "珠海网报道，2025年全国初婚人数为1042.33万。",
+      "concepts": [
+        {
+          "term": "初婚人数",
+          "explanation": "初婚人数是统计期内首次结婚的人口数量，可用于观察婚姻登记变化，但其变化也可能受到婚育年龄推迟和人口结构等因素影响。"
+        },
+        {
+          "term": "人口结构",
+          "explanation": "人口结构包括不同年龄、性别及城乡群体的数量和比例，会影响婚姻、生育及消费服务需求。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "婚姻登记变化可能影响住房、家电、婚庆及母婴消费等相关需求。",
+        "globalEconomy": "该数据主要反映中国国内人口与婚姻状况，对全球经济直接影响有限。",
+        "markets": "市场可能关注人口结构变化对消费行业需求、住房需求及长期经济潜在增速的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "珠海网",
+          "title": "2025年全国初婚人数1042.33万",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yZlRUOHFKMXJMTHZsWGZiaDN6Z3JDQUdFb1U3T05GS2toT3RyMjk0S01EQ0xWMVBuWkdKT1d2VllmWTd0b3VUNk44X0VfdER3NWtDcUJEd2ZCaWh2d2RLQU9uT2VvSk9yNnN3NFV3ZnNjMV9iTVM4?oc=5",
+          "publishedAt": "Sat, 24 Oct 2026 11:27:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分条目仅提供标题、摘要或指数页，无法核验正文；本期仅选取标题与摘要中具备明确财经事实的条目。部分市场报价来自暗盘交易，其流动性和价格代表性有限。"
+}

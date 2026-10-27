@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-26",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-10-27T14:07:15+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-10-26-01",
+      "headline": "央行正式推出面向非银机构的债市流动性支持工具",
+      "summary": "中国人民银行正式推出面向非银机构的债券市场流动性支持工具，并决定设立债市非银大额赎回互换便利。相关工具酝酿一年多。",
+      "concepts": [
+        {
+          "term": "互换便利",
+          "explanation": "通常指中央银行与金融机构通过互换资产获取流动性的安排，可用于管理债券市场资金压力。"
+        },
+        {
+          "term": "债券市场流动性",
+          "explanation": "指市场参与者以合理成本进行债券交易和融资的能力，流动性变化通常会影响债券价格与波动率。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "工具可能改善非银机构资金安排，缓和非银机构流动性压力，并影响债券市场融资条件。",
+        "globalEconomy": "相关操作主要作用于中国债券市场，对全球经济的直接影响可能有限。",
+        "markets": "债券市场可能关注互换便利的操作方式、使用规模及其对资金面和收益率的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "财新",
+          "title": "酝酿一年多 央行正式推出面向非银机构的债市流动性支持工具",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ySzAzMkRRLU9vU3VVaHVzX2xPMWlmVjgxNlotdExad2hIbzk0S3dWb2xKekc0MTdjTl8yTlZUVGJUbWFpVm9LdE1lR05VUFJ1bEVUYk9ueHBVX3dqand0WGtR?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 10:40:00 GMT"
+        },
+        {
+          "publisher": "www.zqrb.cn",
+          "title": "央行最新公告！决定设立债市非银大额赎回互换便利",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tVDJ0d2dlZXpIdkRpakZkZV85ZU1nM2N6a25GRWdvXzMyRmxvOFA4ck1WRUVVNFNjZU52Um1UTVpSb2czb1c2b0s3Ukd1WTZVbjVZNGVGbi1EZlZLQ3UtaVIyNDBzazV3SVg1NHVCSVlmdURubjlGMllDa18?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 10:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-02",
+      "headline": "英国央行释放三年多来最强鹰派信号，市场关注11月加息可能",
+      "summary": "报道称，通胀冲击与经济韧性叠加，英国央行释放三年多来最强鹰派信号，11月加息可能性受到市场关注。",
+      "concepts": [
+        {
+          "term": "鹰派货币政策",
+          "explanation": "指央行更倾向于维持较高利率或收紧金融条件，以应对通胀压力或过热的经济活动。"
+        },
+        {
+          "term": "政策利率",
+          "explanation": "央行通过调整政策利率影响银行融资成本、信贷条件、汇率以及资产价格。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若英国央行进一步收紧政策，英国融资成本和信贷条件可能受到影响。",
+        "globalEconomy": "主要发达经济体货币政策预期变化，可能影响全球利率预期、资金流向和汇率波动。",
+        "markets": "市场将继续关注英国通胀、工资、增长数据以及11月议息会议的政策信号。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "通胀冲击叠加经济韧性！英国央行释放三年多来最强鹰派信号 11月加息箭在弦上",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWU9SOU5aMTlFbGJyc2x6NHBYb3l4MEFGREZIckxTdG5fYU45OFNvQ21yZWRGQl9wa3ZpYldBZ3R1b1ZxSGNoVXk4MGxpVDhnamQxT2NneXZFVVpoekUwNU80LVNKc3VBdkFGUWk5OE9IUmFpNWYxNXpNWFRLSl9TTHFFRHFvZm9YT3dlbUdnazgyQVg0cXppeGxNYXpBUngtWUVuZm9MOEU5eXlKVXBfdENpNHlnUVp4blZ5eG1ObThVX2RPejdkbVNJRVN2cHZiLWVUekJkdnV6YmpteGpUQ0Jjd3RZQUV1MHRvQQ?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 06:08:26 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-03",
+      "headline": "美联储料在10月维持利率不变，市场等待政策决议",
+      "summary": "CNBC报道称，美联储可能在10月维持利率稳定；路透社报道认为美联储将在加息问题上暂停，但这一状态可能不会持续。投资者同时关注美联储决议及相关通胀报告。",
+      "concepts": [
+        {
+          "term": "利率暂停",
+          "explanation": "指央行本次会议不调整政策利率，以便进一步评估通胀、就业和经济活动变化。"
+        },
+        {
+          "term": "实际利率",
+          "explanation": "名义利率扣除通胀预期后的利率，用于观察金融条件对消费、投资和资产估值的实际影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储政策路径可能通过全球资本流动、汇率和风险偏好间接影响中国金融条件。",
+        "globalEconomy": "利率维持较高水平可能继续影响全球融资成本、债券收益率和资本配置。",
+        "markets": "美元、美债收益率及全球权益市场可能继续对美联储声明、通胀数据和点阵图等政策信息保持敏感。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXZ6VS16VVVGaDZiM2NoUDVUX0NQVldsR3RZZkZRR0lXb0R0Sm56dVdFTjh3X2dURUh5N2FUYXgyUGZ5QXlWUzJobDhpWTRHTjZ2YzA5Ry1LQ3hJNk93OGNab2c3T1lGRUNCcmR4TFZNWTVOX1I1Z19WckhFbEJldGVXUznSAYoBQVVfeXFMTjVYMVJhMVNScnd1RE1ObnFaMFhENE03c1NqZW5EaHpGbjUweWRQMXVwMl93ZjczZUlBSC02aDZsLVkydzdCMFlWc0xUZG15TTU0V2hTQnJTMS1iTWJ1ckdSejdCcnlIMWRZTnNaNUZmcnlOa01JOHNNYjQ2OEZyOXpTQzVjMmtDUzRR?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 16:03:57 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed to hit pause on rate hikes, but maybe not for long",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 10:22:43 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-04",
+      "headline": "油价回落缓和通胀担忧，黄金价格上涨",
+      "summary": "路透社报道称，油价下跌缓解了市场对通胀的担忧，黄金随之上涨；同一报道还提到全球股市在风险资产周到来前走高。另有报道指出，高油价正在扰动全球央行降息节奏。",
+      "concepts": [
+        {
+          "term": "油价与通胀传导",
+          "explanation": "能源价格可通过运输、生产和消费成本影响整体通胀，并可能改变央行对通胀风险与降息节奏的判断。"
+        },
+        {
+          "term": "避险资产",
+          "explanation": "黄金通常被视为避险资产，其价格可能受到实际利率、美元、风险偏好及实际需求等因素影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国际油价变化可能影响中国能源进口成本、运输价格和通胀预期，并改变货币政策空间判断。",
+        "globalEconomy": "能源价格与主要央行政策预期共同影响全球增长和通胀前景。",
+        "markets": "原油、黄金、美元和主权债券市场可能继续关注能源价格、央行会议及通胀数据。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 05:56:00 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "油价高企扰动全球央行降息节奏 货币政策承压调整",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04a1hyd19lOTVhVW5lWVhUb3JYVVVYbnpsUG9iMUI1Nkdxc1hMU3FuWFVvbzhmb0NQdXk5cDNZeEFMSFk0aElabmQ1R3ZBTVdBTi1jNWs2T2JvUlVFVXB2WG40T0czNk1HODZXMk82SHg?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 03:18:54 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-05",
+      "headline": "欧洲央行与日本央行决议前欧元走弱，部分市场关注美元兑日元157关口",
+      "summary": "路透社报道称，在欧洲央行和日本央行会议前，欧元走弱。另有报道关注美联储、经济增长数据及日本央行相关因素，认为美元兑日元在157附近维持拉锯。",
+      "concepts": [
+        {
+          "term": "利差",
+          "explanation": "不同经济体利率或预期政策路径的差异可能影响资本流向、汇率和跨境资产配置。"
+        },
+        {
+          "term": "汇率预期",
+          "explanation": "市场对未来政策利率、增长前景和风险偏好的综合判断可能反映在货币的即期和远期价格中。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "主要货币汇率波动可能影响中国跨境资本流动、进口成本和企业汇兑环境。",
+        "globalEconomy": "欧美日货币政策预期变化可能影响全球资金流向及国际金融条件。",
+        "markets": "外汇市场可能继续关注欧洲央行、日本央行和美联储的政策信号及各国经济数据。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Euro slips ahead of central bank meetings, real tumbles",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 02:02:00 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "157关口拉锯！美联储、GDP、日本央行“三连炸”，美元兑日元本周要变盘？",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOclh0ZG02eUM4d2dGTFBjODN4Z0MtOGQyZE04RnV5S1pfX0JnRUZZTndtOFdCS3Q4cEFJeEx4X2lBbUo1ajd4WFMwMHR6VmVUOTlPQ1FaY0hxM0VQR2hKVW5kLWlQZThFRE5XNmwxMlVwZEVGSzlXcFhXMzZvTE5tb2pkeUJaS3NBUjZHeVpsVXZJZHRCMkxMMXBsZ0trcjlfNTdrdU5HTFdoQmxHN2p3SGExZy01elE3c3NkT0o5U053OUZWbnQ3NDZ1NXBTa183S24zcDY1ZmhUZDRJdHhIdg?oc=5",
+          "publishedAt": "Mon, 26 Oct 2026 05:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-26-06",
+      "headline": "基金发行再遇冷",
+      "summary": "新浪财经以“基金发行再遇冷，什么原因？”为题，对基金发行降温现象及其原因进行讨论。候选来源未提供具体发行规模、降温幅度或原因细节。",
+      "concepts": [
+        {
+          "term": "基金发行",
+          "explanation": "基金管理人面向投资者募集新基金并建立基金产品的过程，发行情况可反映部分投资者的风险偏好和资金配置意愿。"
+        },
+        {
+          "term": "风险偏好",
+          "explanation": "投资者承担市场波动以获取潜在收益的倾向，可能受到收益预期、波动环境和产品供给等因素影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "基金发行降温可能反映部分居民和机构资金配置意愿变化，但仅凭候选标题无法判断整体资金流向。",
+        "globalEconomy": "该报道直接涉及中国境内基金市场，对全球经济的直接影响可能有限。",
+        "markets": "市场可能关注基金募集规模、新发产品结构以及权益与固收类产品的资金偏好。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "基金发行再遇冷，什么原因？",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pWjM5V2J4V0pIMWpsOVNyYm9LWkQyb3BUQzR6eWFBckMtSWRwdExiZFJwZ01vSVdxcF9WWDViM2lkZ1pZWWFtN2hvRUoyM2hMWkN4ZUI5Y2JVcl9jaTJieFRJaTJKZUJDcmVMM0U4ZjVpSHVTZWpadQ?oc=5",
+          "publishedAt": "Sun, 25 Oct 2026 16:01:42 GMT"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-02",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-03T15:46:11+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-02-01",
+      "headline": "央行证监会召集各大银行开会，研究优化股票回购政策",
+      "summary": "中国人民银行与中国证监会召集各大银行开会，研究优化股票回购政策。",
+      "concepts": [
+        {
+          "term": "股票回购",
+          "explanation": "上市公司回购股份通常用于减少流通股份或用于股权激励等安排；回购政策变化可能影响市场参与者预期。"
+        },
+        {
+          "term": "资本市场政策",
+          "explanation": "监管部门和金融机构沟通政策安排，可能影响市场流动性、融资活动及投资者预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "政策优化若落地，或对资本市场运行和相关金融机构业务预期产生影响。",
+        "globalEconomy": "目前公开标题未显示涉及国际经济政策。",
+        "markets": "市场关注股票回购制度是否优化，以及相关政策信号对上市公司和券商等机构的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "央行证监会召集各大银行开会 研究优化股票回购政策",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85TXF5U1Baa1ZUM09PT2h0cDBGSFE5SGlZVnoxZ1BSbmZNa1ZIU1BKdV95MmRSaFJNb2pYSU0tZVlUOFdWNnJMTk1UOGt5OFhiZUdPTHZkaVgwQ0FHLUlHVEtQUWtQSVRQZXZXN1R5TXo?oc=5",
+          "publishedAt": "Mon, 02 Nov 2026 03:34:53 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-02",
+      "headline": "香港交易所延长衍生产品收市后交易时段",
+      "summary": "香港交易所宣布延长衍生产品收市后交易时段。",
+      "concepts": [
+        {
+          "term": "衍生产品交易时段",
+          "explanation": "延长收市后交易时段可增加衍生产品可交易时间，并可能提升跨市场风险对冲的灵活性。"
+        },
+        {
+          "term": "市场流动性",
+          "explanation": "交易时间延长可能扩大参与者的风险管理和套期保值窗口，但实际效果取决于成交规模及流动性变化。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "该安排可能影响香港金融市场基础设施与衍生品参与者的交易安排。",
+        "globalEconomy": "收市后时段延长或提高香港市场承接亚洲及欧美交易时段价格波动的能力。",
+        "markets": "市场关注衍生品交易覆盖时间、成交活跃度及对冲成本的变化。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "香港交易所：延长衍生产品收市后交易时段",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wRkxBN2R1WFo2NGpFUmVHOGlBZXM2Vjc0ZWxKV1NGUDI2RDJ6VzVhc1ljUURET1VsSlVfU0Z0SURfSTJLQmVmazRpNW1Uc0FUN2xQNk1WS3Q3U2x4bEZFUktXTUZINzhjeUU3Vm9mT0FoaGJnZkE3WQ?oc=5",
+          "publishedAt": "Mon, 02 Nov 2026 09:19:43 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-03",
+      "headline": "美欧日央行暂停加息，全球货币政策关注点转向利率路径",
+      "summary": "新浪财经刊发管涛的文章，标题称美国、欧洲和日本央行如期暂停加息。",
+      "concepts": [
+        {
+          "term": "暂停加息",
+          "explanation": "央行暂停调整政策利率，意味着利率暂时维持在现有水平，但不代表后续政策路径已经确定。"
+        },
+        {
+          "term": "货币政策预期",
+          "explanation": "市场通常根据经济、通胀和就业数据判断央行未来可能加息或降息的时点与幅度。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "主要经济体利率维持稳定可能影响外部融资环境及跨境资本流动预期。",
+        "globalEconomy": "美欧日货币政策同步进入暂停阶段，或使全球利率预期和汇率波动受到通胀、就业数据及政策沟通的共同影响。",
+        "markets": "市场关注后续通胀和就业数据，以及主要央行对利率路径的表态。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "管涛：美欧日央行如期暂停加息",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT283UVVna1lNdjd3RlBZb1J4Tm5XSVprNVVLTy0tS3YxQ3JvS2NxNEpOUHhZSDFUY2ozblJwdUhBZG5YNVlTYnVBWnoxbWc1aW9tbjVJRUlpanZjVzNldC1tMXFvUGY4SWJmdnktNTFLWUpmRy1LTU05LV9kTjVRZ0ptdkhKSXJ4UjhiU3BjMA?oc=5",
+          "publishedAt": "Mon, 02 Nov 2026 06:04:28 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-04",
+      "headline": "美国科技股抛售拖累全球股市，美元走弱且油价大跌",
+      "summary": "路透社报道，美国科技股抛售拖累全球股市进入下跌区域；另一篇路透社报道显示，在美国中期选举前油价大跌之际，美元走弱。",
+      "concepts": [
+        {
+          "term": "科技股抛售",
+          "explanation": "科技股集中下跌可能通过风险偏好、估值及指数权重效应影响其他地区股市。"
+        },
+        {
+          "term": "美元与油价",
+          "explanation": "美元和原油价格受利率预期、增长前景、地缘政治及供需变化等因素共同影响，汇率与油价的同步变动可能传导至通胀预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球风险偏好下降和美元走弱，可能影响跨境资本流动、人民币汇率及进口成本预期。",
+        "globalEconomy": "油价大跌可能压低能源成本并缓解部分通胀压力，但其对增长和通胀的净影响仍取决于下跌原因。",
+        "markets": "市场关注美国科技股波动向全球股市的传导，以及美元、原油和黄金等资产的后续走势。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "US tech selloff drags global stocks back into the red",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
+          "publishedAt": "Mon, 02 Nov 2026 00:41:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Dollar falls ahead of US midterms as oil plummets",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5",
+          "publishedAt": "Mon, 02 Nov 2026 00:57:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-05",
+      "headline": "油价下跌推动黄金从一年低位反弹",
+      "summary": "CNBC报道，受油价走软影响，黄金从一年低位上涨；美国中期选举亦受到市场关注。",
+      "concepts": [
+        {
+          "term": "黄金避险属性",
+          "explanation": "黄金通常被视为避险资产，但其价格同时受到美元、实际利率、流动性及地缘风险等因素影响。"
+        },
+        {
+          "term": "避险资产联动",
+          "explanation": "当油价下跌反映需求或风险预期变化时，黄金走势未必同步；不同资产可能分别反映通胀、利率和风险偏好预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "黄金与原油价格变化可能影响以美元计价的大宗商品成本、矿业企业表现及居民资产配置。",
+        "globalEconomy": "美元、利率预期和避险需求的变化，或继续影响黄金及其他大宗商品价格。",
+        "markets": "市场关注油价进一步变化及美国通胀数据对黄金、美元和美债收益率的共同影响。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Gold rises from one-year low on softer oil prices; U.S. midterms in focus",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZEFyaHlIS09zM3U3UEJjanBfMjhFd1hueWtlZjAwdFdBb1dQV3dGb1JjaGRzTjlZUmtFV3p1QmxCY0VSaS1LT0xwZ1ZyTk9idXZLQlVTQzY0LU1IZU51REhEQ3FCSXpVVGllbFFWckc2d0FTZ0duR1JycW9idXV2eVpSblJzQlB1dmpNUGM2SjXSAZYBQVVfeXFMTjQ0SmZSckhreXRTdTJYUEc4SHgxS3hLWGtaMDlvZmF1Y1hOd25TaDJ0bldXXzlRZVRDcWFxTXpnMHBvUkNiaHRrYVgxMzMzSDhJRUwyV3ducDd0d05BZXA1N3ZmT1p3UDRCZ0RlVXcyV2lYdnY1MDV4eFZuNUNyeUdHSUNGNHJUQjBYLVRaTU1ranBtX25B?oc=5",
+          "publishedAt": "Mon, 02 Nov 2026 05:23:20 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-06",
+      "headline": "印度监管机构据报支持取消外国人长期资本利得税",
+      "summary": "路透社独家报道援引消息人士称，印度监管机构支持取消外国人长期资本利得税。",
+      "concepts": [
+        {
+          "term": "长期资本利得税",
+          "explanation": "长期资本利得税是对符合条件资产长期处置收益征收的税种；税率变化可能影响跨境直接投资和资产持有决策。"
+        },
+        {
+          "term": "外国投资者",
+          "explanation": "税制变化可能通过预期回报、资本流动和市场风险偏好影响外资参与当地金融市场的程度。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若相关政策落地，或改善印度吸引长期外国资本的条件，并影响国内资本市场资金供给。",
+        "globalEconomy": "印度属于新兴市场，该税制信号可能受到其他新兴市场吸引国际资本政策变化的关注。",
+        "markets": "市场关注政策是否正式出台、适用范围和实施时间，以及印度股票、债券及卢比可能受到的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5",
+          "publishedAt": "Mon, 02 Nov 2026 06:38:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中有多条内容发布于2026-11-03或期次日期之后，未纳入本期；另有个别候选标题与实际报道日期明显不一致，已依据候选标题及摘要作保守整理。"
+}

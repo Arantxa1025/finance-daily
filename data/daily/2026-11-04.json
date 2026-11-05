@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-04",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-05T15:50:15+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-04-01",
+      "headline": "央行下调股票回购增持再贷款利率0.25个百分点至1%",
+      "summary": "中国人民银行宣布，自2026年11月4日起，将股票回购增持再贷款利率下调0.25个百分点至1%。",
+      "concepts": [
+        {
+          "term": "股票回购增持再贷款",
+          "explanation": "央行向金融机构提供的再贷款工具，用于支持其向股票回购和增持主体提供贷款，以便利资本市场资金供给。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "政策工具利率下降，或降低金融机构向股票回购增持相关主体提供资金的成本。",
+        "globalEconomy": "该措施主要影响中国资本市场，对全球经济的直接影响有限。",
+        "markets": "市场关注政策对上市公司回购、股东增持活动及A股相关板块资金面的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "央行：自2026年11月4日起 下调股票回购增持再贷款利率0.25个百分点至1%",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSk42NUFoN3pfOVJKRWpndUVSTzBlOFZhanNWeFF6ZUNEMUFRNnBpckdjUDdyYlVaU1U0Tmc3ajVQSG9LN21qd09mNkhmaGR4OHlyZWVGRTVzNHRNUmRDeEV4a2YzWnpQSkxQZ3hGY21lSjVJdU1uaDE4Ni1QUWZyYlp0Q0lLc0U4b0FzY1lrNkRDa2h3?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 01:09:14 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-02",
+      "headline": "央行将上调金融机构外汇存款准备金率至6%",
+      "summary": "报道称，中国人民银行将上调金融机构外汇存款准备金率至6%。",
+      "concepts": [
+        {
+          "term": "外汇存款准备金率",
+          "explanation": "金融机构吸收外汇存款时按比例向中央银行缴存准备金的制度安排，其调整会影响银行体系可用外汇资金及流动性管理。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "准备金率调整可能影响金融机构外汇资金头寸和流动性管理，并释放稳汇率信号。",
+        "globalEconomy": "中国金融体系外汇流动性变化可能受到国际市场关注。",
+        "markets": "市场关注人民币汇率、境内外汇资金供求以及银行相关资产价格的后续反应。"
+      },
+      "sources": [
+        {
+          "publisher": "zqrb.cn",
+          "title": "央行将上调金融机构外汇存款准备金率至6%",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3d1VicXdORll5eHNOOWZYVnpzaV9tNFVmcjhEOTVsT2RyXzRCZEltZlRXbVp1MExsdDE0bXdYaGY3YUk5SE9ka0l2ZkRVVm1GaFdxemJsdlFoQWVhbzlVV2ZjWl9oVnRSUDUwcHNqc2psVllvWmZxOWF1WUo?oc=5",
+          "publishedAt": "Tue, 03 Nov 2026 16:56:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-03",
+      "headline": "欧元区通胀升至4%，为三年来首次",
+      "summary": "CNBC报道称，欧元区通胀率达到4%，为三年来首次，加息预期随之升温。",
+      "concepts": [
+        {
+          "term": "欧元区通胀",
+          "explanation": "欧元区价格水平的整体涨幅，通常会影响货币政策取向、居民实际收入和融资环境。"
+        },
+        {
+          "term": "货币政策紧缩",
+          "explanation": "当通胀持续偏高时，央行可能通过提高政策利率等手段抑制需求和价格压力。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "欧元区通胀上升可能通过外需、贸易和汇率渠道对中国出口及跨境资本流动产生影响。",
+        "globalEconomy": "欧洲利率预期升温可能带动全球融资成本和汇率波动。",
+        "markets": "市场关注欧洲债券收益率、欧元及全球权益资产对潜在加息的定价变化。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZE40ZWZuWllSbGhUMVRQLVVNaU5lc1NVWnhZZFFRQWRDbTN1aDllekVocUlJTmZWUi1adGNVdFI5dVlGQ0xNWW9HZGVpanlqVjA2VWxlMFF2elgwWUd6T09hbHhaMTBRRlZzc1RwRVd0Tkc1Q1loZDVkYXpqTkYwY1F1dGxTYzlhZkE?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 10:47:30 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-04",
+      "headline": "美国10月新增就业8.6万人，黄金维持每盎司4000美元附近",
+      "summary": "Kitco报道称，美国自动数据处理协会公布10月美国经济新增就业8.6万人，同期金价维持在每盎司4000美元附近。",
+      "concepts": [
+        {
+          "term": "ADP就业数据",
+          "explanation": "ADP就业数据由美国自动数据处理协会发布，常被市场用于观察私营部门就业变化，但不等同于官方就业统计。"
+        },
+        {
+          "term": "黄金避险资产",
+          "explanation": "黄金常被视为避险和对冲货币、利率及地缘政治风险的资产，其价格受实际利率、美元和风险偏好共同影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国就业放缓可能影响美联储利率路径，并通过美元和全球流动性影响中国跨境资本流动及人民币汇率。",
+        "globalEconomy": "就业数据与高金价并存，反映市场对经济增长和避险需求的不同定价。",
+        "markets": "市场关注美元、黄金、美债及权益资产对后续美国经济数据和美联储政策的重新定价。"
+      },
+      "sources": [
+        {
+          "publisher": "Kitco",
+          "title": "Gold prices holding $4,000 as ADP says US economy created 86k jobs in October",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3JJQ0JVcFViZEdtMnFab3NIX05UeUN6OHRBOTV4ajZqemplQldMd2IyZURDeFJSUS1FR296YWVrbzd3X01jd0NJRE1QNE1hUTUzd3c1b19vLTBwbC1SdlVDNldmRGZsV3NzM2NKaGlQb0FpNUdjTk1lUjFqOUZ5OFNlR2FCdFBtNksyQ21HUDFtU2hoNzI0eGZuTjJaQ0FVcmxzaDVLc2R4d1U3RExobWJMUmFUdw?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 13:15:45 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-05",
+      "headline": "全球央行第三季度购金321吨，购金速度创纪录",
+      "summary": "中华网援引最新报告称，全球央行在第三季度购入321吨黄金，购金速度创下纪录。",
+      "concepts": [
+        {
+          "term": "央行购金",
+          "explanation": "央行购买黄金可增加官方储备中的黄金资产，并使外汇储备结构更加多元，降低对单一主权信用资产的依赖。"
+        },
+        {
+          "term": "储备资产多元化",
+          "explanation": "当经济体调整外汇储备结构时，黄金等非主权信用资产可能获得更高配置比例。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "黄金需求上升可能增强黄金在储备管理中的重要性，并影响国内黄金产业和投资需求。",
+        "globalEconomy": "官方部门持续增持黄金，可能反映储备多元化和避险需求上升。",
+        "markets": "市场关注国际金价、黄金矿业企业表现及黄金与美元、利率之间的联动。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "全球央行Q3狂扫黄金321吨 购金速度创纪录",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5eEw3bTJTREpQM3lQM3ZQN00xUmdQdkNuR0lzaGs2LTQyT2R4Z0V6OXE5cUZDaTNIQWRBZWJVRERqT2JreHRwdVlYZ19PZ1VKRTkzemhDSnpZMHZnTkU2aFFwSzVFY0J2WUNLSkwxOG8?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 01:39:31 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-06",
+      "headline": "长江存储IPO暂缓，据报中国收紧股份出售审批",
+      "summary": "路透社独家报道称，长江存储的首次公开募股暂缓，原因据报是中国收紧了股份出售审批。",
+      "concepts": [
+        {
+          "term": "首次公开募股",
+          "explanation": "首次公开募股是企业首次向公众发行股份并募集资金，常用于筹集长期资本和扩大公众股东基础。"
+        },
+        {
+          "term": "股份出售审批",
+          "explanation": "监管机构对股份出售实施审查，可能影响相关方减持、交易安排以及拟上市公司的上市进程。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "大型科技企业上市进程放缓，可能影响半导体行业直接融资和资本开支安排。",
+        "globalEconomy": "中国境内上市审批趋严可能影响国际投资者对中国科技企业融资环境的判断。",
+        "markets": "市场关注半导体板块、境内IPO进程及与长江存储相关的产业链估值。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 10:59:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中有部分报道发布时间晚于本期日期，已排除；同一事件的重复或相近报道已合并。部分候选仅提供标题和摘要，正文细节无法核验，因此摘要仅保留标题与摘要明确陈述的事实。"
+}

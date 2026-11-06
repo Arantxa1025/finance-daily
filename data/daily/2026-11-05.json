@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-06T15:50:21+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-05-01",
+      "headline": "中国人民银行将开展3000亿元买断式逆回购操作",
+      "summary": "中国人民银行表示，将于11月5日开展3000亿元买断式逆回购操作；另有报道显示，央行此前缩量续做3个月期买断式逆回购。",
+      "concepts": [
+        {
+          "term": "买断式逆回购",
+          "explanation": "央行向市场提供中期流动性并允许交易对手依法转让相关债券的货币政策工具，有助于管理银行体系资金面。"
+        },
+        {
+          "term": "流动性管理",
+          "explanation": "央行通过公开市场操作调节短期和中期资金供求，以影响银行间市场利率及融资条件。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "操作规模可能影响银行体系流动性供给，并进一步作用于企业融资环境。",
+        "globalEconomy": "国内流动性调整可能通过人民币资金成本和跨境资本流动对区域资金面产生间接影响。",
+        "markets": "债券收益率曲线、人民币汇率及银行间市场利率可能受到资金供求变化影响。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "央行：11月5日将开展3000亿元买断式逆回购操作 流动性管理调整",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sWXJoU243dDRHTGpvcVFETXdVNTZRWWtCYlFkZU1oSDdzNUJZUUIwajBkU1pWQjdjdFZMc3JUdC1ubnlLbFlyTGJxNjVUS2VodHREQTl4cGVXak5sWTAxR1ZLd2JjRmlUaFRsb2c5WnY?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 01:00:19 GMT"
+        },
+        {
+          "publisher": "zqrb.cn",
+          "title": "央行缩量续做3个月期买断式逆回购",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RaFBseTg3M19ocHpBM28wc3JCMFlCM2RuX2xOY3BMZGhUb01TbHN6WHdIVDItWFBIUXRCekFVZV9qZXdDb2xfaWp3aXB1ZUQxakEyTkRuaXBwcFJVV0VYNjh3aTRtQWZYUDU0NXVQaWtRQU1wMWkyWldiNGY?oc=5",
+          "publishedAt": "Wed, 04 Nov 2026 17:25:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-02",
+      "headline": "美股科技板块大幅回撤，纳斯达克指数录得19个月最大单日跌幅",
+      "summary": "路透社报道，纳斯达克指数因市场担忧人工智能监管而录得19个月最大单日跌幅；其他报道显示，投资者从纳斯达克相关股票中撤走2.5万亿美元，亚洲股市亦受到美国人工智能板块下跌影响。",
+      "concepts": [
+        {
+          "term": "科技股估值调整",
+          "explanation": "当监管预期、资本开支回报或增长预期发生变化时，高估值科技资产可能面临较大的价格重估。"
+        },
+        {
+          "term": "跨市场风险传导",
+          "explanation": "美国大型科技股波动可通过全球投资组合、风险偏好和区域资产估值传导至其他市场。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球风险偏好下降可能影响中国科技产业融资情绪、跨境资本流向及出口企业预期。",
+        "globalEconomy": "人工智能监管不确定性可能影响美国科技企业投资计划，并对全球相关产业链形成传导。",
+        "markets": "纳斯达克及亚洲股市波动可能加剧，全球半导体、人工智能基础设施和成长股估值面临关注。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 10:54:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 11:23:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Asia stocks tumble after AI rout rocks US markets",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG9ENFo3M0RHNWI0VEdfTlZhWmpjVGR0UjViV3dBQllRVkNha0YzU1FhX2lDaWVUT1U1Ym5DbWRlOFpJZ3JPU3AwZ1Nia3NNWjdKc3Jvd0VXU3otQU83ZjFlQmZwbHcyZmJKZFk4dVJWaXhWQnV6MTF6TUpmaDcxNmdhbFFNaU1N?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 02:35:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-03",
+      "headline": "美联储官员主张渐进加息以降低通胀",
+      "summary": "路透社报道，美联储官员Hammack和Barkin主张采取渐进加息路径以压低通胀；CNBC报道称，Barkin预计未来可能加息，但节奏将较为渐进。",
+      "concepts": [
+        {
+          "term": "渐进加息路径",
+          "explanation": "政策制定者通过分阶段调整政策利率观察经济、金融条件和通胀反应，以减少过度收紧风险。"
+        },
+        {
+          "term": "货币政策预期",
+          "explanation": "公开讲话会改变市场对政策利率路径、实际利率和汇率的定价，并影响资产估值。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储政策预期可能通过美元流动性、汇率和跨境资本流动影响中国宏观经济与金融市场。",
+        "globalEconomy": "加息预期可能抬高全球融资成本，并影响主要经济体之间的利差与资本流向。",
+        "markets": "美元、美国国债收益率、黄金及全球股票估值可能对美联储表态作出反应。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 20:58:39 GMT"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEZaWEtSWXFFb2N4RUNSdXRrbktjX1JvWnoyWGM2c1p2dnNrWGMzeTAwdkU3UDlmV2g3aDJvZVVxdG5BZ09RbU1DZWs3MmxodWRka0NXSE1YQmNOMjViTzhKbE9Qa1Y4SExQQzROdkFzWnJJeExoZ0h0aFNFRWdHU0NxM2Y4SXFMYlF3V2UxaTN2aXRTOHVvdVdoNGTSAaIBQVVfeXFMTUZ0M1g5R2p1V2hibU0xWHRfcnBDSkVzWGlZNk92OWNKZkRtV1JubEhWVnp4M0RSTWhaSGV5VlR6cjRtT3FMRWI5eFdBcDJoakxBSHVhMWZFdGxsZG90ZFl3SU1OYW92ajZGRkdkRXFZUnZOZFhFd09fQlgtVFctNmF2THlhNzgteDQ3STFZbmV2QXZSWG9Ldi1IOUJSSWNvWFdB?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 14:29:28 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-04",
+      "headline": "美国初请失业金人数处于57年低位，第三季度劳动生产率跃升",
+      "summary": "路透社报道，美国每周初请失业金人数降至57年来低位，同时第三季度劳动生产率显著增长。",
+      "concepts": [
+        {
+          "term": "初请失业金人数",
+          "explanation": "初请失业金人数是观察劳动力市场变化的高频指标，但也会受到申领流程和季节因素影响。"
+        },
+        {
+          "term": "劳动生产率",
+          "explanation": "劳动生产率衡量单位劳动投入对应的产出增长，可能影响单位劳动力成本及通胀压力。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国就业韧性和生产率变化可能影响其通胀与利率路径，并通过美元和全球需求传导至中国出口环境。",
+        "globalEconomy": "较强就业表现若伴随生产率提升，可能影响美国经济供给能力及全球增长预期。",
+        "markets": "美国国债收益率、美元及美联储政策预期可能因就业和通胀数据而重新定价。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "US weekly jobless claims at 57-year lows; worker productivity surges in third quarter",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm5OTDhuLTE5VENNbUNPODhwRmJyXzBnR1FocDlCWnphSElfTk44Zzl4enh1S1hPUmZsaldReHlNcmVSSVRGTXJFY2Y2TXVmVGVuSlRmQlRGOWg2TV9QQlROV19rank0bG9rX1NIcmlkNWsxcE1KR19XUnhsbFJwdzBMbTgxQ0RLb0JsYy1lQTFkR3VJVkFyel9KeFFCdDNWWE4xeEE4aDNTYmZEejVrcEhPQQ?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 15:59:10 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-05",
+      "headline": "英国央行三年来首次加息",
+      "summary": "《纽约时报》报道，英国央行将利率上调，为三年来首次加息。",
+      "concepts": [
+        {
+          "term": "政策利率",
+          "explanation": "中央银行调整政策利率可影响银行存贷款利率、融资成本、信贷供给以及通胀预期。"
+        },
+        {
+          "term": "加息",
+          "explanation": "加息通常用于抑制通胀或支持汇率，但可能同时压低经济活动和资产估值。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "英国加息可能抬高当地融资成本，并影响居民消费、企业投资和房地产市场。",
+        "globalEconomy": "英国货币政策变化可能通过英镑、欧洲利率和全球资金成本影响国际资本配置。",
+        "markets": "英国国债、英镑及英国股票市场可能关注利率路径和经济数据；全球债券收益率亦可能受到间接影响。"
+      },
+      "sources": [
+        {
+          "publisher": "The New York Times",
+          "title": "Bank of England Raises Rates for First Time in Three Years",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOckxKc3ZKV0xHMm9OalFSWXFNM3ViLTJNdGRrUHZUU0s4OUozVVRtVlVGTURtNXBuZmxRUVYyTmo4RDRCX1JDUGc0S2ZhN0laNjNYcFhUSV9HSWx5WjllQjFzVURtWGlsR2xUcFdXQm1vdkFSalcyRFdGTFBVYjN3MDJpbUFabXJDVjg1eVM0R1pLaFk?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 12:14:08 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-06",
+      "headline": "避险需求推动美债上涨，科技股抛售拖累欧洲股市",
+      "summary": "彭博报道，科技股抛售引发避险需求，美债价格随之上涨；香港电台报道，英国和德国股市收低逾0.4%，法国股市升逾0.3%。",
+      "concepts": [
+        {
+          "term": "避险资产",
+          "explanation": "在风险偏好下降时，投资者可能增加对高信用等级国债等低风险资产的需求。"
+        },
+        {
+          "term": "跨资产轮动",
+          "explanation": "股票市场风险重估可能促使资金在股票、债券及避险资产之间重新配置。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球避险升温可能影响中国跨境资本流向、人民币汇率及国内风险资产情绪。",
+        "globalEconomy": "欧美市场分化可能反映地区经济预期、政策路径和行业风险偏好的差异。",
+        "markets": "美国国债、欧洲股票、黄金及主要货币汇率可能继续受到风险偏好变化影响。"
+      },
+      "sources": [
+        {
+          "publisher": "Bloomberg.com",
+          "title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkloRjhzaFhUVFFUc1hMQWpZVk9IZmNTRE5KYTBhekdoN0xXby1MOUVpaGRmYnJjdW5rc1hfanFVYUNIdXVYbGV1MDhUX1Q5Wk1yTk1DWVFuM1lzMERVRVhnMmhSOW5EcWp3dl94eS1JcHZMNEhiOFNtUVlialFYNS1Vb3dOeENpazN5SmVyUWJKNTJDMXFUUm9TRFZreUlObm40S0lpUmQ3YVFNUUFJ?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 20:46:03 GMT"
+        },
+        {
+          "publisher": "香港電台",
+          "title": "英德股市低收逾0.4% 法股升逾0.3%",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkZrTkFnanFuVDBEVGFSZUVLelU3TVp4Yl9UcWEyNHlacWZPN3NrWWR2SmFEWE1sSHlRRlJFMTFmM1lNZ1JpdWlzblhZOEttdjNxcnd2TUFydmo3MHZUV0pBX2hzQ3U4akx2c2VnZ3ozNkk3X0oybVMwckFRRVNqNkF3ZmFjTHNrTG1fbC02WXpTR3JXZjFzUDZWVmRNWVN1ZkxF?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 22:13:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分条目缺少正文细节，摘要仅依据标题与所列标题信息整理；影响分析为基于公开信息的合理推断。"
+}

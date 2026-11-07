@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-06",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-07T14:57:36+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-06-01",
+      "headline": "国常会提出增强股市内在稳定性，促进资本市场平稳健康发展",
+      "summary": "国务院常务会议提出，完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展。",
+      "concepts": [
+        {
+          "term": "资本市场稳市机制",
+          "explanation": "通过制度安排稳定市场预期、改善风险承受能力和维护正常交易秩序的机制。"
+        },
+        {
+          "term": "内在稳定性",
+          "explanation": "市场参与者预期、交易秩序与风险吸收能力相互配合后形成的自我稳定能力。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "政策信号可能有助于稳定国内投资者预期，并提升资本市场服务实体经济的政策关注度。",
+        "globalEconomy": "中国资本市场政策变化可能受到全球投资者关注，但候选来源未提供对海外经济的直接影响。",
+        "markets": "相关机制安排可能影响境内股票、债券及衍生品市场的风险偏好与波动预期。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSejhCUFQ5NTF1MHZYam4wMWM0ektGeGJTZ29fWE9MbzVyRDJpb3lvenNPY3E4b2UzT2U0RERFc1JldlVvTTJlNDU0dmtrVmxOdHBQSnFUYjZFSU5rVVFKNjY2OVdfZ0FrYXZLaDVNbEQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 12:16:52 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "国常会：增强股市内在稳定性 促进资本市场平稳健康发展",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RR3lZWEFPalNzbGQteVVTNXRSbWFBYjUzLVBHSEJnMXpoVDB3a1lCLWdYUm9xOFY0UDBScmJ5TGoyR0xDMDlNWDd6amVmQlVmUmpLRkpHNGxmUzNsVUFiNk9VVElTaXVaT2lTTDFUSlc?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 11:47:13 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-02",
+      "headline": "美国10月新增就业16.5万人，失业率降至4.1%",
+      "summary": "美国经济10月新增16.5万个就业岗位，失业率降至4.1%，新增就业高于市场此前预测。就业数据发布后，美联储官员讨论了进一步加息的可能路径。",
+      "concepts": [
+        {
+          "term": "非农就业",
+          "explanation": "统计部门按月发布的新增就业岗位数量，是观察美国劳动力市场变化的重要指标。"
+        },
+        {
+          "term": "失业率",
+          "explanation": "劳动力人口中处于失业状态者所占比例，用于衡量就业市场景气程度。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "强劲的美国就业数据可能影响美元、全球利率及大宗商品定价，并可能改变外部融资环境。",
+        "globalEconomy": "就业韧性与加息预期可能影响美国需求前景和主要央行的政策判断。",
+        "markets": "美国国债收益率、美元汇率及股票估值可能对就业数据和政策预期作出反应；候选报道同时显示金价受到强势就业数据压制。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 22:04:06 GMT"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56MGdjWVJoQ0JqTmhlZVpRREt0eE1XOFd0VkdIdVBfZnZNcUQ3eFV6aVl0aGptRkpCVEk1Q1BuTXExaTlnb3dnOXpsQTE0THJlc0VZX0lQV0RrQmY0LXR2ajc1VHJkNmNjZzBVOER3?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 13:31:05 GMT"
+        },
+        {
+          "publisher": "The Washington Post",
+          "title": "U.S. economy added 165,000 jobs in October, showing surprising strength",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazBibjQ3NlNnc3dzRC03dDljRFFJRkdaSzF3SFhHNXJPdXVQVXdpTG9JaVBCTDhNS0I4VzJDaUZUbTE5ZklvcW51SUJKZDNBYmZ2emR4azRSM05BQWZ0dG1rdkxQYjBxXy1CNlc2WXNmNTFRWTRsdFdwTzN3dnU1T1pxa0hFY0ZUbWY5MFFPQklXakQ3YUZGZGtBSy1jcXE4?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 22:29:13 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-03",
+      "headline": "美联储官员在强劲就业数据后考虑渐进加息",
+      "summary": "路透社报道称，美联储官员在强劲就业报告后考虑加息，其中哈马克和巴尔金倾向通过渐进加息路径降低通胀。纽约时报报道称，稳定就业市场使美联储继续渐进加息。",
+      "concepts": [
+        {
+          "term": "渐进加息路径",
+          "explanation": "以多次、小幅调整政策利率来回应通胀和就业变化，而非一次性大幅调整。"
+        },
+        {
+          "term": "货币政策预期",
+          "explanation": "市场根据经济数据、政策沟通和风险变化形成的对未来利率路径的判断。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国加息预期可能通过美元汇率、国际资本流动和外部融资成本影响中国跨境资金与实体融资环境。",
+        "globalEconomy": "若美国利率继续上行，全球融资成本和汇率波动可能加大，其他经济体货币政策空间也可能受到关注。",
+        "markets": "美债收益率、美元和全球权益资产估值可能继续对美联储表态及经济数据保持较高敏感度。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed policymakers consider rate hike after strong jobs report",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 20:58:34 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Hammack, Barkin favor gradual rate-hike path to lower inflation",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDI4cDU1ODdtRUFrTlZiTjZUbUlKNjZicWpjOHp0YnhONENvNEhMemJ3bWNyR1Rpd0d5akp3Yk1FVElzaDlBenRLRkttdjFvOXFZaGt6dm05WWdZZXpqcU5vazJSY2p3UEx6dkFtM18tNU5nVFZEb0dFY3NHUkRGZlAxS2xJVHZPWWFYOWNUd1lsU2VnbEliTXZDYnp1Um5aX2M1a3Fn?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 20:58:39 GMT"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3ZZR3JMbllUMFZ5bWxkRGhDYmlCN244OENvcGxmWlB0M001TzdCZkpfZTRtU25XdU8zbm8wUGdfeW5NblZwSlJCVGN1V0dCY2ozakNMekJ2U3I0elZfTlUwSC1vYjhTaC1hNHI2dzdKdUt1aWhIU0FYS25EOF9aTXBTWnJNbzJuNWtLeHhUWUpCYkhGdmZLRDZMUno4SlZUd042QkN5M19IUVNqclNhOW1ZQl9INHFiUVpDZHFYVQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 10:45:28 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-04",
+      "headline": "英国央行将基准利率上调至4%，加息路径存在分歧",
+      "summary": "英国央行将基准利率上调至4%，但政策制定者对后续加息路径存在分歧。",
+      "concepts": [
+        {
+          "term": "基准利率",
+          "explanation": "中央银行用于影响短期利率、信贷条件和货币市场定价的政策利率。"
+        },
+        {
+          "term": "加息路径",
+          "explanation": "政策利率在一定时期内调整的节奏、幅度和最终水平。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "英国利率上行可能影响当地住房、企业融资和英镑资产定价，并通过跨境金融条件影响中国相关市场。",
+        "globalEconomy": "英国货币政策收紧可能影响英镑、全球利率预期及国际资本流向。",
+        "markets": "英镑、英国国债及英国股票市场可能关注加息路径分歧带来的政策不确定性。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "英国央行上调基准利率至4% 加息路径存分歧",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zN1J5RjliS1FNdWI3UUNReU1HQ3dfSmgxblFiR1M5djBvSEJEOUtlMWpHVkF1SlNvb25kZm5QRnJDRTJWM0w1U1FiSjFYUkp0VXpIUGRLR1ozRUp0MUJiVm0xRWNrQjhmYkhoR09VREQ?oc=5",
+          "publishedAt": "Thu, 05 Nov 2026 23:39:42 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-05",
+      "headline": "全球股市承压，日韩市场大跌并触发韩国股市熔断机制",
+      "summary": "路透社报道称，市场同时忧虑经济增长与通胀，科技股抛售加剧。中华网报道日韩股市大跌，韩国股市跌破5000点并年内第十次触发熔断机制；RTHK报道英国、法国和德国股市收跌近1%至近2%。",
+      "concepts": [
+        {
+          "term": "市场熔断机制",
+          "explanation": "在市场出现异常波动时暂停或限制交易的制度安排，用于争取稳定市场秩序的时间。"
+        },
+        {
+          "term": "科技股抛售",
+          "explanation": "科技类股票集中下跌，可能反映对其盈利前景、估值或融资条件的重新评估。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "海外市场波动可能影响中国跨境资金流向、出口企业预期和风险偏好，但候选来源未提供具体影响数据。",
+        "globalEconomy": "多国股市同步承压显示市场正在重新评估增长、通胀和科技行业资本开支前景。",
+        "markets": "亚洲及欧洲主要股票指数的波动可能提升全球市场关注度，并可能传导至外汇、债券及大宗商品市场。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Markets fret over growth and inflation, just as tech rout gains speed",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUh4V2hzQnA1Rk9zNTN6d3ZxcVZycGZQVmNUNjR3NmpXSmphZHh4LWZvaGJmTTVEWDdBc0lNWmZyUUp3MTFndk5uZl80Qnk0QXotRmo5S1g0MVhDejlwMjJlczNLVWY1eHRLZ1c4dExyOUNqdjJPaUFhVnE2WC16QUc4aTVfUlAwQUtKMktZYi1STk94cXBnSXF5OEQ?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 05:09:00 GMT"
+        },
+        {
+          "publisher": "中华网财经",
+          "title": "日韩股市大跌！韩股跌破5000点，今年第十次触发熔断机制！",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFWmJwckN5ajFRNndUYkI1SGRYUmhSaTZETXIwUkl5RU9JU3hMQkNHYll1emJITUVBZ0lGUFg3a1Y2VDVoaHN0XzZ4NjZibVFQb3pMRHhJdUVhbHpEQTNnclN5MWN6a2x4eGdYRzF0VTBYb2M?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 00:58:48 GMT"
+        },
+        {
+          "publisher": "RTHK",
+          "title": "英法德股市低收近1%至近2%",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUhBUTZXbGFnRVU0alBmWHVBY2dZQUx2TWMtV0QzeWplZzJ4TC1wRXo2UUVOWGlkOFFUQzJJUXphUXhXRW95LUZZX2JDTDUtNUdKTXYza0ZoZzVzVVRsUEptNHVJbnA2UktJSEpuMk5WcTFHa2tFbW9kNzJfUTVmR3pycGE4QnhpaklF?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 22:16:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06-06",
+      "headline": "美国科技企业算力投入引发资金链担忧",
+      "summary": "中华网对八家美国科技公司的算力投入和资金安排进行分析，报道标题指出资金链趋紧引发市场担忧。相关报道未在候选摘要中提供具体企业名单或金额。",
+      "concepts": [
+        {
+          "term": "算力投入",
+          "explanation": "企业为人工智能训练、推理及数据中心运营投入的计算资源和相关资本支出。"
+        },
+        {
+          "term": "资金链",
+          "explanation": "企业现金流入、融资与投资支出之间的资金联系，用于反映持续经营和扩张能力。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国科技企业资本开支和融资变化可能影响全球算力产业链需求，并间接影响中国相关硬件、基础设施及软件企业。",
+        "globalEconomy": "若大型科技企业收紧投资或融资，市场可能重新评估人工智能产业扩张对增长的带动作用。",
+        "markets": "相关担忧可能加大科技股和高资本开支行业的估值波动，并影响债券、美元及大宗商品市场预期。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "拆解美国八家科技公司算力账本 资金链紧绷引发市场担忧",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16LU1vRmdwRlNLZXJlc2lLQnFvRkhYdlBUOWV2Mnl6Nm5uY200NVZzUVNFSHlIU1NEdDFJakZ0V0tTNnJ2a1Q1VnZlV0xZVzZBV0x4YlNSQ1g4VTRXVXU0U3BLNm9YT1FhcDFNUU9jU1c?oc=5",
+          "publishedAt": "Fri, 06 Nov 2026 12:38:09 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "部分候选来源仅提供标题和极简摘要，已按标题中明确披露的事实整理，未补充候选材料之外的数据、因果关系或具体政策细节。日韩市场熔断次数等数字来自候选标题；相关报道的正文细节无法由候选摘要进一步核验。"
+}

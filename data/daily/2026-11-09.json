@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-10T16:09:40+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-09-01",
+      "headline": "中国生产者价格涨幅升至逾四年高位，消费者价格指标放缓",
+      "summary": "CNBC报道称，中国批发端通胀升至四年多以来最高水平，而消费者价格指标增速放缓。报道未在候选摘要中提供具体数值。",
+      "concepts": [
+        {
+          "term": "生产者价格指数（PPI）",
+          "explanation": "反映工业品出厂价格变化，是观察企业成本压力及工业景气度的重要指标。"
+        },
+        {
+          "term": "消费者价格指数（CPI）",
+          "explanation": "衡量居民消费品和服务价格变动，是观察通胀水平的重要指标。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "上游价格回升可能影响制造业成本和利润，而消费价格指标放缓反映终端需求与价格压力出现分化。",
+        "globalEconomy": "中国价格信号可能影响全球商品需求预期及主要经济体对制造业景气的判断。",
+        "markets": "市场可能关注价格分化对企业盈利、实际利率预期和人民币资产的定价影响。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa3VDQVdKcnVEdTB1WDhYZFQzY3Z2b05ydE1yNnc3Nm1mTE5sa2cwUTNURjUtVXNzb1gwem9kaXhZVENaaUY4Nm9LUGp3NDctaFhtRjJCeTJZLWpsdmZkQkg3TENxekZIRUpVakVwT09GRjNva1BLMjI5b1paUW4yTGd6UQ?oc=5",
+          "publishedAt": "Mon, 09 Nov 2026 01:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-02",
+      "headline": "国际油价下跌，通胀担忧降温并提振全球股市",
+      "summary": "路透社报道，国际油价下跌缓解了通胀担忧，美股随之上涨；报道同时指出，英伟达在内部调查背景下走弱。",
+      "concepts": [
+        {
+          "term": "油价—通胀传导",
+          "explanation": "能源价格会影响运输、生产和居民生活成本，因此其变化常被市场用于重新评估通胀压力。"
+        },
+        {
+          "term": "跨资产定价",
+          "explanation": "股票、债券、汇率和商品价格会共同反映市场对增长、通胀及政策路径的预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "原油成本下降可能缓解部分交通和制造环节压力，但向居民价格和企业成本的传导仍取决于其他因素。",
+        "globalEconomy": "油价回落可能降低全球能源支出压力，并改善部分经济体的通胀前景。",
+        "markets": "全球股市获得支撑，但能源板块可能承压；英伟达内部调查相关消息可能加大个别科技股波动。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Stocks jump as oil tumbles, Nvidia falls amid internal probe",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
+          "publishedAt": "Mon, 09 Nov 2026 01:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-03",
+      "headline": "美债收益率上升，市场等待美国10月CPI和PPI",
+      "summary": "CNBC报道，美国国债收益率上升，投资者等待10月消费者价格指数和生产者价格指数数据，以评估通胀走势和货币政策环境。",
+      "concepts": [
+        {
+          "term": "国债收益率",
+          "explanation": "国债收益率是债券定价的重要结果，会影响融资成本并参与全球金融资产估值。"
+        },
+        {
+          "term": "数据依赖型货币政策",
+          "explanation": "央行根据通胀、就业等经济数据调整政策路径，因此关键价格数据的发布可能引发预期变化。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "海外利率变化可能影响资本流动、人民币汇率和国内融资环境。",
+        "globalEconomy": "美国通胀数据与政策预期将影响美元、全球债券收益率及国际资金配置。",
+        "markets": "市场可能继续对美债收益率和美元走势保持关注，数据公布前后波动或加大。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Treasury yields rise as investors await October CPI and producer prices",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVE44LUJheWlkSEJZWlBaUVRGUXR2aGVMbm9yZnNDUnR1alJLSDdlU3Y3RktFcmplWmViVjV1ME1UYU9qSDA1YTN2NUdJbTJvWmZGUU5FZ3VTMU1lV3ppbk10SXBWLWxTcHVWYjRFbw?oc=5",
+          "publishedAt": "Mon, 09 Nov 2026 09:42:37 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-04",
+      "headline": "美联储官员Barkin称政策调整应审慎回应通胀",
+      "summary": "路透社报道，美联储官员Barkin表示，在回应通胀问题时，政策行动应谨慎推进。候选摘要未提供其关于具体利率路径的进一步说明。",
+      "concepts": [
+        {
+          "term": "货币政策谨慎调整",
+          "explanation": "央行通常根据通胀与就业的权衡结果调整利率，以避免对经济造成过大冲击。"
+        },
+        {
+          "term": "政策预期",
+          "explanation": "央行官员表态可能被市场解读为对未来利率路径的信号，从而影响债券和外汇市场。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美联储政策立场可能通过美元流动性、全球融资成本和跨境资本流动影响中国经济。",
+        "globalEconomy": "通胀回落与就业变化之间的权衡将影响主要央行后续政策取向。",
+        "markets": "市场可能据此调整对美联储利率路径以及美元、美债等资产的预期。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed should move policy 'with care' as it responds to inflation, Barkin says",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2pkV1hRTWpneFJMd191WGQtaGRvMTUtR1dHZE9UMzNYZmpocWNLeEx2UDd6RHZEajNibW9NZ3FBUUpsdHBwdjJMUjd4M0ZTNm1ib3huSXpneUpJY25FUFdabFRWZUZOQ3MxQWEwZDZ5SENvMmtfaU1ZQnlPenYxT0tiUFg3RmtzU0prYS1PNFp2X2I3U2phRXBFRGQ5c2kwUlF0Mmg0cUxDM2ZoamxTUQ?oc=5",
+          "publishedAt": "Mon, 09 Nov 2026 19:12:26 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-05",
+      "headline": "中美经贸措施出现阶段性缓和，中方继续暂停相关反制",
+      "summary": "中华网报道，中方继续暂停对5家美国相关子公司的反制措施，暂停执行期为2个月。候选摘要未提供更多措施细节。",
+      "concepts": [
+        {
+          "term": "贸易反制措施",
+          "explanation": "政府可通过限制特定企业或实体的经贸活动施加影响，暂停执行可能改变相关企业面临的外部约束。"
+        },
+        {
+          "term": "经贸关系预期",
+          "explanation": "政策沟通和措施调整会影响企业对贸易环境、供应链安排及跨境经营的预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "措施暂停可能降低部分相关企业的合规与经营压力，并稳定市场对跨境经贸环境的预期。",
+        "globalEconomy": "中美经贸政策边际变化可能影响全球供应链安排和贸易预期。",
+        "markets": "市场可能关注相关行业的风险溢价、跨境企业经营预期及整体风险偏好变化。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "中方继续暂停对5家美相关子公司反制 措施执行暂停2个月",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JYTc4V0tlTlBWS3RyTVNBcmZhNFpJcXE4VnJDMmFseEZkT29TUXlSQ2Jsa0l6X0dQVmI5SUNqSFRwQzZkcWdLZzBucndwcFl5R094REs3bHprU0lSbDc4aEY3SHNsc1FwdVNIV203d0o?oc=5",
+          "publishedAt": "Mon, 09 Nov 2026 14:21:35 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-06",
+      "headline": "中国算力芯片概念反弹，燧原科技涨超17%",
+      "summary": "中华网报道，算力芯片概念出现反弹，燧原科技股价上涨超过17%。候选摘要未提供具体成交数据、估值数据或板块其他成分股表现。",
+      "concepts": [
+        {
+          "term": "算力芯片",
+          "explanation": "用于人工智能训练、推理等计算任务的处理器，是数字基础设施的重要组成部分。"
+        },
+        {
+          "term": "产业链估值",
+          "explanation": "市场通常将技术进展、需求预期和盈利前景综合反映在相关公司的估值与股价中。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "算力芯片板块活跃可能反映市场对本土数字基础设施和产业链能力的关注。",
+        "globalEconomy": "相关行情可能与全球半导体周期、人工智能资本开支和贸易政策预期相互联动。",
+        "markets": "个股涨幅较大可能提升板块关注度，但市场也可能进一步核实基本面和持续性。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "千亿龙头股燧原科技涨超17% 算力芯片概念反弹",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HaGJ6X0J3NUFuYmlFcnptYWlEVkRiRFNvVlJjeGJiSjduZjQyNzNtc2xkMDBWTWotTzRwU2NKZVA4Mi1TRVNiNTVuM2ZucXVxNUhRUlMxWC1QMWU0Y2JPWXVPQnVEQ2xtd3RyaVZTeXg?oc=5",
+          "publishedAt": "Mon, 09 Nov 2026 12:49:14 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分报道发布于2026年11月10日或内容仅为标题摘要；本期仅选取可由候选摘要直接核验的条目，并对未提供的具体数据保持不引用。"
+}

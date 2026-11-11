@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-11T15:38:54+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-10-01",
+      "headline": "美国10月消费者价格环比上涨0.4%，高于市场预期",
+      "summary": "美国10月消费者价格环比上涨0.4%，报道称涨幅高于预期。同期核心CPI环比上涨0.3%，美国消费者价格连续第三个月较快上涨。",
+      "concepts": [
+        {
+          "term": "消费者价格指数（CPI）",
+          "explanation": "CPI衡量居民消费的一篮子商品和服务价格变化，是观察通胀的重要指标。"
+        },
+        {
+          "term": "核心CPI",
+          "explanation": "核心CPI通常剔除波动较大或受临时因素影响的食品和能源价格，用于观察更广泛的价格压力。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "通胀压力可能限制美国货币政策进一步宽松的空间，并可能影响居民实际购买力和融资成本。",
+        "globalEconomy": "美国利率预期变化可能通过美元、全球融资成本及资本流动影响其他经济体。",
+        "markets": "市场关注美联储后续政策表态、美国国债收益率以及成长股估值对利率变化的敏感度。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRXhidGNwejMxdTlFZnRZRzRxSWI2R2w4MzRUcnRIWmhqdUlHMmZaN0ZlaHpNbFp5RzFNQlZfU2hJOWNtVjU2ZzZybU5jYk9lOGtwUFg3dHhDTTVaeUFWdlhNTS11aHVTQV9wZ3k0S3JscjBIZnhNeFlB?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 13:31:08 GMT"
+        },
+        {
+          "publisher": "CoinDesk",
+          "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHFNQ2h0OXJRbGQxN2dWLVp5bV96cVdoejZvN0U4WmlWVmw5dTZYbWtraGpleXA1REZtaERNRDE5ODg4TFpQQk0xZjd2bWR6WHptbDBSM3UwbWJxbGVNdm9SbFVoUVFXVFlnQ3V4TFk5RXBLS24yUHExT2FBc2FjM0xYclpZUFZhUFJNTURKUkNPUV90QXJHQkhNLTROd05DNHJsMmttWjVlb1JVZU9zWGdYTQ?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 13:43:45 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "US consumer prices rise briskly for third straight month",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 20:38:52 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-02",
+      "headline": "美联储官员释放进一步加息信号",
+      "summary": "路透社报道称，联邦储备委员会理事沃勒计划支持12月至少加息25个基点；另有报道援引美联储官员表态称，通胀恶化为更快加息打开空间。",
+      "concepts": [
+        {
+          "term": "加息",
+          "explanation": "加息通常指中央银行提高政策利率，以收紧金融条件并抑制通胀压力。"
+        },
+        {
+          "term": "前瞻指引",
+          "explanation": "前瞻指引是中央银行通过公开表态沟通未来政策路径，以影响市场预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "更高利率可能提高居民和企业融资成本，并可能通过需求收缩影响后续经济活动。",
+        "globalEconomy": "美联储政策预期可能带动美元及全球资金成本变化，并通过汇率和跨境资本流动影响其他市场。",
+        "markets": "市场或重新评估美联储年末及后续加息路径，债券收益率和利率敏感资产面临波动关注。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Waller plans to support at least a quarter-point rate hike in December",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3RjbDlfcXFBbHp0SVRSeHIzZHFTTnY5bjBuWGszTTMzUmxLUXNzRTFid29sbXV1emJSZWMwTEo4V2dWYjJ3TGlESmRlRzdFcDdQU3RxWi1QVEZrRlNBU0N3NG50WUNBWVdXbnZFS0RuVDNyRVdGWm1aRjFjWGRlRFRoTFhlbFMwQ1NjbTZMd2x0cnlHR0F4d2JNV3dKcHFOOE5TRFVsSlc5ekxoQ0E?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 14:41:30 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 14:51:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-03",
+      "headline": "路透调查：美联储料在12月再次加息",
+      "summary": "路透社发布的调查称，美联储将在12月再加息一次，原因在于通胀风险仍处高位。",
+      "concepts": [
+        {
+          "term": "路透调查",
+          "explanation": "路透调查通过汇总市场参与者或经济学家的预期，反映对政策和宏观数据的共识判断，并非政策决定本身。"
+        },
+        {
+          "term": "基准利率",
+          "explanation": "基准利率是货币政策操作的重要参考，会影响金融市场价格及实体经济融资条件。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若12月加息落地，通胀控制可能获得更强政策支持，但信贷成本也可能进一步上升。",
+        "globalEconomy": "政策预期可能影响国际资本流向、美元及全球利率环境。",
+        "markets": "市场关注政策落地后的利率路径、国债收益率变化和股票市场估值波动。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 14:35:08 GMT"
+        },
+        {
+          "publisher": "U.S. News - Money",
+          "title": "Fed to Raise Rates Once More in December as Inflation Risks Stay High: Reuters Poll",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQemM0X3pRRXdHdXU1RVNvU2JvZ1dWWFhHdWJuYTNJTW9jZ2xHeGZYN0xkZHVWS0ZoNzByWGxVQ1BselNycDFRV1djX0Q5emJ3M3Y0WWJLM19jc0MxdjVLNDBNM04xS0cydmxyNDlmUlRqeUx6OHQxNnNQc3UyazRSQUJ2NVdkWUUyMlNrekYxUEw1SHRCMGNpcS00UUVTUjZycVlncHpPUVFRT0JCcjQ1Qi1RTjB0X1hUYlBDQ1VQVU13ckhCVTdnQkpacE8wRDlqNEtqbGN6NlR5Zw?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 13:24:30 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-04",
+      "headline": "美国通胀数据公布后国债收益率上行、股市走弱",
+      "summary": "路透社报道称，美国通胀数据提高了市场对美联储实施更大规模加息的预期，随后美国国债收益率上升、股票市场下跌。",
+      "concepts": [
+        {
+          "term": "国债收益率",
+          "explanation": "国债收益率是债券价格的反向指标，并会参与形成企业融资、贷款和资产估值的基准利率。"
+        },
+        {
+          "term": "利率敏感资产",
+          "explanation": "利率敏感资产的价值通常对无风险利率变化较为敏感，例如股票、债券和房地产相关资产。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "融资成本上升可能抑制贷款需求，并可能增加部分借款主体的偿债压力。",
+        "globalEconomy": "美国国债收益率变化可能影响全球债券定价和跨境资本配置。",
+        "markets": "市场关注通胀数据公布后的利率重定价，债券价格、股市波动及美元表现可能受到关注。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "US yields climb, stocks fall as inflation data boosts chances for larger Fed rate hike",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 02:23:00 GMT"
+        },
+        {
+          "publisher": "CNN",
+          "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90VXBidVIzOGQ1UEpWNEZyYmdEWGs5b1czWmUtOEYxNzhxZEJVODlMVEJsOTZYSHRKWHdjWWFGTzltYWtZaVk3dGhfR0hyaVFuTXk5cEpMWDZZYmsxVG9rVF9ZT3VLYnQ4T2NCQllBVHVmT1lw?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 22:14:47 GMT"
+        },
+        {
+          "publisher": "Yahoo Finance",
+          "title": "Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXI1X1p4UVRNam96OFNwcnd5b0E2T004SGNxVC1SNFZTNlpGbXltbTZ4X3dTWXRKVEZ3cUU1c2VBWTdNQWxFTF9RaU5yXzA5S01wcDlzSU1LeEZYV1hEd2pDdHhza0xWUE0xNzNIeFp5cXh3Y0VzTzdWbm1rMDBUVkRDVV9PY3QzSXYtUHIzR0tlTEp2?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 14:44:34 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中多条报道围绕美国10月通胀、美联储加息预期及利率市场反应，信息高度重合，故合并整理为3个主题条目；有关中国国内政策、央行操作及监管事项的候选报道缺少可核验正文细节，未纳入本期。"
+}

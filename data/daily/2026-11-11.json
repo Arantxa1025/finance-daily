@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-12T16:07:37+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-11-01",
+      "headline": "央行：用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行",
+      "summary": "中国人民银行表示，将用好债券市场非银行金融机构大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行。",
+      "concepts": [
+        {
+          "term": "互换便利",
+          "explanation": "互换便利是中央银行与市场机构开展流动性管理及利率互换安排的政策工具，有助于改善金融机构资金运用和市场流动性预期。"
+        },
+        {
+          "term": "金融稳定",
+          "explanation": "金融稳定关注银行、债券、股票和外汇市场运行是否有序，以及风险是否在金融体系内合理传导。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "相关工具的使用可能影响金融机构流动性安排和市场资金面，市场关注其对融资条件及风险偏好的后续作用。",
+        "globalEconomy": "国内金融稳定政策可能通过跨境资本流动、人民币汇率及全球风险偏好对国际市场产生间接影响。",
+        "markets": "股票、债券和外汇市场可能关注政策信号及相关工具的实际操作力度、规模和传导效果。"
+      },
+      "sources": [
+        {
+          "publisher": "金融界",
+          "title": "央行：用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aZTN0a2VyaVp1TVJxVU1ZOUJvNXBqNDNmU0lFaHFralcyME0tclRVenVyYW1hcHVqc0M5aXhseGJiNWIxRm5STXRSWlJoM1M2QTR6TzJyS2JuR29TbWlmS21MRQ?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 10:05:36 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-02",
+      "headline": "阿里巴巴分拆平头哥赴港，云与算力收入增长45%、净利润下降75%、AI开支增长75%",
+      "summary": "据中华网财经报道，阿里巴巴拟分拆平头哥赴港；相关报道标题显示，云与算力收入增长45%，净利润下降75%，人工智能开支增长75%。",
+      "concepts": [
+        {
+          "term": "分拆上市",
+          "explanation": "分拆上市是将集团部分业务或资产独立出来形成可单独上市交易的实体，使投资者能够分别评估相关业务。"
+        },
+        {
+          "term": "人工智能资本开支",
+          "explanation": "人工智能资本开支是企业为算力基础设施、数据中心和相关软硬件进行的投资，其增长可能扩大业务能力，也会增加成本与折旧压力。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "云服务、算力基础设施及人工智能投入可能继续成为科技产业投资和产业升级的关注方向。",
+        "globalEconomy": "中国科技企业扩大算力投入，可能影响全球人工智能供应链、云计算竞争及跨境资本关注。",
+        "markets": "港股科技板块、云计算产业链及人工智能基础设施相关市场可能关注分拆进展、收入增长与投入强度之间的平衡。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网财经",
+          "title": "阿里分拆平头哥赴港背后：云与算力收入增45%，净利降75%、AI开支增75%",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtSFlfM3RxeTJ3Mjh4dUZobkZPUThsVzd2U1RDRml6UFN4b1dzZFFXQUVDRmozWUxQRUxhejVMdm9HOXdNUFRabnZZMlJPSDRjV0d3c0l2TV9OX0E4UmlQS25haHhicnRIbDhzSEhR?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 01:00:13 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-03",
+      "headline": "美联储古尔斯比称10月通胀报告“近乎令人不安”，政策制定者正权衡进一步加息",
+      "summary": "美联储官员古尔斯比表示，10月通胀报告“近乎令人不安”，美联储正在权衡是否进一步加息。相关报道还显示，沃勒计划支持12月至少加息25个基点，另有路透调查预计美联储将在12月再加息一次。",
+      "concepts": [
+        {
+          "term": "通胀预期",
+          "explanation": "通胀预期是经济主体对未来价格变化形成的判断，可能影响工资、定价和货币政策行为。"
+        },
+        {
+          "term": "加息路径",
+          "explanation": "加息路径是中央银行根据通胀、就业和经济状况调整政策利率的节奏与幅度。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国利率路径可能影响全球美元融资成本、跨境资本流动以及中国外部金融环境。",
+        "globalEconomy": "若美联储进一步收紧政策，全球融资条件可能偏紧，美元资产波动或向其他经济体传导。",
+        "markets": "美元、美国国债、黄金及全球股票市场可能关注12月加息预期和后续政策沟通。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "美联储古尔斯比称通胀报告 “近乎令人不安”，央行正权衡进一步加息",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUlZUVlJU1NRWnVfclVfeHhXOGNhdjBmQ0NxYnRGU0Q2dm9CTUhYNENfbXI2aEVXRW9WYnR0WmJQMFc4LUc4M1AxVFpwUGx0S1ZOU2d6Wnl6c1o5bFBQYkltdGtpd2p2Ni11cnhtWTNBY2txOElnUGNHQVN6dm42ejh2SGp1R3c?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 14:26:30 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Waller plans to support at least a quarter-point rate hike in December",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3RjbDlfcXFBbHp0SVRSeHIzZHFTTnY5bjBuWGszTTMzUmxLUXNzRTFid29sbXV1emJSZWMwTEo4V2dWYjJ3TGlESmRlRzdFcDdQU3RxWi1QVEZrRlNBU0N3NG50WUNBWVdXbnZFS0RuVDNyRVdGWm1aRjFjWGRlRFRoTFhlbFMwQ1NjbTZMd2x0cnlHR0F4d2JNV3dKcHFOOE5TRFVsSlc5ekxoQ0E?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 14:41:30 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 14:35:08 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-04",
+      "headline": "美联储加息预期升温，纽约股市三大股指10日均下跌",
+      "summary": "受美联储加息预期升温影响，纽约股市三大股指于11月10日全部下跌。路透报道同时称，交易员提高了对美联储12月加息的押注，美元随之走高。",
+      "concepts": [
+        {
+          "term": "利率预期",
+          "explanation": "利率预期是市场对央行未来政策利率的预估，其变化会通过折现率、融资成本和资金流向影响资产价格。"
+        },
+        {
+          "term": "美元流动性",
+          "explanation": "美元流动性反映全球美元资金供给及其融资成本，通常会影响跨境资产配置和大宗商品定价。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美元走强和全球融资条件变化可能影响中国跨境资本流动、汇率及外部需求。",
+        "globalEconomy": "美国货币政策预期升温可能强化美元资产吸引力，并加大全球市场波动。",
+        "markets": "美股、美元、美国国债和黄金市场可能继续对通胀数据、加息概率及政策沟通作出反应。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "美联储加息预期升温 纽约股市三大股指10日均下跌",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNXNKWG1zTmJQZnpzVU5FYUlmUFNqM2ZLN2hieGtpTThsbHAxZUJ3UzFOaDlCOUZVcDRDMTZRczZvLTlURERSU2JUU1AxSEZKcUN6WURUS3pSNW9ENy1RTTJoamxucDJHVmJ1UUlCczVkZUFYTkVyVkdnX0psdG4yRw?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 22:28:06 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Dollar climbs as traders raise December Fed hike bets",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUM1V3d2azVfSFlud1E3Z05veEpjMmxwYzhBWkc1NTgxRktLS25sQWVlbWVWUGxCdVBXR3dmbzMxeDNYUzFJVi1aTTZIcWQ0X3kteU55dWdKeEN0ZGhvNlBHc2cwMFY4a1Q3R2VxQS1BdUcwMkRMYlc4VFltaFZxekxGVHg3ZVhhRE92WXNwb3JkMXFKeExZUlppZ2dnaHVmcjJMLTVUM1BXLUVXSlNn?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 00:54:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-05",
+      "headline": "美国通胀数据与加息预期推高美元，现货黄金承压",
+      "summary": "路透报道称，较热的通胀数据和高美元令金价下跌；另一篇路透评论认为，美联储可能加大加息力度，同时美国国债期货因市场预期更多加息而回落。",
+      "concepts": [
+        {
+          "term": "实际利率",
+          "explanation": "实际利率是名义利率扣除预期通胀后的利率水平，实际利率上升通常会提高持有黄金的机会成本。"
+        },
+        {
+          "term": "美元计价机制",
+          "explanation": "黄金以美元计价，美元走强往往提高非美元持有者的购金成本，并可能对国际金价形成压力。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美元与全球利率变化可能影响中国跨境资金流向、黄金进口成本和人民币汇率。",
+        "globalEconomy": "美国通胀与货币政策预期可能继续影响美元融资成本、全球债券市场和贵金属定价。",
+        "markets": "黄金、美元及美国国债市场可能关注通胀数据、加息路径和实际利率变化。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Gold falls as hot inflation figures, higher dollar weigh",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 03:39:00 GMT"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "title": "US Treasury Futures Retreat as Markets See More Fed Hikes",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2hXVmxBejZuMktqMDMzbUNTcDA3ajBFdlE0MlpZc3AyU0ZPeHl0ZjJ3b3BhT2REdlRDVmRYWS05aFVhemtkZmVacFBnWFNXQlg5QjlmREo0VEdHRFFyTXNYR1FqV1VKUlhtVlNsT1ppUDRVQ0FVUTdGTW9FTXdVWWRVN0ZZMXpMNFo1dFBtMzJ4SzNRWHJkWnBlaGZId0x6dXJXSmU0ZW5tczhnc2pUM2Rn?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 16:31:45 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-06",
+      "headline": "沙特方面称产量激增26%，创战时新高",
+      "summary": "新浪网援引相关报道称，沙特阿拉伯方面向欧佩克表示，其产量激增26%，创下战时新高。",
+      "concepts": [
+        {
+          "term": "原油供给",
+          "explanation": "原油供给变化会影响国际原油市场的供需平衡，并可能传导至运输、化工和制造成本。"
+        },
+        {
+          "term": "欧佩克",
+          "explanation": "欧佩克是协调部分石油生产国产量政策的政府间组织，其产量安排对全球原油供给具有重要影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国际油价变化可能影响中国原油进口成本、交通燃料价格及能源相关行业经营情况。",
+        "globalEconomy": "沙特产量变化可能改变全球原油供给预期，并对油价和主要经济体的通胀路径产生影响。",
+        "markets": "原油、天然气、航运及能源板块可能关注产油国供给变化和欧佩克相关表态。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪网",
+          "title": "沙特阿拉伯方面告诉欧佩克，其产量激增26%，创下战时新高。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2c1FQQW93bC10T2JpM3dmbVRCOC1kSElMVHpUaUJubFEySmJHVHExVDZ1YTktRWhXZ0lfZGVGSTFoZ0ZFbG5oeU15b0N3X28?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 13:06:45 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中的多数条目仅提供标题和极简摘要；本日报据此选取可由标题直接核验的6条新闻，并保留候选来源中的原始链接与发布时间。"
+}

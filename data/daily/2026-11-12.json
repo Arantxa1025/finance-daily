@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-13T15:43:26+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-12-01",
+      "headline": "央行发布2026年第三季度中国货币政策执行报告",
+      "summary": "中国人民银行发布2026年第三季度中国货币政策执行报告，报告提出及时矫正和阻断金融市场羊群效应。另有报道指出，报告反映出存款定期化趋势明显。",
+      "concepts": [
+        {
+          "term": "货币政策执行报告",
+          "explanation": "中央银行定期总结货币政策实施情况、金融运行特征及后续政策思路的公开文件。"
+        },
+        {
+          "term": "羊群效应",
+          "explanation": "市场参与者基于相似判断采取趋同行为，可能放大价格波动和市场风险。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "市场关注货币政策取向及其对资金配置、存款期限结构和金融稳定的影响。",
+        "globalEconomy": "中国金融政策信号可能影响跨境资本流动预期及全球资金对人民币资产的关注。",
+        "markets": "政策表述可能影响债券、股票和银行相关资产的风险偏好，市场将关注后续流动性与利率信号。"
+      },
+      "sources": [
+        {
+          "publisher": "证券之星",
+          "title": "央行发布2026年第三季度中国货币政策执行报告：及时矫正和阻断金融市场羊群效应",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vX0M0Umxmb25wQVJJakx0UkNjWUpqWnFzV3NRNVF0MDhXY1p0M1RnLVRzQU1SeTZnenRHVXhUd1RrTUkxenZxSWdHOVM0NXZGY1dNZXpEUDV4eThTYzFYVg?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 02:29:35 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "钱去哪了？央行最新报告揭秘 存款定期化趋势明显",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LbjE0WXBVOGFLTTZnYWJ2aVJjQjhfWHBaaF9LV211OWhoTEtPZnVSRDNfY1ZkR09IMDJ3VkJKLUFNUEMtc2JYSFlvcXN1THFmN3dDblVKYWRTdmtOTGdRQzNSV2dVM0hqLTlsWG9fYjI?oc=5",
+          "publishedAt": "Wed, 11 Nov 2026 16:23:21 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-02",
+      "headline": "美联储官员强调仍有加息工作，多位官员支持渐进调整政策路径",
+      "summary": "美联储威廉姆斯表示，央行仍有工作要做，以使通胀回到目标水平。戴利称美联储有时间校准加息节奏，并表示可能需要更多加息；哈马克则表示支持渐进加息路径。相关报道同时显示，美国10月消费者价格环比上涨0.4%，高于预期。",
+      "concepts": [
+        {
+          "term": "通胀目标",
+          "explanation": "央行将长期价格涨幅稳定在特定水平附近，以维持价格稳定和货币购买力。"
+        },
+        {
+          "term": "渐进加息路径",
+          "explanation": "政策制定者根据通胀、就业和经济金融条件，以分阶段方式调整政策利率。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "外部货币政策可能通过汇率、资本流动和跨境融资成本影响国内经济预期。",
+        "globalEconomy": "美联储加息预期可能强化美元资产定价，并增加全球金融条件收紧风险。",
+        "markets": "市场关注美债收益率、美元和全球股票估值对利率路径变化的反应。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 01:35:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Hammack signals support for gradual rate-hike path",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWi1FbTBFZzFKNzU2S1UweWQ3Vk56U2NXRlRhbHgwSVdYN3NiOEhvOXgxOFh6ckNVbXZabEtCeVNDZzZIYkNud0N0OXd0dV9UY2dCdlpDQkZhX0VER2xpZ2xISmFIUUZIdEQzMDYxQ2s1Mkg5cW9LVWVwQ3d2QXl1dktYMHlpcDZoNHYwYmh1WHZWSDFneWgzeHZlbVc3cG8?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 15:28:30 GMT"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRXhidGNwejMxdTlFZnRZRzRxSWI2R2w4MzRUcnRIWmhqdUlHMmZaN0ZlaHpNbFp5RzFNQlZfU2hJOWNtVjU2ZzZybU5jYk9lOGtwUFg3dHhDTTVaeUFWdlhNTS11aHVTQV9wZ3k0S3JscjBIZnhNeFlB0gF_QVVfeXFMUFotOHdWZDUxTmpjRVplMUpNLWhuMGhic1JjQ0xZN3d6bnZ2VnJFX3E0ZkxxYkJ5aHByWWtrOWN0ZmYyNnFVYTZYdGFUazdBRkgxMkgxQ0ZFNkVmeFZUSGNqNlcwWVZEbVA5SExIV2xZMlVkVXdoaUk4cmU4TXEyQQ?oc=5",
+          "publishedAt": "Tue, 10 Nov 2026 13:31:08 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed has time to calibrate rate hikes, Daly says",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUQyM3Nob1JwMmZBS1JHN1FtZ2h5eTZFWlpZWkJ1Tm9XRlByR2lJWEZkdjJKcVVYbklvMW9GekZ5RDZDQU5KRkVaVHZzN2d6cm5NQTEzWlNtQkNGWmw2dXNJN2hvMFBwenUzdFZDLURfM2JsRVBmckhzY2FZRVJPemM5S0ZIX1BqQzFrbW1wN3lxdw?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 21:03:43 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-03",
+      "headline": "美国就业市场保持韧性，10月成屋销售降至2016年以来低位",
+      "summary": "路透报道，美国劳动力市场保持韧性；与此同时，10月美国成屋销售降至2016年以来的最低水平。另一家媒体报道称，美国住房销售处于2016年以来最低位。",
+      "concepts": [
+        {
+          "term": "劳动力市场韧性",
+          "explanation": "就业和工资等劳动市场指标总体保持相对稳定，为消费与经济活动提供支撑。"
+        },
+        {
+          "term": "成屋销售",
+          "explanation": "统计既有住房成交情况，是观察住房需求、按揭利率承受能力和居民信心的重要指标。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国就业与住房数据分化，可能影响其消费、利率路径及经济周期判断。",
+        "globalEconomy": "美国经济数据可能通过美元、全球融资成本和风险偏好影响新兴市场。",
+        "markets": "住房需求走弱与就业韧性并存，可能引发市场对增长持续性及资产定价的重新评估。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "US labor market resilient; existing home sales hit more than 16-year low in October",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZla1JsS2tMLXNSZGhQOXg4VnpnUkQxelh0RVlFQnl5b0ZGYXBwTXNVd3hWMVM1c0d5WjhPR3hGbnRPV3dDSloxV2w2Wm83a24wSUNHdTN0UmpHbzlTSHJ4VnVRNTBVdUlHTkdrZ21SdkFIZ09VMnRWZ1ZSU3ZFbk1SQnA4ZUJBVWxzSWpVTjRodDFqQlRiQzRRWHRzdzU3?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 17:49:06 GMT"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Home sales in the US are at their lowest level since 2016",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkpOR3BvekVzdjBuV0JBVXVvZndYdU5ZbWFGNG5fWUJrWE9pMlFSLWxDVzN1V21Idzl1TzU0R0xVOEFaclNvMEFUVHBiX3lYZDNPWGo0eVIxY3BYWG92SVJ1V201MWlSQ1NsOU9wTjlhOEJWWDVna1VYSThuMlZnUjdTZEVwdnJlZHlZSUF0WmFxRktRZm4zVDV0SndsUURXWEZGatIBqgFBVV95cUxQUzVaQUY3ZWFSX25nR2hnM1loNHJBd2RFbkJPY21rM1drMFJvTHlxU2VoUVlpcGhScU1sek5QRGNLalRFRHBZaVFISGY2ZXlhX0dsNmFkdDlrRV96M2prU2NFcFk5eDVyV3NBZ0dKclhiRlJ6dEw1NXBNUWxYOFdUNGhxLVphdjFscGtEQVczSDhHUVBDMmNRdmZEV2FTWmJLS0FOOEdVRTdVZw?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 18:44:15 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-04",
+      "headline": "美国10年期国债收益率升破5%，市场关注油价与加息预期",
+      "summary": "美国10年期国债收益率重新升至5%以上。报道将这一变化与油价上涨及美联储可能进一步加息的预期联系起来。",
+      "concepts": [
+        {
+          "term": "国债收益率",
+          "explanation": "债券到期收益率通常反映市场对无风险利率、期限溢价及未来政策利率的综合预期。"
+        },
+        {
+          "term": "期限溢价",
+          "explanation": "投资者持有较长期限债券相对于短期债券所要求的额外补偿。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "海外融资成本和汇率压力可能影响国内货币政策空间及跨境资本流动。",
+        "globalEconomy": "美债收益率上升可能收紧全球金融条件，并加大新兴市场融资压力。",
+        "markets": "全球债券和股票资产可能面临估值重定价，市场关注收益率上行是否持续。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kS2N1QmprS3IzX3ZuTHRrNlBkaERHTlNMTEdzMkk3bUR3eXo5cDcyMGpiSF9xUVpPQzZHaDBZN2NrbHdFVGpmWTZ1ZXAxMXBuOHlkdzNEcEdRQU44Rm14a3llS1VOUFhPaTByWThqa9IBdEFVX3lxTE5OUnhZZGZVQnFtc2lvNXpxdE9iMDJnV3MyYU1iQmpaYnRRaVQ3aWg1LW5ReWZmR0tTeWVSWlE2ZHRXZnBwLXRMWU5VaGF2Wk9HTlhOVkcxR0lJSnZVLVFSSHR6TmJaWTZjVktaZk5WRjV5RHRX?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 07:38:45 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-05",
+      "headline": "中东和平希望降温推动通胀担忧，黄金跌至一年多低点",
+      "summary": "路透报道，中东和平希望降温令通胀担忧加剧，黄金价格跌至一年多以来的低位。新浪财经报道称金价跌破4000美元关口。",
+      "concepts": [
+        {
+          "term": "黄金避险需求",
+          "explanation": "市场在面临地缘政治不确定性或金融压力时，通常会增加对黄金等避险资产的配置需求。"
+        },
+        {
+          "term": "实际利率预期",
+          "explanation": "市场对通胀调整后利率的预期会影响持有黄金的机会成本，通常是金价的重要影响因素之一。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "黄金与大宗商品价格波动可能影响相关贸易、矿业和投资活动预期。",
+        "globalEconomy": "黄金走势反映避险情绪、通胀预期和美元利率预期的变化，可能影响全球资产配置。",
+        "markets": "贵金属价格波动可能传导至商品、汇率和避险资产市场。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09mRGRCVmlxTnVTdDR2Y0ktNjVkZE1xUHhyTnZWUGZvbFZFS2hsTFk1SkVfNE82SVZlMTFXbUFtckZMaDIwbzA5RlgxWUxKbE5ZMGhrRkl1UWFrVG9ibW9mdWlGM0NYRTVlQnZramhHSTVadmtEaFhWMDRFY1dYVWRPX1RzNm9YNURTVUVzeGo2aEo4UzZReXRCVlQ0amhjVGFWTU1BVFVQR1k?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 03:40:00 GMT"
+        },
+        {
+          "publisher": "新浪财经",
+          "title": "金价跳水！跌破4000美元关口",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kRXVIWWlxdHU0aEk2UFFIUFp0UXZlZEJXUFMwdVJmQ08zYnZvNkZESDZ0RGZOcmdRWktsMk00ZjVwRWdlVHk3MnJRZWh1VTgxZEpTaVc3YU10VTRfVEthRWR1cFo2YUtvbFdXcjBERnlIdDk4Uksybg?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 06:56:25 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-06",
+      "headline": "英伟达管理层变动消息引发股价波动与AI产业关注",
+      "summary": "新浪网援引市场消息称，黄仁勋离任后不会再在英伟达担任任何职务。半岛电视台报道，英伟达股价因董事会讨论黄仁勋未来的消息大跌；纽约时报也将黄仁勋称为推动美国经济的AI热潮代表人物之一。",
+      "concepts": [
+        {
+          "term": "公司治理",
+          "explanation": "董事会和高管职责安排会影响企业战略连续性、管理稳定性与投资者预期。"
+        },
+        {
+          "term": "人工智能产业集中度",
+          "explanation": "AI产业头部公司的领导层和技术生态变化可能对相关企业估值与供应链预期产生较大影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球AI龙头治理变化可能影响国内相关企业的竞争环境、技术投入和供应链预期。",
+        "globalEconomy": "英伟达管理层变动可能影响AI投资预期及半导体产业链的全球布局。",
+        "markets": "相关消息已引发英伟达股价波动，市场关注科技股估值及AI产业链资产表现。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪网",
+          "title": "市场消息：黄仁勋离任后不会再在英伟达担任任何职务。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzUWdOaHNIaTlRd1J4cXR6UnlrQ0NfN05VTkY5VHRUY1NuYWJUOWZzb3hSSl93MmRTM1ZDNEtya3BJaC1DSnk4alhxLTMycE0?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 15:22:05 GMT"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHVDc0MwMi02LVVoYnBFeGowTnN1dWJEeld1bkNFajhxbXdkekR0enhMOXFCMV92LUFSMGF2UkNzaUVIeDA3Qml5X2FsSjZWUVdZNUVleEFlZHFHZkthQU9tRHhjekFNNUt5SHc4MWM5XzdqLWM5TmRTZVVXMTk4djFhZ3ZheklQQjl5Wkt6VEx2R0NyV3lHRV92SDVQOEtrUkoyY29IQ3cyejhoV3RNd1NNZ9IBuAFBVV95cUxNOXF5RXFqV3RkNlFGNjFmUFFzUVFmZGpyOUdJV1R3NUw2YXlacktFQmhkMXRNUVdpYTFWSHhSYkhUclJsbDNOMGpCc29BbWJxdldXZ1B6SUN3VVdhNDF4d3VsTkNxY1ppRVFxS0hDdFhBN21YcTFXYTdkV0pPTTkxQ0lnUGF2Ri1YQTYwRkxudlV6RUlqaFk4U1lRcFlqeEdVejJwTlU5MG5sODRVOUJaazFKcURFTGN5?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 03:57:58 GMT"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWJtRi1PaGtpX0Rjd0phWUU4T0tjNlVZMzlXVGpGTmpTR0dVNDZSOWh4UExvaGhsejltMDhkdDRTNjAxMnhscWRoVHl5OWw3UVhqa3VuWlNSWm0yOXE0aHhWeEJxdUhHUGJ4NWM4RHdJdTBKTTd6MkdFdmJwcU9iVnc5dUJaU1k1Y0tzTUs1cXo?oc=5",
+          "publishedAt": "Thu, 12 Nov 2026 14:46:25 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中多条报道仅有标题和摘要，无法核验完整事实与具体数据；以上条目仅依据候选标题、摘要和来源元数据整理，未补充未出现的信息。"
+}

@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-14T15:29:45+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-13-01",
+      "headline": "中国10月末社会融资规模存量469.16万亿元，同比增长7.2%",
+      "summary": "中国人民银行数据显示，2026年10月末社会融资规模存量469.16万亿元，同比增长7.2%。",
+      "concepts": [
+        {
+          "term": "社会融资规模存量",
+          "explanation": "社会融资规模存量反映一定时期内实体经济从金融体系获得的资金累计规模，是观察融资总量和金融支持力度的重要指标。"
+        },
+        {
+          "term": "同比增长",
+          "explanation": "同比增长用于反映本期规模相对于上年同期规模的变化，可用于观察融资扩张速度。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "社会融资规模保持增长，可能反映实体经济融资需求及金融体系支持力度。",
+        "globalEconomy": "中国融资总量的变化可能影响跨境资本流动和大宗商品需求预期。",
+        "markets": "市场关注社融增速对利率、信贷投放、债券供给及银行资产质量预期的传导。"
+      },
+      "sources": [
+        {
+          "publisher": "证券之星",
+          "title": "央行：2026年10月末社融存量469.16万亿元同比增长7.2%_滚动新闻_财经",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMHBFYURza3RwQzBWU3U4U2NKVjFxUWExeDlqSFBDREkxS3F0c01kUDZxa3VUSVVmUkJZNU8yRHdHSEF0Z3NXeUctVjEyUW5xNS1GcldiQTFZZ2pqaWZsVQ?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 09:14:32 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-02",
+      "headline": "央行邹澜表示征信功能定位、治理边界和运行逻辑正在调整",
+      "summary": "中国人民银行邹澜就征信领域的功能定位、治理边界和运行逻辑调整发表观点。",
+      "concepts": [
+        {
+          "term": "征信",
+          "explanation": "征信是依法收集、整理、保存并使用信用信息，为金融活动提供信用评价和相关服务的机制。"
+        },
+        {
+          "term": "信息主体权益",
+          "explanation": "征信治理通常涉及信息采集边界、信息安全、异议处理和信用信息主体的合法权益。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "征信制度和运行规则调整可能影响金融服务可及性、融资成本与信用市场秩序。",
+        "globalEconomy": "征信治理变化可能影响跨境金融机构的数据合规安排及信用评价合作。",
+        "markets": "市场关注银行、消费金融、征信服务相关业务模式及合规成本变化。"
+      },
+      "sources": [
+        {
+          "publisher": "财新",
+          "title": "央行邹澜谈征信：功能定位、治理边界与运行逻辑正在调整",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kc2huTnVnZGFUVEpwaEFSWE5FeXZGM3pDc1gtVWxqXzZHRFAyWmRJRS1EcDFlR1FDajdnQUlNREhxeGRpRjRKTi1weWJza0MwbDlMc1YxZ3ZLRHJVeGdOYw?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 07:17:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-03",
+      "headline": "美国10月批发价格环比上涨0.3%，同比涨幅达到6.5%",
+      "summary": "美国10月批发价格环比上涨0.3%，同比上涨6.5%，为近四年来最高水平；路透社报道称，通胀压力在更广泛领域扩展。",
+      "concepts": [
+        {
+          "term": "生产者价格指数",
+          "explanation": "生产者价格指数主要衡量工业产品出厂价格变化，可反映生产端价格压力及其向消费端传导的可能。"
+        },
+        {
+          "term": "通胀扩散",
+          "explanation": "通胀扩散是指价格压力从少数商品或行业扩展至更广泛商品和服务的现象。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国生产端价格压力上升可能影响当地企业成本、利润和后续货币政策空间。",
+        "globalEconomy": "美国通胀与利率预期变化可能通过美元、全球融资成本和大宗商品定价影响其他经济体。",
+        "markets": "市场关注美债收益率、美元、黄金及股票估值对加息预期的重新定价。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4X1hoQmRtbDM0TllqRXgydjN2cE9Gb2w4cmRDOWhBT2Z3SEhHOTMySDJrSDdVaU9HVFZhcWJRNm1tZS1kN25SQzRtU3JSdGpTMXh4MWFuaFBYbllQMGpGYUxHV2s3RVhFc2drd1NGWllJRWFqenVrREdB0gF_QVVfeXFMTUd3LWpmaHJxMWdUOWVSSmJrTFNqN0Y2UU8tRFJCcUIzelRvdTNKOFJNaDRkNGhYaThoMVBqR2dCalRkdDFxTXA1SWloZ2FxV2NxTTV4RnZ6Y0dxT0t5UWVvUUprOU9wSUd1bUtCaTdEcFA5UEhSQXBJRkdxcm9lUQ?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 13:31:21 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "US producer prices rise moderately in October, but inflation broadens out",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 17:46:45 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-04",
+      "headline": "美联储官员称通胀仍远高于目标，政策仍有工作要做",
+      "summary": "美联储威廉姆斯表示通胀仍远高于目标，央行为使通胀回到目标仍有工作要做。达利称，在通胀恶化背景下，美联储可能需要加息；柯林斯表示近期可能适合维持较高利率。",
+      "concepts": [
+        {
+          "term": "通胀目标",
+          "explanation": "通胀目标是央行政策框架中的中期参考标准，偏离目标通常会影响利率路径和金融条件。"
+        },
+        {
+          "term": "货币政策路径",
+          "explanation": "货币政策路径是央行为实现通胀和就业目标而调整政策利率及金融条件的可能过程。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国加息或维持高利率的预期可能影响住房、企业融资和就业环境。",
+        "globalEconomy": "更鹰派的美联储预期可能抬高全球无风险利率和资本回流压力。",
+        "markets": "市场关注美元、美国国债收益率、全球债券及成长资产估值的波动。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 01:35:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed likely to need to raise rates amid worsening inflation: Daly",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHBuM0FNRHlsWlNrX090Q3F6R2VZUTFYRkF3bFZwbDNQMUwxZXpiYmROVUJWWTVKZHRoOExqUkxpcktRYUZodDVncmNVSEdIMDktTDYxMXlWM1hvdXVKRmVfMmtvbTBUd1MyWkxFR3RqTlNJNVk1WFNtc2pnQ0w4QjRTdjlmcFdPUkVUZFVndGdCRWRPMEw3cFZHcjBlc3lhdDY2Vw?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 18:48:40 GMT"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "title": "Fed’s Collins Says Higher Rates Are Appropriate ‘Soon’",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEwzV3pSLU9vQ2tmOXhVYzdoTzhyaEcxUjdBdzM2NXE2VC0xNlFDaFhUOGlXa0ZqeTBDTFByTE1xVlVEejBIdEdSUlYwZlZhZnE0MXhzTUtQUlcyNFZYNE1rcVZKV1RWVHRmUXYydWNvbC03V0RFd3NjZUtpS2VtVFl1Umh2RWxDbzQ5a0hlR2F1bDhIN0paOW5sNFdTaU1lOEUwNVNZaHI?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 16:10:44 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-05",
+      "headline": "美国10年期国债收益率升至5.17%，市场关注生产者价格报告",
+      "summary": "在美国生产者价格数据发布前后，美国10年期国债收益率升至5.17%；另有报道指出，投资者警告经历收益率快速上升的一周后，债券抛售可能尚未结束。",
+      "concepts": [
+        {
+          "term": "国债收益率",
+          "explanation": "国债收益率是债券价格的重要收益参考，通常会随利率预期、通胀风险和期限溢价变化。"
+        },
+        {
+          "term": "债券抛售",
+          "explanation": "债券抛售通常对应债券价格下降和收益率上升，可能强化融资成本上升效应。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "长期美债收益率上升可能提高政府融资成本，并对私人部门长期融资形成参照。",
+        "globalEconomy": "主要经济体长端利率同步上行可能加大全球金融条件收紧效应。",
+        "markets": "市场关注美债、美元、黄金和股票估值的联动波动，以及债券市场波动向融资市场的传导。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iVEhaNGZvZDlvWlBGMldrUE5jUlVpUXp2d0YwdEFzZU5ScmVUOTk0ZDdORVhuMjhvRWZTWVQtR0JXWUlWVWVGVHlfOG4wdWZiZVVQNGZXTzByQ2tCRU5LQmFGajY3VDdtVnZIam9MSdIBdEFVX3lxTE1HYkdxR2dlMXVleXNjckE4Nm4xS1JNU1lQMC1JMGtkQ1FwRU0zWXNsSU45UnpYRjNqeVZkZEVwbmxZYmdnLTlfQkVNRW9iV210ZWtPYjdvRGVUc0ZDSDFMNy1FY2JiLTVjTlJ2eEc1VUxpbGZu?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 08:43:24 GMT"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "title": "Investors Warn Bond Rout Isn’t Over After Week of Soaring Yields",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjhkdkdUYk85b1djY25EQk9aY3VBUmdlZGVpS251di03VTMzaDRvVHIzbEZBcjZSSlNvMDNXdXFNX3A0QTB6TFBXRndSdFFyNXBwMXRtRmZIcVJySzVXaEZDQ25HN0ZDOGZtbkpibUZ3UDZPUWpiVWVLMU1hVzk3X3JwQ2NxVXo3WkVWMnhqandnNUg0UjlnUUNSTkUwYjFLd3ZBeEFBel9yT2h5WVRObU0zYw?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 21:43:32 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-06",
+      "headline": "美联储调查称人工智能风险成为金融体系面临的最大威胁",
+      "summary": "美联储一项调查将人工智能风险列为金融体系面临的最大威胁；报道涉及对金融系统中人工智能相关风险及监管应对的评估。",
+      "concepts": [
+        {
+          "term": "金融稳定风险",
+          "explanation": "金融稳定风险是指可能扰乱金融中介功能、触发市场波动或影响金融机构稳健经营的风险。"
+        },
+        {
+          "term": "系统性风险",
+          "explanation": "系统性风险是可能同时影响多个机构、市场或金融功能，并通过反馈回路扩散的风险。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "人工智能风险识别可能推动金融机构加强模型、数据和业务连续性管理，增加相关合规要求。",
+        "globalEconomy": "若相关风险被纳入更广泛的金融监管框架，跨境金融机构或面临更高的一致性要求。",
+        "markets": "市场关注银行、科技企业及金融基础设施相关资产的风险溢价变化。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 21:00:12 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "共选取6条可核验新闻。部分候选仅为节目页、媒体机构主页或标题信息有限，未纳入；未对候选摘要之外的事实作额外补充。"
+}

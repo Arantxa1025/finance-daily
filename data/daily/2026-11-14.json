@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-14",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-15T15:42:58+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-14-01",
+      "headline": "美联储官员主张渐进加息，政策路径更关注通胀",
+      "summary": "路透社报道称，美联储官员柯林斯认为渐进加息是管理经济风险的最佳方式。彭博社同日报道显示，美国通胀超过预测；杰斐逊表示将依据通胀决定利率政策。",
+      "concepts": [
+        {
+          "term": "渐进加息",
+          "explanation": "分阶段调整政策利率，以评估通胀、增长和金融稳定风险。"
+        },
+        {
+          "term": "通胀目标与货币政策",
+          "explanation": "央行通常通过利率和流动性条件影响总需求与物价。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美国利率路径可能继续影响融资成本、住房需求和居民支出。",
+        "globalEconomy": "美元流动性与全球融资条件可能随之变化，资本流向和新兴市场汇率或受影响。",
+        "markets": "市场关注美联储官员表态及后续通胀数据对美元、美国国债收益率和全球权益资产定价的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 15:47:44 GMT"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "title": "Charting the Global Economy: Inflation in US Exceeds Projections",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhYS2hsVENzOW9lbGxhZHNXZGptazRlOW5IUk1MRThqUi02N3N6VklkTDVnMk9DT3lKWVNJVzBacW5zVUNEamw5TzhtTWluRVNheC1pcDZFUGVEREZHMG5aVGxXT1RQVEQ0Q1dnT3BWMHNQMkFUWWZZeTZaWkQydWtvVEctbnpnZWV0MExYa29fTEZjcFJjemNHSEpjdHM5Y2tsZkpUYkhrX0xRRU5ybTNxTDM?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 10:00:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 00:03:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-02",
+      "headline": "美国通胀高于预测，加息预期升温",
+      "summary": "彭博社报道称，美国通胀超过预测。另有媒体报道称，美银加大美联储收紧预期，预计接下来会连续三次加息。",
+      "concepts": [
+        {
+          "term": "实际利率",
+          "explanation": "名义利率扣除通胀预期后的利率，会影响储蓄、消费与资产估值。"
+        },
+        {
+          "term": "利率预期路径",
+          "explanation": "金融市场对未来政策利率的判断会提前反映在债券收益率、汇率和风险资产价格中。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若加息预期进一步强化，美国融资成本和企业利率支出可能上升。",
+        "globalEconomy": "美元利差变化可能影响国际资本流向及全球金融条件。",
+        "markets": "市场关注美元、美国国债收益率和全球股票市场对通胀和加息预期的重新定价。"
+      },
+      "sources": [
+        {
+          "publisher": "Bloomberg.com",
+          "title": "Charting the Global Economy: Inflation in US Exceeds Projections",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhYS2hsVENzOW9lbGxhZHNXZGptazRlOW5IUk1MRThqUi02N3N6VklkTDVnMk9DT3lKWVNJVzBacW5zVUNEamw5TzhtTWluRVNheC1pcDZFUGVEREZHMG5aVGxXT1RQVEQ0Q1dnT3BWMHNQMkFUWWZZeTZaWkQydWtvVEctbnpnZWV0MExYa29fTEZjcFJjemNHSEpjdHM5Y2tsZkpUYkhrX0xRRU5ybTNxTDM?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 10:00:00 GMT"
+        },
+        {
+          "publisher": "新浪网",
+          "title": "美银加大美联储收紧预期 料接下来会连续三次升息",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02cjBWYXdnRmpUX3l3bnl1T2MtTlZad1JfSGRjdUwyaUlGRE1NSzA3SjMzV3lsTnpVQk82ZzM3VWx3YlJaRU52UDk3VFk0QU0?oc=5",
+          "publishedAt": "Fri, 13 Nov 2026 19:27:47 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-03",
+      "headline": "猪肉价格创10年新低，产业链源头降幅大于终端",
+      "summary": "中华网报道称，猪肉价格创10年新低，生猪源头价格降幅接近腰斩，而终端价格降幅相对较小。另一篇同媒体报道居民感叹猪肉价格回到十多年前水平。",
+      "concepts": [
+        {
+          "term": "生猪价格传导",
+          "explanation": "养殖端价格变化经屠宰、流通和零售环节传导至终端，但各环节成本和议价能力会影响降幅。"
+        },
+        {
+          "term": "食品CPI",
+          "explanation": "居民消费价格指数中食品权重较高，猪肉价格变化可能对食品价格产生较明显影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "猪肉价格下降可能缓解部分居民食品支出压力，同时影响养殖企业收入和利润。",
+        "globalEconomy": "中国猪肉价格变化可能影响全球肉类供需预期及进口贸易。",
+        "markets": "市场关注养殖、屠宰、食品加工和零售环节的盈利分化及价格变化。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "猪肉价格创10年新低 源头近乎腰斩终端降幅小",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YWWRsYTJRbTFPazFjdEZXaXNKSllkR212TVFxYTBkZmNiRFN4Vmx1dmZtNVNHWjQyU25PeHdvSFFjYVpXV1pzc0tIUjRPY2xQRVlxNm4xUDdpdnIydFlZcS1EZHlIVFYxUFRMWnR5M1g?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 15:00:03 GMT"
+        },
+        {
+          "publisher": "中华网",
+          "title": "猪肉价格跌回十多年前了吗 市民感叹多年未见低价",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vUkxUR3M3VGhwNDJxTGVBamh3emxYX3pxak9SLXE4ck1HWVNkcGs2b0dveDlTWm1CR3hsVUt0Y3BOaHNlU2dTNXIwZUU5eGlzaVFSRzNXRzQ4MTZNTm1QX2p4c0gwVUZ5eEtiWTgxYmI?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 14:54:46 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-04",
+      "headline": "金价较年内高点跌超500元，金饰价格持续下调",
+      "summary": "中华网报道称，金价较年内最高点下跌超过500元，金饰价格持续下调。",
+      "concepts": [
+        {
+          "term": "黄金避险属性",
+          "explanation": "黄金通常被视为避险资产，其价格受实际利率、美元、风险偏好和资金流向等因素影响。"
+        },
+        {
+          "term": "金饰定价",
+          "explanation": "金饰零售价不仅包含黄金原料价格，还受到加工费、品牌溢价和渠道成本影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "金饰价格下调可能降低消费者购买成本，并影响黄金零售企业收入结构。",
+        "globalEconomy": "黄金价格变化可能反映全球利率预期、美元走势及避险资金流向。",
+        "markets": "市场关注金价调整对黄金矿业、珠宝零售和贵金属相关资产价格的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "金价较年内最高点跌超500元 金饰价格持续下调",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaGY2cUx6UXN6Z2R6Z21ocFF4c1RDb1VGQmNiVHRlOGI4X2RVQmJwaVRpa2ZrNTFUUXh6aml1YmFIYVhLN0JsUHZtZGczUkhvbF9ob09KN2pEODEtWHFEb24yRDhwblZTZ1lwZjdtcVU?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 11:56:35 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-05",
+      "headline": "比特币现货ETF连续第二周净流出10亿美元",
+      "summary": "The Block报道称，比特币现货ETF连续第二周录得10亿美元资金净流出，除一只基金外，其他加密货币基金也持续出现资金流出。",
+      "concepts": [
+        {
+          "term": "比特币ETF",
+          "explanation": "通过交易所交易基金获得比特币敞口，资金净流入或流出可反映部分机构资金配置变化。"
+        },
+        {
+          "term": "资产价格与资金流",
+          "explanation": "基金申购赎回和资金迁移会影响相关资产的边际供求，但不能单独决定价格走势。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "报道未涉及中国国内经济直接影响。",
+        "globalEconomy": "加密资产资金流出可能反映全球投资者风险偏好变化，并通过相关市场渠道产生影响。",
+        "markets": "市场关注比特币现货ETF资金流、加密基金表现及比特币价格波动。"
+      },
+      "sources": [
+        {
+          "publisher": "The Block",
+          "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd2RhQ3lIWVBkNjRaQ1ZucjBhNkItQ21qZi1NMFhuRE1Kd0FPMWhsb0F6eWVLVkpRVDZtSHJoQWdCQ0RacUNkdEJLQ1dHLVdHYzN4MkpUdU1od1FUcm8ybmdUdFEzb25BYTl0WUtJQy1oQ21nSnRybXBUbFExQmpmZDN2b3g2dTRZMjRHWE9FVlZ5UldzMVhMb0ZiWktmcjJHOElUYndGbG5XQS10dm5oLTlQQkphTEFTYUZubTVRbUpyV0pWV3VuV2ZESVpyOHdvSG9ieW5Bck9sTDFHUVhHZWY0WGJXYW9yelBHcA?oc=5",
+          "publishedAt": "Sat, 14 Nov 2026 17:50:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分页面仅有标题或摘要，核验事实有限；以上条目仅选取可由标题、摘要及多家报道相互印证的内容。"
+}

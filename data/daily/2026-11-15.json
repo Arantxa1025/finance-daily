@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-15",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-16T15:48:54+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-15-01",
+      "headline": "央行11月15日起上调外汇存款准备金率2个百分点",
+      "summary": "中国人民银行自11月15日起上调金融机构外汇存款准备金率2个百分点。",
+      "concepts": [
+        {
+          "term": "外汇存款准备金率",
+          "explanation": "金融机构须按一定比例将外币存款缴存中央银行，该比例变化会影响外币资金运用及流动性管理。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "上调外汇存款准备金率可能影响银行体系外币资金运用及外汇流动性管理。",
+        "globalEconomy": "可能促使金融机构调整跨境资金配置，并受到国际市场美元资金成本和汇率变化的影响。",
+        "markets": "市场关注人民币汇率、境内美元流动性以及银行和出口相关资产的波动。"
+      },
+      "sources": [
+        {
+          "publisher": "证券之星",
+          "title": "央行11月15日起上调外汇存款准备金率2个百分点_公司新闻_财经 - 证券之星",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43Z3VkN2dWUm9QbWtvSWREODFlalo2cGRIVERHMmhtN1VrYlZOSTBkR1Fzb25sZmp6U3U5QUlObV9mTFNtdURvMDRUVGdNX0hnZHB3Y04tYmpjWHBUQ1l2Xw?oc=5",
+          "publishedAt": "Sun, 15 Nov 2026 08:21:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-02",
+      "headline": "美联储官员称降低通胀目标仍有工作要做",
+      "summary": "堪萨斯城联储主席施密德表示，美联储在降低通胀方面仍有工作要做。候选报道未提供具体通胀数据或政策决定。",
+      "concepts": [
+        {
+          "term": "通胀目标",
+          "explanation": "央行通常将通胀维持在特定目标附近，以稳定物价预期和宏观金融条件。"
+        },
+        {
+          "term": "货币政策路径",
+          "explanation": "公开表态可能影响市场对未来利率调整节奏和金融条件松紧的预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "相关表态可能通过全球利率、汇率和资本流动影响国内融资环境。",
+        "globalEconomy": "若市场强化对通胀仍高于目标的判断，全球利率预期可能上行，美元资产估值承压。",
+        "markets": "市场关注美国国债收益率、美元指数以及全球成长资产的估值波动。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2g2VXJDaFI2Q0NVa0xEUFZSSWFDbE1pRE1fajNpUldOYXlXSGtySFdzWGxKbldPYkRPdzVmWW1LaHlBMWdqN2JRdmw2THVGYWFWcmtQTXRlMFAycThoLXRzcWZweTNDYi1xYzVpWnRxMkxJdmlNR0Y1ZlVuWno4TmFlR0JrT1FrUWFzNWVhQTFFMkxrM3dkRnQ3c0FvUWxUc0E?oc=5",
+          "publishedAt": "Sun, 15 Nov 2026 18:58:22 GMT"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "title": "Schmid Says Fed Has More Work To Do to Bring Down Inflation - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlRIUFR3TDJ6U21FdjlsZlNxZHBNQXJUaUpRZjNjNld2bUZianpsUEExS0NVQWVmN0RwVGY0VndQQk5oVGhHZ3pzcV9IMmJrS05tVzBrMWZ6WTV3X0JGWFR3NXJvLUMtTzZVNlRieXBENWhTX3k0S0JpeWRicVFaSmpiVjBBdWwwNkxrRV9ZLXFZNnNlS1A5LTA3VzYwWHRCRV9XSkdZYXAzWE9vYVM0?oc=5",
+          "publishedAt": "Sun, 15 Nov 2026 18:40:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-03",
+      "headline": "内地股市下跌，创业板指数跌逾4%",
+      "summary": "香港电台报道，内地股市下跌，创业板指数跌幅超过4%。候选信息未提供其余主要指数的具体收盘点位及涨跌幅。",
+      "concepts": [
+        {
+          "term": "创业板指数",
+          "explanation": "由创业板代表性证券构成的指数，通常用于反映该板块上市公司的整体表现。"
+        },
+        {
+          "term": "市场波动",
+          "explanation": "指数短期急跌反映风险偏好和板块估值预期的快速变化，但原因需结合更多市场信息判断。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "股市下跌可能影响投资者情绪及居民资产表现，但单一交易日指数变化不足以判断经济趋势。",
+        "globalEconomy": "可能受到全球科技股波动、跨境资金流向和风险偏好变化影响。",
+        "markets": "市场关注创业板相关行业、成交规模以及后续政策与盈利信息对风险偏好的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "香港電台",
+          "title": "内地股市下跌 创业板指数跌逾4% - 香港電台",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOXFMNDRqWHNzLXIwSE04OWtabGlUVkRFdTJqWm14N05QSG1mRkk0cmtUYVJadjZSMjE3bDR1QkpuQU5ieGVmb2cwN1VRYWFncWk0WjNXbTNsazVsc1A0TEwwRmhNM0tpbmNzQ3pxVVJEaE5jNjdYMFZvaVYwcDNsN2FMLU9QTFFUVTctWVNTMWlPcTdnQmt3bmM5c05BcE5XU0JR?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 07:23:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-04",
+      "headline": "中国产出增长5.3%，报道提及智能制造",
+      "summary": "香港电台报道称中国产出增长5.3%，并将智能制造列为相关因素。候选信息未注明具体统计口径、比较期及细分行业数据。",
+      "concepts": [
+        {
+          "term": "智能制造",
+          "explanation": "利用自动化、数字化和人工智能等技术提升生产效率及制造系统协同能力。"
+        },
+        {
+          "term": "产出增长",
+          "explanation": "产出指标反映生产活动规模，其同比变化可作为观察工业活动和增长动能的一个方面。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "产出增长可能反映部分生产活动的扩张，智能制造或对产业结构升级和生产效率产生影响。",
+        "globalEconomy": "制造能力提升可能增强产业链竞争力，但全球需求和贸易环境仍会影响外需。",
+        "markets": "市场关注工业、自动化、设备制造及智能制造相关行业的订单和盈利预期。"
+      },
+      "sources": [
+        {
+          "publisher": "香港電台",
+          "title": "Chinese output up 5.3pc on intelligent manufacturing - 香港電台",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMTktb2JFTDVHTlRpSldOVjk3cGxGekdmOFBrU3FmRjg5MWw5cUY3cnBaUmw4d0M1UTF4VVdpcEtqX1RmT05ZVmstMnU3UmFkanBkVDk4cDl1WnF4SkN3aWZBazlNTjBXOHk5dWs3UXh3c2FtRjI4eXpTR1RNclktTmk1cUUzNTRDY0drSkl2Vk5kVUY3YUNabXA4YTVoM3lxUTJB?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 04:02:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-05",
+      "headline": "3D打印相关产品出口数据引发关注",
+      "summary": "中华网报道标题称，国产3D打印产品出口增长116.6%。候选信息未提供统计机构、时间区间、样本范围及计算方法。",
+      "concepts": [
+        {
+          "term": "3D打印",
+          "explanation": "又称增材制造，是按数字模型逐层制造实体部件的制造方式。"
+        },
+        {
+          "term": "出口增长",
+          "explanation": "出口金额或数量的同比变化可反映特定产品海外需求，但需结合价格、基数和统计口径判断。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "相关出口增长可能反映部分高端制造产品的海外需求与产业竞争力。",
+        "globalEconomy": "中国制造品在海外市场的需求变化，可能对全球相关供应链产生一定影响。",
+        "markets": "市场关注3D打印设备、材料、工业软件及制造产业链相关企业的订单与业务拓展。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网",
+          "title": "出口暴涨116.6%！国产新顶流爆单 3D打印引领全球制造新浪潮 - 中华网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwVU1RVVpmVElLRF9fWlY2ZFFENU96RU1fWVc4OUZaN0ZVSHNqSFpHYzRobklTOEtlUEdBVXkybC1KcEpsMU0xRllNMm1zN3FXWE5lb2V0MHJyUDd6TG5fZFJxZnFDQXlHVGVLWXlIYXU?oc=5",
+          "publishedAt": "Sun, 15 Nov 2026 14:40:01 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-06",
+      "headline": "中东冲突消息令亚洲股市承压",
+      "summary": "CNBC报道称，反胡塞力量在也门撤退，同时伊朗袭击巴林一处美国基地。路透社报道，亚洲股市在英伟达财报前下跌，Anthropic首次公开发行受到关注。",
+      "concepts": [
+        {
+          "term": "地缘政治风险",
+          "explanation": "冲突及制裁等事件可能影响能源运输、航运安全、通胀预期和全球风险偏好。"
+        },
+        {
+          "term": "避险与风险偏好",
+          "explanation": "市场面对重大不确定性时，资金可能在防御性资产与高风险资产之间重新配置。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "外部冲突可能通过能源价格、航运成本和跨境资本流动影响国内经济预期。",
+        "globalEconomy": "冲突升级或扩大可能扰乱能源与航运，并提高全球通胀和政策不确定性。",
+        "markets": "市场关注原油、黄金、避险货币的波动，以及亚洲股市和人工智能相关资产的承压情况。"
+      },
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1Vjb3BmOFROS281RURvRlRMTHZJVW0xRHMwZHpkSHRpamtsM0Fmd1cxZVZsSVk5UXdlRWJKeVpRcjFSMmJOYXpaVGxWUTBfdWc1eHpxdUpoeG1mVjItcmdxWmFaZDdKYWRZNWZkcHpOOTNpc0lwT0ZzYVNjT1JqU2tSNlrSAYoBQVVfeXFMTS11NU1oNVBmZFo0Mzd5eXBSVFNtU0dSUVBOSV9vWVozZ25FM0c1a0tlTWt3cmlEZDE2d2RYNzhVRE9xd0l1WEFOMElNRWlfNXFNMzQ5MnJYLXVUcWYwMkxmYmttMmFWN2RvWFNuTFlUSzN4d1BsdmtjUmo3bWFvY0RZOHR6QUt4VS13?oc=5",
+          "publishedAt": "Sun, 15 Nov 2026 10:00:42 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 01:35:00 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中可核验的资讯标题、发布时间和链接均按原列表收录。部分报道仅提供标题或摘要，涉及产出、出口、股市跌幅和地缘冲突的具体数据口径不完整；相关影响仅为基于公开信息的合理推断。生成时间按期次日期设定。"
+}

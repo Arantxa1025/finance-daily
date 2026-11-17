@@ -1,0 +1,184 @@
+{
+  "date": "2026-11-16",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-17T16:57:17+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-16-01",
+      "headline": "美联储主席沃什称AI将产生显著影响，同时提示潜在风险",
+      "summary": "路透社报道称，美联储主席沃什表示，新兴技术将对经济产生显著影响，但也存在风险。报道发布于2026年11月16日。",
+      "concepts": [
+        {
+          "term": "货币政策与人工智能",
+          "explanation": "AI投资可能影响生产率、资本开支和通胀预期，央行因此需要评估其对增长与利率路径的影响。"
+        },
+        {
+          "term": "金融市场风险",
+          "explanation": "当市场对技术应用前景或估值预期发生变化时，相关资产价格可能出现较大波动。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "AI应用可能影响投资、就业和生产率，但其对宏观经济的影响仍存在不确定性。",
+        "globalEconomy": "主要经济体的AI资本开支和监管政策可能影响全球增长预期及产业链需求。",
+        "markets": "市场关注AI相关资产估值、通胀风险以及央行政策立场变化。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 20:57:43 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-02",
+      "headline": "美联储官员哈马克支持缓慢、渐进加息",
+      "summary": "路透社援引彭博电视报道称，美联储官员哈马克重申应采取缓慢、渐进的加息路径。相关报道发布于2026年11月16日。",
+      "concepts": [
+        {
+          "term": "渐进式加息",
+          "explanation": "以较小幅度逐步调整政策利率，通常用于在抑制通胀与避免经济剧烈波动之间寻求平衡。"
+        },
+        {
+          "term": "利率与资产价格",
+          "explanation": "政策利率路径会影响融资成本、债券收益率、汇率及股票估值。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "渐进加息意味着货币政策可能继续保持偏紧取向，企业融资成本和住房融资压力或受到影响。",
+        "globalEconomy": "美联储政策立场可能通过美元、全球资金成本和资本流动影响其他经济体。",
+        "markets": "市场关注美国国债收益率、美元及全球风险资产对利率预期的重新定价。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9kal9uc0hmSGMySFhuVE1BbTd3dkV1SkdjbEx3U2NuZFdoMFI1TThKSHVnLUNGTVNOOVpRM3VVUnBZdkxISEhKdVloQzBxUGlEcm15ZkQyUGZjWW5IbVhhZVNKWnBleE1PZzAyNUtmQUVrWHZ1R2YwU1FSZWVjczdVWXcwX3Z4VWhsVXZwUE1EaWMtZ3I0d1I2WlVOdm5rdGdZMFl4VVJENHRaSUE?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 20:16:40 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-03",
+      "headline": "华尔街在AI担忧与重要事件前收低，油价下跌",
+      "summary": "路透社报道，美股在英伟达业绩和Anthropic首次公开发行等重要事件前收低；报道同时称油价下跌。相关报道发布于2026年11月16日。",
+      "concepts": [
+        {
+          "term": "事件驱动型波动",
+          "explanation": "重大财报或上市事件可能引发资金重新评估增长预期、估值和风险溢价。"
+        },
+        {
+          "term": "油价与通胀",
+          "explanation": "原油价格变化会影响能源成本、运输成本及通胀预期，并可能改变货币政策预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球资产价格调整可能通过财富效应、金融条件和成本变化影响美国经济预期。",
+        "globalEconomy": "科技企业融资和上市活动对全球科技投资情绪具有观察意义，油价变化则可能影响主要经济体通胀。",
+        "markets": "市场关注英伟达业绩、Anthropic上市进展、油价及AI相关资产波动。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 01:35:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 23:45:50 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-04",
+      "headline": "美债收益率升破5%，信贷市场仍保持平稳",
+      "summary": "宾夕法尼亚 Mutual资产管理公司发布的市场观察称，在收益率升破5%的背景下，信贷市场仍保持平稳。报道发布于2026年11月16日。",
+      "concepts": [
+        {
+          "term": "无风险利率",
+          "explanation": "国债收益率是衡量资金成本和资产估值的重要基准利率，影响债券、股票和房地产等资产。"
+        },
+        {
+          "term": "信贷市场",
+          "explanation": "信贷市场可通过企业融资成本、银行放贷标准和违约预期反映金融条件变化。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "较高的利率基准可能继续影响企业融资、住房贷款和整体金融条件。",
+        "globalEconomy": "美债收益率变化可能通过全球资金成本、美元和跨境资本流动向其他经济体传导。",
+        "markets": "市场关注收益率继续上行时债券价格、信用利差及高估值资产可能承受的压力。"
+      },
+      "sources": [
+        {
+          "publisher": "Penn Mutual Asset Management",
+          "title": "Credit Stays Calm as Yields Climb Above 5%",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMEFxR0VYUlNRQWN4MXprWXg1cGdER2d4czBSVkp2UXc5ampIVmRKVkFpWVJWMnMtZWhYeWI1blpHZTNrZE5fUkZ4NVZzV1lWblZPUzJSYjJGNEhMdWlpWHdLQ0x5QWZLVWxDbEdjdkZrRTFtRjNuNC1NVWh2czlRV3ZVeFlFa1NMcXlSRlVYZUtqWi1kbVBEYUs3VVhlSkNLYW1wTW9uSHF2cDZRY2tnNnhnSzlBVU9Pcm93UGtiSDIxSTR0NFAzcWVfTQ?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 16:14:14 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-05",
+      "headline": "金价跌至一年低点，美元与美债收益率构成压力",
+      "summary": "路透社报道称，受美债收益率和美元影响，金价跌至一年低点，并可能录得自2015年以来最差年度表现。相关报道发布于2026年11月16日。",
+      "concepts": [
+        {
+          "term": "黄金与实际利率",
+          "explanation": "黄金通常不产生利息，其机会成本与实际利率变化相关，美元走强也可能压制以美元计价的黄金。"
+        },
+        {
+          "term": "避险资产",
+          "explanation": "黄金常被视为避险资产，但其价格仍会受到利率、美元、流动性和市场预期等宏观因素影响。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "美元及美债收益率变化可能通过金融条件、进口成本和通胀预期影响美国经济。",
+        "globalEconomy": "主要资产定价基准变化可能影响新兴市场融资成本、资本流动和汇率波动。",
+        "markets": "市场关注黄金、美元、美债收益率及商品市场之间的联动变化。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkNEMWt0MEpVV2U4c0tCZEQ0N3FJRnBMWEFJRktVNVpBNGZ4RWFjVXA0TnR0VE8yam5OenZaaF9KWVhuc3RCQkZXWGlwb0pPRElEM0JoU0Rsb3BpX2ZTUjBLUG52SUM1V2RkcHRKLVdLR1ZmeXFISlplcTRQU0xJMzZHcFBFbUZPVWtYeGpqbWxKU1gtQjMxZXBMZU5rdldKOTRaWXpNSkZqd3MwajRHUzVvSVI2QTBOb1dJMGc3U3VzdTFP?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 18:03:06 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-06",
+      "headline": "百度第三季度营收308亿元，AI业务收入占比连续三季度过半",
+      "summary": "中华网财经报道，百度第三季度总营收为308亿元，AI业务收入占比连续三个季度超过一半。相关报道发布于2026年11月16日。",
+      "concepts": [
+        {
+          "term": "收入结构转型",
+          "explanation": "当高增长业务占总收入比例持续上升时，企业整体增长驱动和盈利质量可能发生变化。"
+        },
+        {
+          "term": "AI商业化",
+          "explanation": "AI商业化通常通过云服务、企业解决方案、智能硬件和相关软件产品实现收入增长。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "国内企业AI应用和云服务需求的增长，可能带动数字化投资及算力相关产业发展。",
+        "globalEconomy": "中国企业AI收入扩张可能影响全球人工智能产业链竞争及企业技术采用趋势。",
+        "markets": "市场关注科技企业AI收入结构、盈利能力、资本开支和估值变化。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网财经",
+          "title": "百度Q3财报：总营收308亿元，AI业务收入占比连续三季过半",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoVlBWVl8zdjR4XzdJclVsTDNpVFhaY3V1REx1azl0TEMyQTJobDdYbnZjYXdKRmlZM0tJMjBYdzI1c1Z3WmxLdmt1d25INk1mWmtsTmVkVjlRZjgyckw0UEplT2FlNnhPUjU3X1RB?oc=5",
+          "publishedAt": "Mon, 16 Nov 2026 09:45:59 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分条目仅为节目或机构名称，缺少可核验的正文事实，未纳入；本版共收录6条可核验条目。"
+}

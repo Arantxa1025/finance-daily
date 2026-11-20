@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-20T16:16:57+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-19-01",
+      "headline": "摩根大预计美联储未来三次会议可能加息",
+      "summary": "路透社报道，摩根大在通胀持续的情况下预计美联储将在未来三次会议上加息。报道未提供具体加息幅度及政策决定，相关判断属于机构预测。",
+      "concepts": [
+        {
+          "term": "货币政策预期",
+          "explanation": "市场对未来政策利率路径的判断会影响债券收益率、美元、融资成本及资产估值。"
+        },
+        {
+          "term": "通胀与利率",
+          "explanation": "当价格压力持续时，央行可能通过调整政策利率影响信贷条件和总需求。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "若美国加息预期进一步强化，美国融资成本和金融条件可能受到上行压力，并可能通过全球资金流向影响新兴市场。",
+        "globalEconomy": "主要央行加息预期可能带动全球利率预期和美元走势变化，资本流动及跨境融资环境或受到关注。",
+        "markets": "美国国债收益率、美元及全球股票和债券市场可能重新定价利率路径。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 18:53:15 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-02",
+      "headline": "欧洲央行执委科赫尔表示可能需要进一步加息",
+      "summary": "手机新浪网报道，欧洲央行执委施泰恩·科赫尔表示，欧洲央行可能需要进一步加息。候选来源未提供政策背景及具体加息安排。",
+      "concepts": [
+        {
+          "term": "欧洲央行政策",
+          "explanation": "欧洲央行通过政策利率和流动性条件影响欧元区融资环境、物价及经济增长。"
+        },
+        {
+          "term": "汇率与跨境资本流动",
+          "explanation": "主要央行利率预期变化可能影响欧元、美元及跨境资本配置。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "相关表态可能影响欧元区融资成本、信贷条件和居民及企业支出预期。",
+        "globalEconomy": "若欧洲利率进一步上行预期增强，欧元及全球资金流向可能随之调整。",
+        "markets": "欧元区国债收益率、欧元以及欧洲股市的市场关注点可能转向进一步收紧的可能性。"
+      },
+      "sources": [
+        {
+          "publisher": "手机新浪网",
+          "title": "欧洲央行执委施泰恩·科赫尔表示，可能需要进一步加息。",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuTnpRSWRGSzJST1FWamtLOGxlc3QtN3BpZjA3OU5hUm9jUklReWg0N29BdVkwNURobk5YTXJQRE5GbDRZUXRVdnlBQjVuV1U?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 09:00:53 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-03",
+      "headline": "黄金触及14个月低点，强美元与利率押注形成压力",
+      "summary": "路透社报道，黄金跌至14个月低点，美元走强和利率押注构成市场压力。同期候选来源还显示，全球央行9月公开净购金量达到61吨，创2026年迄今单月最高纪录。",
+      "concepts": [
+        {
+          "term": "黄金的双重属性",
+          "explanation": "黄金既被视为避险资产，也受到美元、实际利率和资金成本等因素影响。"
+        },
+        {
+          "term": "央行购金",
+          "explanation": "央行净购金体现官方部门对黄金储备需求的变化，但并不等同于短期价格必然上涨。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "黄金价格波动可能影响国内黄金开采、加工、零售及投资相关行业表现。",
+        "globalEconomy": "美元与主要央行利率预期变化可能继续影响官方储备配置和黄金供需判断。",
+        "markets": "黄金价格、美元、美国国债实际收益率及相关大宗商品市场可能继续受到关注。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Gold hits 14-month low as strong dollar, rate bets weigh",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 06:53:00 GMT"
+        },
+        {
+          "publisher": "证券之星",
+          "title": "世界黄金协会：9月全球央行公开净购金量达61吨创2026年迄今单月最高纪录_滚动新闻_财经 - 证券之星",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWYjFaY0kwa0Flc1pFZk80RFQ3alJ2dHI4UHBvdHhOVFItQ2l6Y0pTMXp1dURyT2FsSGc5ZTJFT3RpdEJFWm91RWZKZExqSDdMZXJQRVIxc3NRUDRheVNHcw?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 11:19:08 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-04",
+      "headline": "四大证券报发文提示勿让“小作文”扰乱资本市场",
+      "summary": "中华网财经报道，四大证券报联合发文，提醒不要让未经核实的“小作文”消息扰乱资本市场。候选信息未披露相关报道的完整评论内容。",
+      "concepts": [
+        {
+          "term": "信息噪声",
+          "explanation": "未经核实的信息在快速传播中可能放大价格波动，干扰市场参与者形成独立判断。"
+        },
+        {
+          "term": "信息披露",
+          "explanation": "规范、透明和可核验的信息披露有助于提升市场定价效率和投资者保护。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "市场信息秩序得到重视，可能有助于降低谣言传播对交易和投资者预期的干扰。",
+        "globalEconomy": "该事件主要涉及中国资本市场信息生态，对全球宏观经济的直接影响可能有限。",
+        "markets": "相关个股及题材板块的异常波动和消息敏感度可能受到市场关注。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网财经",
+          "title": "四大证券报齐发文：勿让“小作文”扰乱资本市场 - 中华网财经",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IWmxzSmdQWlFKSDJsZl8yU2Z6bFNYelkzNkZMYnh1QXBRZThNaGw0WHAwNVFFWUVYRFROMnJ6RUY0ZWo5YUVjRGtUdjhoanNoMlV0MlpGcUNVd2FfSlF0QmQtbmNJSlY3Wi1Sd2NWOTFVaEU?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 02:44:44 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-05",
+      "headline": "Anthropic美国上市首日未提振美股，Wall Street大幅收低",
+      "summary": "路透社报道，Anthropic上市首日未能带动市场人工智能热潮，Wall Street大幅收低。另一则路透社报道将其上市视为对人工智能行情信心的一次检验。",
+      "concepts": [
+        {
+          "term": "首次公开募股",
+          "explanation": "首次公开募股通过发行股票为企业融资，其定价和上市后的表现可能影响相关行业估值预期。"
+        },
+        {
+          "term": "人工智能产业资本化",
+          "explanation": "头部人工智能企业的公开市场表现可能成为观察商业化预期和行业估值的重要信号。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "人工智能企业估值与融资预期可能受到海外市场风险偏好变化的间接影响。",
+        "globalEconomy": "头部人工智能企业上市表现可能影响全球科技产业融资预期和风险偏好。",
+        "markets": "美国科技股、人工智能概念板块及整体风险资产的市场关注度可能上升。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 09:03:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 11:08:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-06",
+      "headline": "拼多多发布第三季度财报并提出“千亿扶持”",
+      "summary": "中华网财经报道，拼多多发布第三季度财报，并称“千亿扶持”正在加快产业数智化转型，同时持续升级平台治理体系。候选来源未披露财报具体财务数据及政策执行口径。",
+      "concepts": [
+        {
+          "term": "平台经济",
+          "explanation": "平台经济通过撮合交易、信息服务和基础设施连接供需双方，经营表现与商家生态及消费需求密切相关。"
+        },
+        {
+          "term": "产业数智化",
+          "explanation": "产业数智化指利用数字技术改造生产经营和供应链流程，可能影响效率、成本及组织方式。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "平台扶持和产业数智化举措可能影响电商生态、商家经营及相关数字产业发展。",
+        "globalEconomy": "中国平台企业的经营和治理动态可能受到海外资本市场及产业链参与者关注。",
+        "markets": "公司治理、平台投入强度、消费及电商产业链可能成为后续关注重点。"
+      },
+      "sources": [
+        {
+          "publisher": "中华网财经",
+          "title": "拼多多发布Q3财报，“千亿扶持”加快产业数智化转型，持续升级平台治理体系 - 中华网财经",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xOVZGaHFzUVpZQWwtQ0tJNUJNSVhENE00amoxODhHeDBvM1FBWk5nNm04UUljSFFYemJyaW9kT1hCMFRFUnRXWjF6c3NXQk1XWE1aczdxLUVQbS1XR3pZeTJSSEE1aUF4eV9teXpn?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 11:53:20 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选列表部分条目仅提供标题或简短摘要，无法核验全文中的详细数据，因此未纳入；以上条目均按候选来源可确认的信息整理。"
+}

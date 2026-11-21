@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-20",
+  "timezone": "Asia/Shanghai",
+  "title": "财经日报",
+  "generatedAt": "2026-11-21T16:08:51+08:00",
+  "disclaimer": "本页解读基于公开报道整理，不构成投资建议。知识点为一般性经济学说明；影响分析属基于公开信息的合理推断，可能与实际走势不符。",
+  "items": [
+    {
+      "id": "2026-11-20-01",
+      "headline": "11月LPR报价保持不变",
+      "summary": "据新浪财经报道，11月贷款市场报价利率（LPR）出炉，1年期、5年期以上LPR均维持不变。",
+      "concepts": [
+        {
+          "term": "贷款市场报价利率（LPR）",
+          "explanation": "LPR是银行贷款定价的重要参考，其变化通常会影响企业融资成本、居民按揭利率及货币政策预期。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "贷款定价基准保持稳定，可能有助于维持融资环境预期平稳，市场关注后续信贷需求和政策传导效果。",
+        "globalEconomy": "",
+        "markets": "LPR不变可能影响银行、地产及利率敏感型资产的市场预期。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "半两财经｜11月LPR报价出炉：1年期、5年期以上均维持不变",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xdVZOVmh2YjN3WFlHejJNcWRCaUhaSnZVcE52bC1kZE9kRXY0dFNpQkgzS0lSaF9fTnRlSTlsbENJd1dzSGItZnhLUWtVcHBTdGZuMEZzSEZRSWlHVlYtZVMyWGdxd255QVBNeWtoUlZIdGxKXzlQMA?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 03:40:22 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-02",
+      "headline": "日本10月CPI创11个月新高",
+      "summary": "据新浪财经报道，日本10月CPI创11个月新高；报道援引凯投宏观预测，日本央行可能在明年年中将利率上调至2.5%。",
+      "concepts": [
+        {
+          "term": "消费者价格指数（CPI）",
+          "explanation": "CPI衡量居民消费价格变动，是观察通胀压力和货币政策空间的重要指标。"
+        },
+        {
+          "term": "货币政策正常化",
+          "explanation": "当通胀持续偏高时，央行可能通过加息收紧金融条件，以抑制需求并稳定物价。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "",
+        "globalEconomy": "日本通胀上行可能影响日本央行的利率路径预期，并对日元、日债收益率及全球资金流向产生外溢影响。",
+        "markets": "市场可能关注日本利率正常化预期对日元、日债和套息交易的影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "日本10月CPI创11个月新高，凯投宏观预计日本央行明年年中将利率上调至2.5%",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTh3aGpGSUdPQU5XSGlRbVgzYnBxTU92R3B4dEdRcV9fQkhuY1ZRQ3lNOUgwbDlRUFhaZEF4Q1U2ZkZ6dEFfV1lKcmRUWC1ESlZybW1zREh5N1BBaGZwX1Y0bEt2TDZKREU3dHktT3RXLVlDRnQxMVR0TUFOMjNRdW9uZVZlT2c?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 07:24:55 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-03",
+      "headline": "美联储官员称需要加息以压低高通胀",
+      "summary": "据路透社报道，美联储理事库克表示，需要通过加息降低高通胀。报道还提到，通胀持续之下，摩根大通预计美联储在接下来三次会议加息。",
+      "concepts": [
+        {
+          "term": "加息",
+          "explanation": "央行提高政策利率通常会收紧金融条件，可能抑制信贷需求、消费和投资，同时提高部分融资成本。"
+        },
+        {
+          "term": "通胀预期",
+          "explanation": "通胀预期会影响企业定价、居民消费和资产定价，央行通常关注其是否稳定以及是否与政策目标一致。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "",
+        "globalEconomy": "美联储加息预期可能抬高全球美元融资成本，并通过汇率、资本流动和商品价格影响其他经济体。",
+        "markets": "美元、美债收益率和全球风险资产可能对美联储政策预期作出反应。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Fed's Cook says rate hikes needed to lower high inflation",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 17:19:43 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
+          "publishedAt": "Thu, 19 Nov 2026 18:53:15 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-04",
+      "headline": "全球科技股抛售延续，美股主要指数收低",
+      "summary": "据路透社报道，美股因人工智能相关股票抛售而显著收低，标普500指数和道琼斯指数进入修正区间；其他报道显示，全球股市跌势蔓延，科技股领跌，美债收益率下行。",
+      "concepts": [
+        {
+          "term": "市场修正",
+          "explanation": "市场修正是指资产价格从近期高点回撤一定幅度的状态，通常反映风险偏好下降或对增长、流动性等基本因素的重新定价。"
+        },
+        {
+          "term": "避险资产",
+          "explanation": "避险资产通常被视为在风险厌恶上升时相对受益的资产，其需求变化可能带动国债收益率和美元走势分化。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "全球风险偏好下降可能通过出口订单、跨境资本流动和风险定价传导至中国经济与金融市场。",
+        "globalEconomy": "科技股下跌与避险资产需求上升可能反映市场对增长、估值和流动性的担忧。",
+        "markets": "全球股票波动可能向亚太市场传导；美债收益率下行，美元走势则受到政策预期和避险需求共同影响。"
+      },
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 10:37:00 GMT"
+        },
+        {
+          "publisher": "Reuters",
+          "title": "Tech leads global stocks rout, Treasury yields fall",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTBuejlwS3Nua0szT1dTbnYtSElZYjI2RUg0NnRsVHNlOW1SMTBlUFIxdmtVcnB2TFd0N19aU1RlbzVWREhqYnZmWF9HRG5odm55UUxLMnJzckZpWjh6UHdrZGtZNlBIMVh3cU1QcUNIQlZRNXJMTW54TjdkaVdGbE9yVQ?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 01:46:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-05",
+      "headline": "A股午盘低走，超过4800只个股下跌",
+      "summary": "据新浪财经报道，A股三大指数午盘低开低走，超过4800只个股下跌，贵金属板块领跌。",
+      "concepts": [
+        {
+          "term": "市场宽度",
+          "explanation": "市场宽度通过上涨与下跌股票数量等指标观察行情参与度，可用于判断指数表现背后的个股普遍性强弱。"
+        },
+        {
+          "term": "贵金属",
+          "explanation": "黄金等贵金属通常受美元、美国实际利率、避险需求和供需预期共同影响，价格波动可能反映多重宏观因素变化。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "",
+        "globalEconomy": "",
+        "markets": "A股个股普跌显示当日市场风险偏好较弱，贵金属板块领跌可能受到国际金价回落及利率预期变化影响。"
+      },
+      "sources": [
+        {
+          "publisher": "新浪财经",
+          "title": "股市午报：A股三大指数低开低走，超4800只个股飘绿，贵金属领跌",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMUTlxVmxQMGdGUUhnV2dFVzBManBzbXdHNC1RT2hUdDQ0enFMR3V6cUlqeUlST1hmLWxHaTBtRWZ6d2VaRkRoNGx6SlNSYWlUaTNXb2R2by14bzd1VjRCdnNVSGtmaXAwVWo1Z25abEl4bmROSnhCMg?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 04:15:24 GMT"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-06",
+      "headline": "央行公布10月金融市场运行数据",
+      "summary": "据证券之星报道，央行发布2026年10月金融市场运行情况；其中，10月同业拆借日均成交3365.1亿元，同比减少10.8%。",
+      "concepts": [
+        {
+          "term": "同业拆借",
+          "explanation": "同业拆借是金融机构之间的短期资金交易，其成交量可反映银行间体系短期资金需求和交易活跃度。"
+        },
+        {
+          "term": "银行间市场",
+          "explanation": "银行间市场连接金融机构并承担短期资金融通功能，成交变化可能影响市场流动性预期与资金价格。"
+        }
+      ],
+      "impacts": {
+        "domesticEconomy": "同业拆借日均成交量同比减少，可能反映银行间短期资金交易活跃度变化，仍需结合其他流动性指标判断资金面。",
+        "globalEconomy": "",
+        "markets": "银行间资金供需变化可能影响短端利率、债券收益率及金融板块预期。"
+      },
+      "sources": [
+        {
+          "publisher": "证券之星",
+          "title": "央行发布2026年10月金融市场运行情况",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3YzNHdVI3b0NscGJIcXZlUGxsLWxhOXpQbnIwWGlLMzZyWWI4SUhxYXNldmNER2RPcmh4UHFHSzdhTEp5b2RncnBOOXNYMWI4VmZZUXFIZERyUmplcktkaw?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 10:43:00 GMT"
+        },
+        {
+          "publisher": "证券之星",
+          "title": "央行：10月同业拆借日均成交3365.1亿元，同比减少10.8%",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PQ2thNDlyQ3lVZ1BmRFpNUGJHT19xVjdYb2VOYml4bHZWZ3lzVUFsaURkRFNkV2MzdnZSVXJYZDNmSWpGVmlWbU80SHVxZkRvVzVJOFV1cmFOVnFtR1BmZmVR?oc=5",
+          "publishedAt": "Fri, 20 Nov 2026 10:09:41 GMT"
+        }
+      ]
+    }
+  ],
+  "notes": "候选来源中部分条目仅为标题或内容摘要不完整；本期选取了6条可从候选标题与摘要直接核验的公开报道，个股、行业及宏观影响均仅作一般性说明。"
+}
